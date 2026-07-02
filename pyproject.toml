@@ -1,0 +1,18 @@
+[project]
+name = "securities-list"
+version = "0.1.0"
+description = "Taiwan securities list fetchers and generated API artifacts"
+readme = "README.md"
+authors = [
+    { name = "J. Dragon", email = "j.dragon@chivincent.net" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+download-twse-isin = "securities_list.download_raw:main"
+convert-raw-json = "securities_list.parse_raw:main"
+
+[build-system]
+requires = ["uv_build>=0.11.26,<0.12.0"]
+build-backend = "uv_build"
