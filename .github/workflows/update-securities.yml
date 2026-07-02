@@ -1,7 +1,6 @@
 name: Update Securities List
 
 on:
-  push:
   schedule:
     # 05:00 Asia/Taipei is 21:00 UTC on the previous day.
     - cron: "0 21 * * *"
@@ -16,10 +15,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v8.2.0
 
       - name: Install Python
         run: uv python install
