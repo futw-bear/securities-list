@@ -216,3 +216,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"{args.full_output} ({len(records)} records)")
     print(f"{args.compact_output} ({len(compact)} records)")
     return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

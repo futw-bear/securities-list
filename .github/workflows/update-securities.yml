@@ -1,0 +1,55 @@
+name: Update Securities List
+
+on:
+  push:
+  schedule:
+    # 05:00 Asia/Taipei is 21:00 UTC on the previous day.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install Python
+        run: uv python install
+
+      - name: Download raw securities data
+        run: uv run python src/securities_list/download_raw.py --output-dir data/raw
+
+      - name: Check raw data changes
+        id: raw_changes
+        run: |
+          if [ -z "$(git status --porcelain -- data/raw)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Parse securities data
+        if: steps.raw_changes.outputs.changed == 'true'
+        run: |
+          uv run python src/securities_list/parse_raw.py \
+            --raw-dir data/raw \
+            --compact-output data/parsed/securities.json \
+            --full-output data/parsed/securities-full.json
+
+      - name: Commit and push changes
+        if: steps.raw_changes.outputs.changed == 'true'
+        run: |
+          DATE="$(TZ=Asia/Taipei date +%Y-%m-%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw data/parsed
+          git commit -m "Update Security List: ${DATE}"
+          git push
