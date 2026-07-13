@@ -1,0 +1,36 @@
+[
+  {
+    "str_mode": 9,
+    "category": null,
+    "code": "AU9901",
+    "name": "臺銀金",
+    "raw_fields": {
+      "有價證券代號及名稱": "AU9901　臺銀金",
+      "國際證券辨識號碼(ISIN Code)": "TW000AU99015",
+      "掛牌日": "2015/01/05",
+      "CFICode": "MMMXXX",
+      "備註": ""
+    },
+    "isin_code": "TW000AU99015",
+    "listing_date": "2015/01/05",
+    "cfi_code": "MMMXXX",
+    "remarks": null
+  },
+  {
+    "str_mode": 9,
+    "category": null,
+    "code": "AU9902",
+    "name": "一銀金",
+    "raw_fields": {
+      "有價證券代號及名稱": "AU9902　一銀金",
+      "國際證券辨識號碼(ISIN Code)": "TW000AU99023",
+      "掛牌日": "2015/01/05",
+      "CFICode": "MMMXXX",
+      "備註": ""
+    },
+    "isin_code": "TW000AU99023",
+    "listing_date": "2015/01/05",
+    "cfi_code": "MMMXXX",
+    "remarks": null
+  }
+]

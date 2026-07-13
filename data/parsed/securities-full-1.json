@@ -1,0 +1,5569 @@
+[
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1111",
+    "name": "欣欣水泥",
+    "raw_fields": {
+      "有價證券代號及名稱": "1111　欣欣水泥",
+      "國際證券辨識號碼(ISIN Code)": "TW0001111003",
+      "公開發行日": "1982/11/24",
+      "產業別": "水泥工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001111003",
+    "public_offering_date": "1982/11/24",
+    "industry": "水泥工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1237",
+    "name": "台糖公司",
+    "raw_fields": {
+      "有價證券代號及名稱": "1237　台糖公司",
+      "國際證券辨識號碼(ISIN Code)": "TW0001237006",
+      "公開發行日": "1950/09/01",
+      "產業別": "食品工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001237006",
+    "public_offering_date": "1950/09/01",
+    "industry": "食品工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1242",
+    "name": "新東陽",
+    "raw_fields": {
+      "有價證券代號及名稱": "1242　新東陽",
+      "國際證券辨識號碼(ISIN Code)": "TW0001242006",
+      "公開發行日": "1991/10/28",
+      "產業別": "食品工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001242006",
+    "public_offering_date": "1991/10/28",
+    "industry": "食品工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1246",
+    "name": "中聯油脂",
+    "raw_fields": {
+      "有價證券代號及名稱": "1246　中聯油脂",
+      "國際證券辨識號碼(ISIN Code)": "TW0001246007",
+      "公開發行日": "1997/05/31",
+      "產業別": "食品工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001246007",
+    "public_offering_date": "1997/05/31",
+    "industry": "食品工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1267",
+    "name": "京華堂",
+    "raw_fields": {
+      "有價證券代號及名稱": "1267　京華堂",
+      "國際證券辨識號碼(ISIN Code)": "TW0001267003",
+      "公開發行日": "2015/01/19",
+      "產業別": "食品工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001267003",
+    "public_offering_date": "2015/01/19",
+    "industry": "食品工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1328",
+    "name": "中油",
+    "raw_fields": {
+      "有價證券代號及名稱": "1328　中油",
+      "國際證券辨識號碼(ISIN Code)": "TW0001328003",
+      "公開發行日": "1997/12/24",
+      "產業別": "塑膠工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001328003",
+    "public_offering_date": "1997/12/24",
+    "industry": "塑膠工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1408",
+    "name": "中紡",
+    "raw_fields": {
+      "有價證券代號及名稱": "1408　中紡",
+      "國際證券辨識號碼(ISIN Code)": "TW0001408003",
+      "公開發行日": "1973/05/31",
+      "產業別": "紡織纖維",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001408003",
+    "public_offering_date": "1973/05/31",
+    "industry": "紡織纖維",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1550",
+    "name": "台全電機",
+    "raw_fields": {
+      "有價證券代號及名稱": "1550　台全電機",
+      "國際證券辨識號碼(ISIN Code)": "TW0001550002",
+      "公開發行日": "1996/12/16",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001550002",
+    "public_offering_date": "1996/12/16",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1557",
+    "name": "金豐機器",
+    "raw_fields": {
+      "有價證券代號及名稱": "1557　金豐機器",
+      "國際證券辨識號碼(ISIN Code)": "TW0001557007",
+      "公開發行日": "1999/07/07",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001557007",
+    "public_offering_date": "1999/07/07",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1585",
+    "name": "鎧鉅",
+    "raw_fields": {
+      "有價證券代號及名稱": "1585　鎧鉅",
+      "國際證券辨識號碼(ISIN Code)": "TW0001585008",
+      "公開發行日": "2007/04/03",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001585008",
+    "public_offering_date": "2007/04/03",
+    "industry": "電子零組件業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1592",
+    "name": "英瑞-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "1592　英瑞-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG316231045",
+      "公開發行日": "2014/10/16",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG316231045",
+    "public_offering_date": "2014/10/16",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1602",
+    "name": "太電",
+    "raw_fields": {
+      "有價證券代號及名稱": "1602　太電",
+      "國際證券辨識號碼(ISIN Code)": "TW0001602001",
+      "公開發行日": "1963/08/15",
+      "產業別": "電器電纜",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001602001",
+    "public_offering_date": "1963/08/15",
+    "industry": "電器電纜",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1613",
+    "name": "台一",
+    "raw_fields": {
+      "有價證券代號及名稱": "1613　台一",
+      "國際證券辨識號碼(ISIN Code)": "TW0001613008",
+      "公開發行日": "1995/10/20",
+      "產業別": "電器電纜",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001613008",
+    "public_offering_date": "1995/10/20",
+    "industry": "電器電纜",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1619",
+    "name": "大展電線",
+    "raw_fields": {
+      "有價證券代號及名稱": "1619　大展電線",
+      "國際證券辨識號碼(ISIN Code)": "TW0001619005",
+      "公開發行日": "1991/03/28",
+      "產業別": "電器電纜",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001619005",
+    "public_offering_date": "1991/03/28",
+    "industry": "電器電纜",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1715",
+    "name": "萬洲",
+    "raw_fields": {
+      "有價證券代號及名稱": "1715　萬洲",
+      "國際證券辨識號碼(ISIN Code)": "TW0001715001",
+      "公開發行日": "1984/09/22",
+      "產業別": "塑膠工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001715001",
+    "public_offering_date": "1984/09/22",
+    "industry": "塑膠工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1716",
+    "name": "永信藥品",
+    "raw_fields": {
+      "有價證券代號及名稱": "1716　永信藥品",
+      "國際證券辨識號碼(ISIN Code)": "TW0001716009",
+      "公開發行日": "1989/04/01",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001716009",
+    "public_offering_date": "1989/04/01",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1739",
+    "name": "欣雲天然",
+    "raw_fields": {
+      "有價證券代號及名稱": "1739　欣雲天然",
+      "國際證券辨識號碼(ISIN Code)": "TW0001739001",
+      "公開發行日": "1991/05/20",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001739001",
+    "public_offering_date": "1991/05/20",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1740",
+    "name": "欣桃天然",
+    "raw_fields": {
+      "有價證券代號及名稱": "1740　欣桃天然",
+      "國際證券辨識號碼(ISIN Code)": "TW0001740009",
+      "公開發行日": "1991/01/10",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001740009",
+    "public_offering_date": "1991/01/10",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1745",
+    "name": "欣嘉公司",
+    "raw_fields": {
+      "有價證券代號及名稱": "1745　欣嘉公司",
+      "國際證券辨識號碼(ISIN Code)": "TW0001745008",
+      "公開發行日": "1993/11/15",
+      "產業別": "",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001745008",
+    "public_offering_date": "1993/11/15",
+    "industry": null,
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1763",
+    "name": "奇美實業",
+    "raw_fields": {
+      "有價證券代號及名稱": "1763　奇美實業",
+      "國際證券辨識號碼(ISIN Code)": "TW0001763001",
+      "公開發行日": "1983/01/07",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001763001",
+    "public_offering_date": "1983/01/07",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1764",
+    "name": "長春石油",
+    "raw_fields": {
+      "有價證券代號及名稱": "1764　長春石油",
+      "國際證券辨識號碼(ISIN Code)": "TW0001764009",
+      "公開發行日": "1981/11/01",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001764009",
+    "public_offering_date": "1981/11/01",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1765",
+    "name": "長春人造",
+    "raw_fields": {
+      "有價證券代號及名稱": "1765　長春人造",
+      "國際證券辨識號碼(ISIN Code)": "TW0001765006",
+      "公開發行日": "1981/07/15",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001765006",
+    "public_offering_date": "1981/07/15",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1766",
+    "name": "大連化工",
+    "raw_fields": {
+      "有價證券代號及名稱": "1766　大連化工",
+      "國際證券辨識號碼(ISIN Code)": "TW0001766004",
+      "公開發行日": "1982/10/04",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001766004",
+    "public_offering_date": "1982/10/04",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1767",
+    "name": "陽瓦",
+    "raw_fields": {
+      "有價證券代號及名稱": "1767　陽瓦",
+      "國際證券辨識號碼(ISIN Code)": "TW0001767002",
+      "公開發行日": "1983/12/30",
+      "產業別": "",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001767002",
+    "public_offering_date": "1983/12/30",
+    "industry": null,
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1769",
+    "name": "欣中公司",
+    "raw_fields": {
+      "有價證券代號及名稱": "1769　欣中公司",
+      "國際證券辨識號碼(ISIN Code)": "TW0001769008",
+      "公開發行日": "1986/08/25",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001769008",
+    "public_offering_date": "1986/08/25",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1770",
+    "name": "信東生技",
+    "raw_fields": {
+      "有價證券代號及名稱": "1770　信東生技",
+      "國際證券辨識號碼(ISIN Code)": "TW0001770006",
+      "公開發行日": "1987/03/14",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001770006",
+    "public_offering_date": "1987/03/14",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1775",
+    "name": "大東樹脂",
+    "raw_fields": {
+      "有價證券代號及名稱": "1775　大東樹脂",
+      "國際證券辨識號碼(ISIN Code)": "TW0001775005",
+      "公開發行日": "1990/12/29",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001775005",
+    "public_offering_date": "1990/12/29",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "1819",
+    "name": "豐鼎",
+    "raw_fields": {
+      "有價證券代號及名稱": "1819　豐鼎",
+      "國際證券辨識號碼(ISIN Code)": "TW0001819001",
+      "公開發行日": "2015/04/20",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0001819001",
+    "public_offering_date": "2015/04/20",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2041",
+    "name": "燁茂實業",
+    "raw_fields": {
+      "有價證券代號及名稱": "2041　燁茂實業",
+      "國際證券辨識號碼(ISIN Code)": "TW0002041001",
+      "公開發行日": "1991/05/01",
+      "產業別": "鋼鐵工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002041001",
+    "public_offering_date": "1991/05/01",
+    "industry": "鋼鐵工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2048",
+    "name": "中龍鋼鐵",
+    "raw_fields": {
+      "有價證券代號及名稱": "2048　中龍鋼鐵",
+      "國際證券辨識號碼(ISIN Code)": "TW0002048006",
+      "公開發行日": "1995/11/27",
+      "產業別": "鋼鐵工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002048006",
+    "public_offering_date": "1995/11/27",
+    "industry": "鋼鐵工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2056",
+    "name": "璋釔",
+    "raw_fields": {
+      "有價證券代號及名稱": "2056　璋釔",
+      "國際證券辨識號碼(ISIN Code)": "TW0002056009",
+      "公開發行日": "1999/05/25",
+      "產業別": "鋼鐵工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002056009",
+    "public_offering_date": "1999/05/25",
+    "industry": "鋼鐵工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2068",
+    "name": "優頻科技材料",
+    "raw_fields": {
+      "有價證券代號及名稱": "2068　優頻科技材料",
+      "國際證券辨識號碼(ISIN Code)": "TW0002068004",
+      "公開發行日": "2013/12/30",
+      "產業別": "鋼鐵工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002068004",
+    "public_offering_date": "2013/12/30",
+    "industry": "鋼鐵工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2215",
+    "name": "匯豐汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2215　匯豐汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002215001",
+      "公開發行日": "1994/09/12",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002215001",
+    "public_offering_date": "1994/09/12",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2218",
+    "name": "高都汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2218　高都汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002218005",
+      "公開發行日": "1997/07/16",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002218005",
+    "public_offering_date": "1997/07/16",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2219",
+    "name": "鍾慶科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "2219　鍾慶科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0002219003",
+      "公開發行日": "1997/10/30",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002219003",
+    "public_offering_date": "1997/10/30",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2220",
+    "name": "南都汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2220　南都汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002220001",
+      "公開發行日": "1997/11/22",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002220001",
+    "public_offering_date": "1997/11/22",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2222",
+    "name": "桃苗汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2222　桃苗汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002222007",
+      "公開發行日": "1998/07/18",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002222007",
+    "public_offering_date": "1998/07/18",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2225",
+    "name": "國都汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2225　國都汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002225000",
+      "公開發行日": "1999/07/06",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002225000",
+    "public_offering_date": "1999/07/06",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2226",
+    "name": "中部汽車",
+    "raw_fields": {
+      "有價證券代號及名稱": "2226　中部汽車",
+      "國際證券辨識號碼(ISIN Code)": "TW0002226008",
+      "公開發行日": "1998/05/16",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002226008",
+    "public_offering_date": "1998/05/16",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2246",
+    "name": "凱勝綠能",
+    "raw_fields": {
+      "有價證券代號及名稱": "2246　凱勝綠能",
+      "國際證券辨識號碼(ISIN Code)": "TW0002246006",
+      "公開發行日": "2017/01/13",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002246006",
+    "public_offering_date": "2017/01/13",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2364A",
+    "name": "倫甲特",
+    "raw_fields": {
+      "有價證券代號及名稱": "2364A　倫甲特",
+      "國際證券辨識號碼(ISIN Code)": "TW0002364A06",
+      "公開發行日": "1990/12/15",
+      "產業別": "電子工業",
+      "CFICode": "EPNRCR",
+      "備註": ""
+    },
+    "isin_code": "TW0002364A06",
+    "public_offering_date": "1990/12/15",
+    "industry": "電子工業",
+    "cfi_code": "EPNRCR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2384",
+    "name": "勝華",
+    "raw_fields": {
+      "有價證券代號及名稱": "2384　勝華",
+      "國際證券辨識號碼(ISIN Code)": "TW0002384005",
+      "公開發行日": "1998/12/19",
+      "產業別": "光電業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002384005",
+    "public_offering_date": "1998/12/19",
+    "industry": "光電業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2443",
+    "name": "昶虹",
+    "raw_fields": {
+      "有價證券代號及名稱": "2443　昶虹",
+      "國際證券辨識號碼(ISIN Code)": "TW0002443009",
+      "公開發行日": "2001/01/03",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002443009",
+    "public_offering_date": "2001/01/03",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2557",
+    "name": "泛亞工程",
+    "raw_fields": {
+      "有價證券代號及名稱": "2557　泛亞工程",
+      "國際證券辨識號碼(ISIN Code)": "TW0002557006",
+      "公開發行日": "1992/11/11",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002557006",
+    "public_offering_date": "1992/11/11",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2568",
+    "name": "世正開發",
+    "raw_fields": {
+      "有價證券代號及名稱": "2568　世正開發",
+      "國際證券辨識號碼(ISIN Code)": "TW0002568003",
+      "公開發行日": "1996/05/14",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002568003",
+    "public_offering_date": "1996/05/14",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2579",
+    "name": "鈺通營造",
+    "raw_fields": {
+      "有價證券代號及名稱": "2579　鈺通營造",
+      "國際證券辨識號碼(ISIN Code)": "TW0002579000",
+      "公開發行日": "1998/09/25",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002579000",
+    "public_offering_date": "1998/09/25",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2599",
+    "name": "樂揚",
+    "raw_fields": {
+      "有價證券代號及名稱": "2599　樂揚",
+      "國際證券辨識號碼(ISIN Code)": "TW0002599008",
+      "公開發行日": "2008/04/28",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002599008",
+    "public_offering_date": "2008/04/28",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2619",
+    "name": "新竹物流",
+    "raw_fields": {
+      "有價證券代號及名稱": "2619　新竹物流",
+      "國際證券辨識號碼(ISIN Code)": "TW0002619004",
+      "公開發行日": "1985/08/16",
+      "產業別": "航運業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002619004",
+    "public_offering_date": "1985/08/16",
+    "industry": "航運業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2621",
+    "name": "立榮航空",
+    "raw_fields": {
+      "有價證券代號及名稱": "2621　立榮航空",
+      "國際證券辨識號碼(ISIN Code)": "TW0002621000",
+      "公開發行日": "1991/07/25",
+      "產業別": "航運業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002621000",
+    "public_offering_date": "1991/07/25",
+    "industry": "航運業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2711",
+    "name": "凱撒飯店",
+    "raw_fields": {
+      "有價證券代號及名稱": "2711　凱撒飯店",
+      "國際證券辨識號碼(ISIN Code)": "TW0002711009",
+      "公開發行日": "1995/11/16",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002711009",
+    "public_offering_date": "1995/11/16",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2721",
+    "name": "楷捷-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "2721　楷捷-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG521031016",
+      "公開發行日": "2009/12/17",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG521031016",
+    "public_offering_date": "2009/12/17",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2738",
+    "name": "曼哈頓-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "2738　曼哈頓-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG5793A1004",
+      "公開發行日": "2015/03/12",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG5793A1004",
+    "public_offering_date": "2015/03/12",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2759",
+    "name": "咖碼",
+    "raw_fields": {
+      "有價證券代號及名稱": "2759　咖碼",
+      "國際證券辨識號碼(ISIN Code)": "TW0002759008",
+      "公開發行日": "2020/12/31",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002759008",
+    "public_offering_date": "2020/12/31",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2807",
+    "name": "渣打銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "2807　渣打銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0002807005",
+      "公開發行日": "1982/03/17",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002807005",
+    "public_offering_date": "1982/03/17",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2809",
+    "name": "京城銀",
+    "raw_fields": {
+      "有價證券代號及名稱": "2809　京城銀",
+      "國際證券辨識號碼(ISIN Code)": "TW0002809001",
+      "公開發行日": "1982/03/03",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002809001",
+    "public_offering_date": "1982/03/03",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2823",
+    "name": "凱基人壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "2823　凱基人壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0002823002",
+      "公開發行日": "1995/02/08",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002823002",
+    "public_offering_date": "1995/02/08",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2833",
+    "name": "台壽保",
+    "raw_fields": {
+      "有價證券代號及名稱": "2833　台壽保",
+      "國際證券辨識號碼(ISIN Code)": "TW0002833001",
+      "公開發行日": "1997/10/13",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002833001",
+    "public_offering_date": "1997/10/13",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2837",
+    "name": "凱基銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "2837　凱基銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0002837002",
+      "公開發行日": "1998/06/29",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002837002",
+    "public_offering_date": "1998/06/29",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2848",
+    "name": "華南保",
+    "raw_fields": {
+      "有價證券代號及名稱": "2848　華南保",
+      "國際證券辨識號碼(ISIN Code)": "TW0002848009",
+      "公開發行日": "1991/11/20",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002848009",
+    "public_offering_date": "1991/11/20",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2858",
+    "name": "中租迪和",
+    "raw_fields": {
+      "有價證券代號及名稱": "2858　中租迪和",
+      "國際證券辨識號碼(ISIN Code)": "TW0002858008",
+      "公開發行日": "2011/07/21",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002858008",
+    "public_offering_date": "2011/07/21",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2862",
+    "name": "光華證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "2862　光華證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW0002862000",
+      "公開發行日": "1992/06/30",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002862000",
+    "public_offering_date": "1992/06/30",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2863",
+    "name": "泰安產物",
+    "raw_fields": {
+      "有價證券代號及名稱": "2863　泰安產物",
+      "國際證券辨識號碼(ISIN Code)": "TW0002863008",
+      "公開發行日": "1992/09/23",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002863008",
+    "public_offering_date": "1992/09/23",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2872",
+    "name": "台灣票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "2872　台灣票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0002872009",
+      "公開發行日": "1996/09/10",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002872009",
+    "public_offering_date": "1996/09/10",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2873",
+    "name": "大中票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "2873　大中票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0002873007",
+      "公開發行日": "1996/09/12",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002873007",
+    "public_offering_date": "1996/09/12",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2874",
+    "name": "萬通票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "2874　萬通票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0002874005",
+      "公開發行日": "1996/10/04",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002874005",
+    "public_offering_date": "1996/10/04",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2876",
+    "name": "宏泰人壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "2876　宏泰人壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0002876000",
+      "公開發行日": "1997/05/02",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002876000",
+    "public_offering_date": "1997/05/02",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2877",
+    "name": "國泰產險",
+    "raw_fields": {
+      "有價證券代號及名稱": "2877　國泰產險",
+      "國際證券辨識號碼(ISIN Code)": "TW0002877008",
+      "公開發行日": "1997/06/17",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002877008",
+    "public_offering_date": "1997/06/17",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2888A",
+    "name": "新光金甲特",
+    "raw_fields": {
+      "有價證券代號及名稱": "2888A　新光金甲特",
+      "國際證券辨識號碼(ISIN Code)": "TW0002888A03",
+      "公開發行日": "2025/07/24",
+      "產業別": "金融保險業",
+      "CFICode": "EPNRAR",
+      "備註": ""
+    },
+    "isin_code": "TW0002888A03",
+    "public_offering_date": "2025/07/24",
+    "industry": "金融保險業",
+    "cfi_code": "EPNRAR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2888B",
+    "name": "新光金乙特",
+    "raw_fields": {
+      "有價證券代號及名稱": "2888B　新光金乙特",
+      "國際證券辨識號碼(ISIN Code)": "TW0002888B02",
+      "公開發行日": "2025/07/24",
+      "產業別": "金融保險業",
+      "CFICode": "EPNRAR",
+      "備註": ""
+    },
+    "isin_code": "TW0002888B02",
+    "public_offering_date": "2025/07/24",
+    "industry": "金融保險業",
+    "cfi_code": "EPNRAR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2893",
+    "name": "新光銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "2893　新光銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0002893005",
+      "公開發行日": "1998/06/08",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002893005",
+    "public_offering_date": "1998/06/08",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2894",
+    "name": "大慶票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "2894　大慶票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0002894003",
+      "公開發行日": "1998/06/15",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002894003",
+    "public_offering_date": "1998/06/15",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2895",
+    "name": "陽信銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "2895　陽信銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0002895000",
+      "公開發行日": "1998/07/09",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002895000",
+    "public_offering_date": "1998/07/09",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2899",
+    "name": "金融大樓",
+    "raw_fields": {
+      "有價證券代號及名稱": "2899　金融大樓",
+      "國際證券辨識號碼(ISIN Code)": "TW0002899002",
+      "公開發行日": "1999/09/08",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002899002",
+    "public_offering_date": "1999/09/08",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2920",
+    "name": "海景",
+    "raw_fields": {
+      "有價證券代號及名稱": "2920　海景",
+      "國際證券辨識號碼(ISIN Code)": "TW0002920006",
+      "公開發行日": "2002/05/21",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002920006",
+    "public_offering_date": "2002/05/21",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "2928",
+    "name": "紅馬-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "2928　紅馬-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG7448A1058",
+      "公開發行日": "2015/12/31",
+      "產業別": "觀光餐旅",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG7448A1058",
+    "public_offering_date": "2015/12/31",
+    "industry": "觀光餐旅",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3197",
+    "name": "賽亞基因科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "3197　賽亞基因科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0003197000",
+      "公開發行日": "2002/07/12",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003197000",
+    "public_offering_date": "2002/07/12",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3202",
+    "name": "樺晟",
+    "raw_fields": {
+      "有價證券代號及名稱": "3202　樺晟",
+      "國際證券辨識號碼(ISIN Code)": "TW0003202008",
+      "公開發行日": "2002/07/30",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003202008",
+    "public_offering_date": "2002/07/30",
+    "industry": "電子零組件業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3298",
+    "name": "圓創",
+    "raw_fields": {
+      "有價證券代號及名稱": "3298　圓創",
+      "國際證券辨識號碼(ISIN Code)": "TW0003298006",
+      "公開發行日": "2003/07/14",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003298006",
+    "public_offering_date": "2003/07/14",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3342",
+    "name": "飛虹科",
+    "raw_fields": {
+      "有價證券代號及名稱": "3342　飛虹科",
+      "國際證券辨識號碼(ISIN Code)": "TW0003342002",
+      "公開發行日": "2003/09/17",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003342002",
+    "public_offering_date": "2003/09/17",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3369",
+    "name": "鐵研",
+    "raw_fields": {
+      "有價證券代號及名稱": "3369　鐵研",
+      "國際證券辨識號碼(ISIN Code)": "TW0003369005",
+      "公開發行日": "2003/12/16",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003369005",
+    "public_offering_date": "2003/12/16",
+    "industry": "電子零組件業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3405",
+    "name": "津綻石英科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "3405　津綻石英科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0003405007",
+      "公開發行日": "2004/05/31",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003405007",
+    "public_offering_date": "2004/05/31",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3463",
+    "name": "宏塑工業",
+    "raw_fields": {
+      "有價證券代號及名稱": "3463　宏塑工業",
+      "國際證券辨識號碼(ISIN Code)": "TW0003463006",
+      "公開發行日": "2004/09/14",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003463006",
+    "public_offering_date": "2004/09/14",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3509",
+    "name": "台固線上",
+    "raw_fields": {
+      "有價證券代號及名稱": "3509　台固線上",
+      "國際證券辨識號碼(ISIN Code)": "TW0003509006",
+      "公開發行日": "2005/12/16",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003509006",
+    "public_offering_date": "2005/12/16",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3510",
+    "name": "易鼎",
+    "raw_fields": {
+      "有價證券代號及名稱": "3510　易鼎",
+      "國際證券辨識號碼(ISIN Code)": "TW0003510004",
+      "公開發行日": "2005/12/28",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003510004",
+    "public_offering_date": "2005/12/28",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3525",
+    "name": "就業情報資訊",
+    "raw_fields": {
+      "有價證券代號及名稱": "3525　就業情報資訊",
+      "國際證券辨識號碼(ISIN Code)": "TW0003525002",
+      "公開發行日": "2006/07/31",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003525002",
+    "public_offering_date": "2006/07/31",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3572",
+    "name": "宏芯",
+    "raw_fields": {
+      "有價證券代號及名稱": "3572　宏芯",
+      "國際證券辨識號碼(ISIN Code)": "TW0003572004",
+      "公開發行日": "2007/08/06",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003572004",
+    "public_offering_date": "2007/08/06",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3601",
+    "name": "前源",
+    "raw_fields": {
+      "有價證券代號及名稱": "3601　前源",
+      "國際證券辨識號碼(ISIN Code)": "TW0003601001",
+      "公開發行日": "2007/11/02",
+      "產業別": "通信網路業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003601001",
+    "public_offering_date": "2007/11/02",
+    "industry": "通信網路業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3616",
+    "name": "泓辰",
+    "raw_fields": {
+      "有價證券代號及名稱": "3616　泓辰",
+      "國際證券辨識號碼(ISIN Code)": "TW0003616009",
+      "公開發行日": "2024/10/29",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003616009",
+    "public_offering_date": "2024/10/29",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3682",
+    "name": "亞太電",
+    "raw_fields": {
+      "有價證券代號及名稱": "3682　亞太電",
+      "國際證券辨識號碼(ISIN Code)": "TW0003682001",
+      "公開發行日": "2009/09/03",
+      "產業別": "通信網路業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003682001",
+    "public_offering_date": "2009/09/03",
+    "industry": "通信網路業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "3683",
+    "name": "仲博科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "3683　仲博科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0003683009",
+      "公開發行日": "2009/09/08",
+      "產業別": "其他電子業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003683009",
+    "public_offering_date": "2009/09/08",
+    "industry": "其他電子業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4118",
+    "name": "友合",
+    "raw_fields": {
+      "有價證券代號及名稱": "4118　友合",
+      "國際證券辨識號碼(ISIN Code)": "TW0004118005",
+      "公開發行日": "2002/07/18",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004118005",
+    "public_offering_date": "2002/07/18",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4132",
+    "name": "國鼎",
+    "raw_fields": {
+      "有價證券代號及名稱": "4132　國鼎",
+      "國際證券辨識號碼(ISIN Code)": "TW0004132006",
+      "公開發行日": "2006/09/18",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004132006",
+    "public_offering_date": "2006/09/18",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4136",
+    "name": "太和-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "4136　太和-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG596381098",
+      "公開發行日": "2016/01/12",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG596381098",
+    "public_offering_date": "2016/01/12",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4427",
+    "name": "展頌",
+    "raw_fields": {
+      "有價證券代號及名稱": "4427　展頌",
+      "國際證券辨識號碼(ISIN Code)": "TW0004427000",
+      "公開發行日": "2007/10/01",
+      "產業別": "紡織纖維",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004427000",
+    "public_offering_date": "2007/10/01",
+    "industry": "紡織纖維",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4539",
+    "name": "台灣智慧光網",
+    "raw_fields": {
+      "有價證券代號及名稱": "4539　台灣智慧光網",
+      "國際證券辨識號碼(ISIN Code)": "TW0004539002",
+      "公開發行日": "2012/06/18",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004539002",
+    "public_offering_date": "2012/06/18",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4548",
+    "name": "名超企業",
+    "raw_fields": {
+      "有價證券代號及名稱": "4548　名超企業",
+      "國際證券辨識號碼(ISIN Code)": "TW0004548003",
+      "公開發行日": "2013/09/02",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004548003",
+    "public_offering_date": "2013/09/02",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4586",
+    "name": "能海電能",
+    "raw_fields": {
+      "有價證券代號及名稱": "4586　能海電能",
+      "國際證券辨識號碼(ISIN Code)": "TW0004586003",
+      "公開發行日": "2021/12/07",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004586003",
+    "public_offering_date": "2021/12/07",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4712",
+    "name": "福格創新",
+    "raw_fields": {
+      "有價證券代號及名稱": "4712　福格創新",
+      "國際證券辨識號碼(ISIN Code)": "TW0004712005",
+      "公開發行日": "1990/10/16",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004712005",
+    "public_offering_date": "1990/10/16",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4730",
+    "name": "通用",
+    "raw_fields": {
+      "有價證券代號及名稱": "4730　通用",
+      "國際證券辨識號碼(ISIN Code)": "TW0004730007",
+      "公開發行日": "2011/09/08",
+      "產業別": "橡膠工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004730007",
+    "public_offering_date": "2011/09/08",
+    "industry": "橡膠工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4773",
+    "name": "高福",
+    "raw_fields": {
+      "有價證券代號及名稱": "4773　高福",
+      "國際證券辨識號碼(ISIN Code)": "TW0004773007",
+      "公開發行日": "2022/06/14",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004773007",
+    "public_offering_date": "2022/06/14",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4803",
+    "name": "VHQ-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "4803　VHQ-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG9344G1038",
+      "公開發行日": "2015/12/16",
+      "產業別": "文化創意業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG9344G1038",
+    "public_offering_date": "2015/12/16",
+    "industry": "文化創意業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "4985",
+    "name": "富相科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "4985　富相科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0004985007",
+      "公開發行日": "2010/10/18",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004985007",
+    "public_offering_date": "2010/10/18",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5214",
+    "name": "大新能源",
+    "raw_fields": {
+      "有價證券代號及名稱": "5214　大新能源",
+      "國際證券辨識號碼(ISIN Code)": "TW0005214001",
+      "公開發行日": "2007/11/14",
+      "產業別": "油電燃氣業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005214001",
+    "public_offering_date": "2007/11/14",
+    "industry": "油電燃氣業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5216",
+    "name": "優燈",
+    "raw_fields": {
+      "有價證券代號及名稱": "5216　優燈",
+      "國際證券辨識號碼(ISIN Code)": "TW0005216006",
+      "公開發行日": "2010/12/23",
+      "產業別": "光電業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005216006",
+    "public_offering_date": "2010/12/23",
+    "industry": "光電業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5266",
+    "name": "F*AS",
+    "raw_fields": {
+      "有價證券代號及名稱": "5266　F*AS",
+      "國際證券辨識號碼(ISIN Code)": "JP3172460002",
+      "公開發行日": "2016/03/24",
+      "產業別": "資訊服務業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "JP3172460002",
+    "public_offering_date": "2016/03/24",
+    "industry": "資訊服務業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5295",
+    "name": "懷藝",
+    "raw_fields": {
+      "有價證券代號及名稱": "5295　懷藝",
+      "國際證券辨識號碼(ISIN Code)": "TW0005295000",
+      "公開發行日": "2012/09/17",
+      "產業別": "其他電子業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005295000",
+    "public_offering_date": "2012/09/17",
+    "industry": "其他電子業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5298",
+    "name": "合盈光電科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "5298　合盈光電科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0005298004",
+      "公開發行日": "2012/09/21",
+      "產業別": "光電業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005298004",
+    "public_offering_date": "2012/09/21",
+    "industry": "光電業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5346",
+    "name": "力晶",
+    "raw_fields": {
+      "有價證券代號及名稱": "5346　力晶",
+      "國際證券辨識號碼(ISIN Code)": "TW0005346001",
+      "公開發行日": "1995/02/06",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005346001",
+    "public_offering_date": "1995/02/06",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5387",
+    "name": "茂德科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "5387　茂德科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0005387005",
+      "公開發行日": "1997/06/02",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005387005",
+    "public_offering_date": "1997/06/02",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5541",
+    "name": "廣朋",
+    "raw_fields": {
+      "有價證券代號及名稱": "5541　廣朋",
+      "國際證券辨識號碼(ISIN Code)": "TW0005541007",
+      "公開發行日": "2012/10/19",
+      "產業別": "建材營造業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005541007",
+    "public_offering_date": "2012/10/19",
+    "industry": "建材營造業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5827",
+    "name": "華泰銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5827　華泰銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005827000",
+      "公開發行日": "2000/06/23",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005827000",
+    "public_offering_date": "2000/06/23",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5828",
+    "name": "富邦產保",
+    "raw_fields": {
+      "有價證券代號及名稱": "5828　富邦產保",
+      "國際證券辨識號碼(ISIN Code)": "TW0005828008",
+      "公開發行日": "2002/07/04",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005828008",
+    "public_offering_date": "2002/07/04",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5830",
+    "name": "三信商業銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5830　三信商業銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005830004",
+      "公開發行日": "2002/09/17",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005830004",
+    "public_offering_date": "2002/09/17",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5833",
+    "name": "元大證金",
+    "raw_fields": {
+      "有價證券代號及名稱": "5833　元大證金",
+      "國際證券辨識號碼(ISIN Code)": "TW0005833008",
+      "公開發行日": "1982/05/25",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005833008",
+    "public_offering_date": "1982/05/25",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5834",
+    "name": "兆豐保險",
+    "raw_fields": {
+      "有價證券代號及名稱": "5834　兆豐保險",
+      "國際證券辨識號碼(ISIN Code)": "TW0005834006",
+      "公開發行日": "1982/11/16",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005834006",
+    "public_offering_date": "1982/11/16",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5835",
+    "name": "國泰世華",
+    "raw_fields": {
+      "有價證券代號及名稱": "5835　國泰世華",
+      "國際證券辨識號碼(ISIN Code)": "TW0005835003",
+      "公開發行日": "1991/11/25",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005835003",
+    "public_offering_date": "1991/11/25",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5836",
+    "name": "台北富邦",
+    "raw_fields": {
+      "有價證券代號及名稱": "5836　台北富邦",
+      "國際證券辨識號碼(ISIN Code)": "TW0005836001",
+      "公開發行日": "1995/01/10",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005836001",
+    "public_offering_date": "1995/01/10",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5838",
+    "name": "華南銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5838　華南銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005838007",
+      "公開發行日": "1947/02/22",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005838007",
+    "public_offering_date": "1947/02/22",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5839",
+    "name": "中華開發資本",
+    "raw_fields": {
+      "有價證券代號及名稱": "5839　中華開發資本",
+      "國際證券辨識號碼(ISIN Code)": "TW0005839005",
+      "公開發行日": "1962/02/09",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005839005",
+    "public_offering_date": "1962/02/09",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5839A",
+    "name": "開發銀特",
+    "raw_fields": {
+      "有價證券代號及名稱": "5839A　開發銀特",
+      "國際證券辨識號碼(ISIN Code)": "TW0005839A06",
+      "公開發行日": "1962/02/09",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005839A06",
+    "public_offering_date": "1962/02/09",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5840",
+    "name": "國際票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "5840　國際票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0005840003",
+      "公開發行日": "1986/10/04",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005840003",
+    "public_offering_date": "1986/10/04",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5842",
+    "name": "兆豐票券",
+    "raw_fields": {
+      "有價證券代號及名稱": "5842　兆豐票券",
+      "國際證券辨識號碼(ISIN Code)": "TW0005842009",
+      "公開發行日": "1981/12/16",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005842009",
+    "public_offering_date": "1981/12/16",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5843",
+    "name": "兆豐商銀",
+    "raw_fields": {
+      "有價證券代號及名稱": "5843　兆豐商銀",
+      "國際證券辨識號碼(ISIN Code)": "TW0005843007",
+      "公開發行日": "1972/04/21",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005843007",
+    "public_offering_date": "1972/04/21",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5844",
+    "name": "第一銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5844　第一銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005844005",
+      "公開發行日": "1949/12/08",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005844005",
+    "public_offering_date": "1949/12/08",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5846",
+    "name": "國泰人壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "5846　國泰人壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0005846000",
+      "公開發行日": "1962/10/23",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005846000",
+    "public_offering_date": "1962/10/23",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5847",
+    "name": "玉山商銀",
+    "raw_fields": {
+      "有價證券代號及名稱": "5847　玉山商銀",
+      "國際證券辨識號碼(ISIN Code)": "TW0005847008",
+      "公開發行日": "2003/05/22",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005847008",
+    "public_offering_date": "2003/05/22",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5848",
+    "name": "台新商銀",
+    "raw_fields": {
+      "有價證券代號及名稱": "5848　台新商銀",
+      "國際證券辨識號碼(ISIN Code)": "TW0005848006",
+      "公開發行日": "2003/05/22",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005848006",
+    "public_offering_date": "2003/05/22",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5849",
+    "name": "永豐銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5849　永豐銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005849004",
+      "公開發行日": "1992/03/14",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005849004",
+    "public_offering_date": "1992/03/14",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5852",
+    "name": "元大銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5852　元大銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005852008",
+      "公開發行日": "1992/02/11",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005852008",
+    "public_offering_date": "1992/02/11",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5854",
+    "name": "合庫",
+    "raw_fields": {
+      "有價證券代號及名稱": "5854　合庫",
+      "國際證券辨識號碼(ISIN Code)": "TW0005854004",
+      "公開發行日": "2003/06/19",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005854004",
+    "public_offering_date": "2003/06/19",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5857",
+    "name": "台灣土地銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5857　台灣土地銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005857007",
+      "公開發行日": "2004/05/21",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005857007",
+    "public_offering_date": "2004/05/21",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5858",
+    "name": "臺灣銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5858　臺灣銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005858005",
+      "公開發行日": "2004/09/16",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005858005",
+    "public_offering_date": "2004/09/16",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5862",
+    "name": "板信商業銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5862　板信商業銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005862007",
+      "公開發行日": "2006/11/14",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005862007",
+    "public_offering_date": "2006/11/14",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5865",
+    "name": "富邦人壽保險",
+    "raw_fields": {
+      "有價證券代號及名稱": "5865　富邦人壽保險",
+      "國際證券辨識號碼(ISIN Code)": "TW0005865000",
+      "公開發行日": "2009/06/01",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005865000",
+    "public_offering_date": "2009/06/01",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5866",
+    "name": "統一期",
+    "raw_fields": {
+      "有價證券代號及名稱": "5866　統一期",
+      "國際證券辨識號碼(ISIN Code)": "TW0005866008",
+      "公開發行日": "2009/05/25",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005866008",
+    "public_offering_date": "2009/05/25",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5867",
+    "name": "康和期貨",
+    "raw_fields": {
+      "有價證券代號及名稱": "5867　康和期貨",
+      "國際證券辨識號碼(ISIN Code)": "TW0005867006",
+      "公開發行日": "2009/06/30",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005867006",
+    "public_offering_date": "2009/06/30",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5868",
+    "name": "臺灣金融控股",
+    "raw_fields": {
+      "有價證券代號及名稱": "5868　臺灣金融控股",
+      "國際證券辨識號碼(ISIN Code)": "TW0005868004",
+      "公開發行日": "2009/11/17",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005868004",
+    "public_offering_date": "2009/11/17",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5870",
+    "name": "花旗(台灣)商業銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5870　花旗(台灣)商業銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005870000",
+      "公開發行日": "2009/12/28",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005870000",
+    "public_offering_date": "2009/12/28",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5872",
+    "name": "匯豐(台灣)商業銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5872　匯豐(台灣)商業銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005872006",
+      "公開發行日": "2010/12/02",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005872006",
+    "public_offering_date": "2010/12/02",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5873",
+    "name": "全球人壽保險",
+    "raw_fields": {
+      "有價證券代號及名稱": "5873　全球人壽保險",
+      "國際證券辨識號碼(ISIN Code)": "TW0005873004",
+      "公開發行日": "2011/06/27",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005873004",
+    "public_offering_date": "2011/06/27",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5874",
+    "name": "南山人壽保險",
+    "raw_fields": {
+      "有價證券代號及名稱": "5874　南山人壽保險",
+      "國際證券辨識號碼(ISIN Code)": "TW0005874002",
+      "公開發行日": "2012/07/16",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005874002",
+    "public_offering_date": "2012/07/16",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5875",
+    "name": "星展(台灣)商業銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "5875　星展(台灣)商業銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0005875009",
+      "公開發行日": "2012/07/19",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005875009",
+    "public_offering_date": "2012/07/19",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "5901",
+    "name": "中友百貨",
+    "raw_fields": {
+      "有價證券代號及名稱": "5901　中友百貨",
+      "國際證券辨識號碼(ISIN Code)": "TW0005901003",
+      "公開發行日": "1991/10/05",
+      "產業別": "貿易百貨業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0005901003",
+    "public_offering_date": "1991/10/05",
+    "industry": "貿易百貨業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6008",
+    "name": "凱基證",
+    "raw_fields": {
+      "有價證券代號及名稱": "6008　凱基證",
+      "國際證券辨識號碼(ISIN Code)": "TW0006008006",
+      "公開發行日": "1995/12/19",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006008006",
+    "public_offering_date": "1995/12/19",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6025",
+    "name": "臺銀人壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "6025　臺銀人壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0006025000",
+      "公開發行日": "2013/11/18",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006025000",
+    "public_offering_date": "2013/11/18",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6029",
+    "name": "和泰產險",
+    "raw_fields": {
+      "有價證券代號及名稱": "6029　和泰產險",
+      "國際證券辨識號碼(ISIN Code)": "TW0006029002",
+      "公開發行日": "2020/07/02",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006029002",
+    "public_offering_date": "2020/07/02",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6030",
+    "name": "樂天國際銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "6030　樂天國際銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0006030000",
+      "公開發行日": "2021/10/18",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006030000",
+    "public_offering_date": "2021/10/18",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6031",
+    "name": "連線銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "6031　連線銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0006031008",
+      "公開發行日": "2021/12/22",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006031008",
+    "public_offering_date": "2021/12/22",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6033",
+    "name": "一卡通",
+    "raw_fields": {
+      "有價證券代號及名稱": "6033　一卡通",
+      "國際證券辨識號碼(ISIN Code)": "TW0006033004",
+      "公開發行日": "2022/06/22",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006033004",
+    "public_offering_date": "2022/06/22",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6034",
+    "name": "愛金卡",
+    "raw_fields": {
+      "有價證券代號及名稱": "6034　愛金卡",
+      "國際證券辨識號碼(ISIN Code)": "TW0006034002",
+      "公開發行日": "2022/06/23",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006034002",
+    "public_offering_date": "2022/06/23",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6036",
+    "name": "橘子支付",
+    "raw_fields": {
+      "有價證券代號及名稱": "6036　橘子支付",
+      "國際證券辨識號碼(ISIN Code)": "TW0006036007",
+      "公開發行日": "2022/06/29",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006036007",
+    "public_offering_date": "2022/06/29",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6037",
+    "name": "簡單支",
+    "raw_fields": {
+      "有價證券代號及名稱": "6037　簡單支",
+      "國際證券辨識號碼(ISIN Code)": "TW0006037005",
+      "公開發行日": "2022/06/29",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006037005",
+    "public_offering_date": "2022/06/29",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6038",
+    "name": "街口電支",
+    "raw_fields": {
+      "有價證券代號及名稱": "6038　街口電支",
+      "國際證券辨識號碼(ISIN Code)": "TW0006038003",
+      "公開發行日": "2022/07/07",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006038003",
+    "public_offering_date": "2022/07/07",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6039",
+    "name": "將來銀行",
+    "raw_fields": {
+      "有價證券代號及名稱": "6039　將來銀行",
+      "國際證券辨識號碼(ISIN Code)": "TW0006039001",
+      "公開發行日": "2022/10/03",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006039001",
+    "public_offering_date": "2022/10/03",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6040",
+    "name": "全支付",
+    "raw_fields": {
+      "有價證券代號及名稱": "6040　全支付",
+      "國際證券辨識號碼(ISIN Code)": "TW0006040009",
+      "公開發行日": "2023/02/09",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006040009",
+    "public_offering_date": "2023/02/09",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6288",
+    "name": "聯嘉",
+    "raw_fields": {
+      "有價證券代號及名稱": "6288　聯嘉",
+      "國際證券辨識號碼(ISIN Code)": "TW0006288004",
+      "公開發行日": "2010/09/02",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006288004",
+    "public_offering_date": "2010/09/02",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6475",
+    "name": "岱煒",
+    "raw_fields": {
+      "有價證券代號及名稱": "6475　岱煒",
+      "國際證券辨識號碼(ISIN Code)": "TW0006475007",
+      "公開發行日": "2014/09/02",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006475007",
+    "public_offering_date": "2014/09/02",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6479",
+    "name": "瑞寶基因",
+    "raw_fields": {
+      "有價證券代號及名稱": "6479　瑞寶基因",
+      "國際證券辨識號碼(ISIN Code)": "TW0006479009",
+      "公開發行日": "2014/09/16",
+      "產業別": "農業科技業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006479009",
+    "public_offering_date": "2014/09/16",
+    "industry": "農業科技業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6497",
+    "name": "亞獅康-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "6497　亞獅康-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG054241099",
+      "公開發行日": "2017/06/01",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG054241099",
+    "public_offering_date": "2017/06/01",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6545",
+    "name": "擎力",
+    "raw_fields": {
+      "有價證券代號及名稱": "6545　擎力",
+      "國際證券辨識號碼(ISIN Code)": "TW0006545007",
+      "公開發行日": "2015/06/05",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006545007",
+    "public_offering_date": "2015/06/05",
+    "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6562",
+    "name": "聯亞藥",
+    "raw_fields": {
+      "有價證券代號及名稱": "6562　聯亞藥",
+      "國際證券辨識號碼(ISIN Code)": "TW0006562002",
+      "公開發行日": "2015/11/17",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006562002",
+    "public_offering_date": "2015/11/17",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6623",
+    "name": "施吉生技",
+    "raw_fields": {
+      "有價證券代號及名稱": "6623　施吉生技",
+      "國際證券辨識號碼(ISIN Code)": "TW0006623002",
+      "公開發行日": "2017/01/05",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006623002",
+    "public_offering_date": "2017/01/05",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6647",
+    "name": "合迪",
+    "raw_fields": {
+      "有價證券代號及名稱": "6647　合迪",
+      "國際證券辨識號碼(ISIN Code)": "TW0006647001",
+      "公開發行日": "2017/07/20",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006647001",
+    "public_offering_date": "2017/07/20",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6660",
+    "name": "厚美德",
+    "raw_fields": {
+      "有價證券代號及名稱": "6660　厚美德",
+      "國際證券辨識號碼(ISIN Code)": "TW0006660004",
+      "公開發行日": "2017/08/28",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006660004",
+    "public_offering_date": "2017/08/28",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6717",
+    "name": "智慧光",
+    "raw_fields": {
+      "有價證券代號及名稱": "6717　智慧光",
+      "國際證券辨識號碼(ISIN Code)": "TW0006717002",
+      "公開發行日": "2018/10/15",
+      "產業別": "其他電子業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006717002",
+    "public_offering_date": "2018/10/15",
+    "industry": "其他電子業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6726",
+    "name": "鑫亞電通",
+    "raw_fields": {
+      "有價證券代號及名稱": "6726　鑫亞電通",
+      "國際證券辨識號碼(ISIN Code)": "TW0006726003",
+      "公開發行日": "2018/12/24",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006726003",
+    "public_offering_date": "2018/12/24",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6746",
+    "name": "全科綜電",
+    "raw_fields": {
+      "有價證券代號及名稱": "6746　全科綜電",
+      "國際證券辨識號碼(ISIN Code)": "TW0006746001",
+      "公開發行日": "2019/07/31",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006746001",
+    "public_offering_date": "2019/07/31",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6772",
+    "name": "錫安生技",
+    "raw_fields": {
+      "有價證券代號及名稱": "6772　錫安生技",
+      "國際證券辨識號碼(ISIN Code)": "TW0006772007",
+      "公開發行日": "2019/12/10",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006772007",
+    "public_offering_date": "2019/12/10",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6778",
+    "name": "安麗莎醫療器材",
+    "raw_fields": {
+      "有價證券代號及名稱": "6778　安麗莎醫療器材",
+      "國際證券辨識號碼(ISIN Code)": "TW0006778004",
+      "公開發行日": "2020/01/15",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006778004",
+    "public_offering_date": "2020/01/15",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6779",
+    "name": "鋐昇",
+    "raw_fields": {
+      "有價證券代號及名稱": "6779　鋐昇",
+      "國際證券辨識號碼(ISIN Code)": "TW0006779002",
+      "公開發行日": "2020/01/16",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006779002",
+    "public_offering_date": "2020/01/16",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6795",
+    "name": "洹藝",
+    "raw_fields": {
+      "有價證券代號及名稱": "6795　洹藝",
+      "國際證券辨識號碼(ISIN Code)": "TW0006795008",
+      "公開發行日": "2020/08/25",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006795008",
+    "public_offering_date": "2020/08/25",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6806",
+    "name": "森崴能源",
+    "raw_fields": {
+      "有價證券代號及名稱": "6806　森崴能源",
+      "國際證券辨識號碼(ISIN Code)": "TW0006806003",
+      "公開發行日": "2020/09/30",
+      "產業別": "綠能環保",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006806003",
+    "public_offering_date": "2020/09/30",
+    "industry": "綠能環保",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6813",
+    "name": "富動科",
+    "raw_fields": {
+      "有價證券代號及名稱": "6813　富動科",
+      "國際證券辨識號碼(ISIN Code)": "TW0006813009",
+      "公開發行日": "2020/11/03",
+      "產業別": "電腦及週邊設備業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006813009",
+    "public_offering_date": "2020/11/03",
+    "industry": "電腦及週邊設備業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6837",
+    "name": "富利康科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "6837　富利康科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0006837008",
+      "公開發行日": "2021/05/13",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006837008",
+    "public_offering_date": "2021/05/13",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6845",
+    "name": "仲信資融",
+    "raw_fields": {
+      "有價證券代號及名稱": "6845　仲信資融",
+      "國際證券辨識號碼(ISIN Code)": "TW0006845001",
+      "公開發行日": "2021/07/19",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006845001",
+    "public_offering_date": "2021/07/19",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6851",
+    "name": "立視科",
+    "raw_fields": {
+      "有價證券代號及名稱": "6851　立視科",
+      "國際證券辨識號碼(ISIN Code)": "TW0006851009",
+      "公開發行日": "2021/08/18",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006851009",
+    "public_offering_date": "2021/08/18",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6852",
+    "name": "精能醫學",
+    "raw_fields": {
+      "有價證券代號及名稱": "6852　精能醫學",
+      "國際證券辨識號碼(ISIN Code)": "TW0006852007",
+      "公開發行日": "2021/08/25",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006852007",
+    "public_offering_date": "2021/08/25",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6866",
+    "name": "中大生醫",
+    "raw_fields": {
+      "有價證券代號及名稱": "6866　中大生醫",
+      "國際證券辨識號碼(ISIN Code)": "TW0006866007",
+      "公開發行日": "2021/10/07",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006866007",
+    "public_offering_date": "2021/10/07",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6871",
+    "name": "新鑫",
+    "raw_fields": {
+      "有價證券代號及名稱": "6871　新鑫",
+      "國際證券辨識號碼(ISIN Code)": "TW0006871007",
+      "公開發行日": "2021/10/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006871007",
+    "public_offering_date": "2021/10/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6930",
+    "name": "盛新",
+    "raw_fields": {
+      "有價證券代號及名稱": "6930　盛新",
+      "國際證券辨識號碼(ISIN Code)": "TW0006930001",
+      "公開發行日": "2022/10/06",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006930001",
+    "public_offering_date": "2022/10/06",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6942",
+    "name": "威達高",
+    "raw_fields": {
+      "有價證券代號及名稱": "6942　威達高",
+      "國際證券辨識號碼(ISIN Code)": "TW0006942006",
+      "公開發行日": "2022/12/28",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006942006",
+    "public_offering_date": "2022/12/28",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6943",
+    "name": "明緯企業",
+    "raw_fields": {
+      "有價證券代號及名稱": "6943　明緯企業",
+      "國際證券辨識號碼(ISIN Code)": "TW0006943004",
+      "公開發行日": "2023/01/05",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006943004",
+    "public_offering_date": "2023/01/05",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6950",
+    "name": "科科科技-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "6950　科科科技-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG5275M1015",
+      "公開發行日": "2024/01/17",
+      "產業別": "數位雲端",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG5275M1015",
+    "public_offering_date": "2024/01/17",
+    "industry": "數位雲端",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6954",
+    "name": "全盈支付",
+    "raw_fields": {
+      "有價證券代號及名稱": "6954　全盈支付",
+      "國際證券辨識號碼(ISIN Code)": "TW0006954001",
+      "公開發行日": "2023/04/11",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006954001",
+    "public_offering_date": "2023/04/11",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6960",
+    "name": "南山產物",
+    "raw_fields": {
+      "有價證券代號及名稱": "6960　南山產物",
+      "國際證券辨識號碼(ISIN Code)": "TW0006960008",
+      "公開發行日": "2023/04/25",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006960008",
+    "public_offering_date": "2023/04/25",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6978",
+    "name": "愛盛科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "6978　愛盛科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0006978000",
+      "公開發行日": "2023/07/05",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006978000",
+    "public_offering_date": "2023/07/05",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6985",
+    "name": "台新人壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "6985　台新人壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0006985005",
+      "公開發行日": "2023/08/01",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006985005",
+    "public_offering_date": "2023/08/01",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6991",
+    "name": "精準健康",
+    "raw_fields": {
+      "有價證券代號及名稱": "6991　精準健康",
+      "國際證券辨識號碼(ISIN Code)": "TW0006991003",
+      "公開發行日": "2023/08/10",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006991003",
+    "public_offering_date": "2023/08/10",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6992",
+    "name": "萬勝發科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "6992　萬勝發科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0006992001",
+      "公開發行日": "2023/08/18",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006992001",
+    "public_offering_date": "2023/08/18",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6993",
+    "name": "凱納",
+    "raw_fields": {
+      "有價證券代號及名稱": "6993　凱納",
+      "國際證券辨識號碼(ISIN Code)": "TW0006993009",
+      "公開發行日": "2023/08/18",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006993009",
+    "public_offering_date": "2023/08/18",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "6998",
+    "name": "友上科",
+    "raw_fields": {
+      "有價證券代號及名稱": "6998　友上科",
+      "國際證券辨識號碼(ISIN Code)": "TW0006998008",
+      "公開發行日": "2023/08/29",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006998008",
+    "public_offering_date": "2023/08/29",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7570",
+    "name": "紫金堂",
+    "raw_fields": {
+      "有價證券代號及名稱": "7570　紫金堂",
+      "國際證券辨識號碼(ISIN Code)": "TW0007570B12",
+      "公開發行日": "2020/12/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007570B12",
+    "public_offering_date": "2020/12/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7660",
+    "name": "元勛",
+    "raw_fields": {
+      "有價證券代號及名稱": "7660　元勛",
+      "國際證券辨識號碼(ISIN Code)": "TW0007660B13",
+      "公開發行日": "2025/11/25",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007660B13",
+    "public_offering_date": "2025/11/25",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7739",
+    "name": "藍新科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7739　藍新科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007739005",
+      "公開發行日": "2024/01/11",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007739005",
+    "public_offering_date": "2024/01/11",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7746",
+    "name": "智安",
+    "raw_fields": {
+      "有價證券代號及名稱": "7746　智安",
+      "國際證券辨識號碼(ISIN Code)": "TW0007746000",
+      "公開發行日": "2024/04/19",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007746000",
+    "public_offering_date": "2024/04/19",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7775",
+    "name": "禾馨",
+    "raw_fields": {
+      "有價證券代號及名稱": "7775　禾馨",
+      "國際證券辨識號碼(ISIN Code)": "TW0007775009",
+      "公開發行日": "2024/08/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007775009",
+    "public_offering_date": "2024/08/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7793",
+    "name": "上峰",
+    "raw_fields": {
+      "有價證券代號及名稱": "7793　上峰",
+      "國際證券辨識號碼(ISIN Code)": "TW0007793002",
+      "公開發行日": "2024/10/03",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007793002",
+    "public_offering_date": "2024/10/03",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7817",
+    "name": "日盛全實業",
+    "raw_fields": {
+      "有價證券代號及名稱": "7817　日盛全實業",
+      "國際證券辨識號碼(ISIN Code)": "TW0007817009",
+      "公開發行日": "2024/12/12",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007817009",
+    "public_offering_date": "2024/12/12",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7830",
+    "name": "安能科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7830　安能科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007830002",
+      "公開發行日": "2025/03/18",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007830002",
+    "public_offering_date": "2025/03/18",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7844",
+    "name": "揚堡",
+    "raw_fields": {
+      "有價證券代號及名稱": "7844　揚堡",
+      "國際證券辨識號碼(ISIN Code)": "TW0007844003",
+      "公開發行日": "2025/05/15",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007844003",
+    "public_offering_date": "2025/05/15",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7859",
+    "name": "翰可能源",
+    "raw_fields": {
+      "有價證券代號及名稱": "7859　翰可能源",
+      "國際證券辨識號碼(ISIN Code)": "TW0007859001",
+      "公開發行日": "2025/08/15",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007859001",
+    "public_offering_date": "2025/08/15",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7864",
+    "name": "聖洋",
+    "raw_fields": {
+      "有價證券代號及名稱": "7864　聖洋",
+      "國際證券辨識號碼(ISIN Code)": "TW0007864001",
+      "公開發行日": "2025/08/29",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007864001",
+    "public_offering_date": "2025/08/29",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7884",
+    "name": "勤億蛋品",
+    "raw_fields": {
+      "有價證券代號及名稱": "7884　勤億蛋品",
+      "國際證券辨識號碼(ISIN Code)": "TW0007884009",
+      "公開發行日": "2025/11/12",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007884009",
+    "public_offering_date": "2025/11/12",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7906",
+    "name": "燁鋒",
+    "raw_fields": {
+      "有價證券代號及名稱": "7906　燁鋒",
+      "國際證券辨識號碼(ISIN Code)": "TW0007906000",
+      "公開發行日": "2026/01/13",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007906000",
+    "public_offering_date": "2026/01/13",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7916",
+    "name": "星耀投控",
+    "raw_fields": {
+      "有價證券代號及名稱": "7916　星耀投控",
+      "國際證券辨識號碼(ISIN Code)": "TW0007916009",
+      "公開發行日": "2026/03/27",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007916009",
+    "public_offering_date": "2026/03/27",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7917",
+    "name": "源傑",
+    "raw_fields": {
+      "有價證券代號及名稱": "7917　源傑",
+      "國際證券辨識號碼(ISIN Code)": "TW0007917007",
+      "公開發行日": "2026/04/07",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007917007",
+    "public_offering_date": "2026/04/07",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7930",
+    "name": "威世波",
+    "raw_fields": {
+      "有價證券代號及名稱": "7930　威世波",
+      "國際證券辨識號碼(ISIN Code)": "TW0007930000",
+      "公開發行日": "2026/07/08",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007930000",
+    "public_offering_date": "2026/07/08",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7932",
+    "name": "昱鐳應材",
+    "raw_fields": {
+      "有價證券代號及名稱": "7932　昱鐳應材",
+      "國際證券辨識號碼(ISIN Code)": "TW0007932006",
+      "公開發行日": "2026/05/27",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007932006",
+    "public_offering_date": "2026/05/27",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7934",
+    "name": "鋒霈環境",
+    "raw_fields": {
+      "有價證券代號及名稱": "7934　鋒霈環境",
+      "國際證券辨識號碼(ISIN Code)": "TW0007934002",
+      "公開發行日": "2026/06/15",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007934002",
+    "public_offering_date": "2026/06/15",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7935",
+    "name": "安富",
+    "raw_fields": {
+      "有價證券代號及名稱": "7935　安富",
+      "國際證券辨識號碼(ISIN Code)": "TW0007935009",
+      "公開發行日": "2026/07/13",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007935009",
+    "public_offering_date": "2026/07/13",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7936",
+    "name": "寰聖",
+    "raw_fields": {
+      "有價證券代號及名稱": "7936　寰聖",
+      "國際證券辨識號碼(ISIN Code)": "TW0007936007",
+      "公開發行日": "2026/07/13",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007936007",
+    "public_offering_date": "2026/07/13",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8029",
+    "name": "久尹",
+    "raw_fields": {
+      "有價證券代號及名稱": "8029　久尹",
+      "國際證券辨識號碼(ISIN Code)": "TW0008029000",
+      "公開發行日": "1997/08/15",
+      "產業別": "光電業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008029000",
+    "public_offering_date": "1997/08/15",
+    "industry": "光電業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8078",
+    "name": "華寶",
+    "raw_fields": {
+      "有價證券代號及名稱": "8078　華寶",
+      "國際證券辨識號碼(ISIN Code)": "TW0008078007",
+      "公開發行日": "2003/02/27",
+      "產業別": "通信網路業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008078007",
+    "public_offering_date": "2003/02/27",
+    "industry": "通信網路業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8115",
+    "name": "帝聞",
+    "raw_fields": {
+      "有價證券代號及名稱": "8115　帝聞",
+      "國際證券辨識號碼(ISIN Code)": "TW0008115007",
+      "公開發行日": "1988/09/10",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008115007",
+    "public_offering_date": "1988/09/10",
+    "industry": "電子零組件業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8134",
+    "name": "泰山電子",
+    "raw_fields": {
+      "有價證券代號及名稱": "8134　泰山電子",
+      "國際證券辨識號碼(ISIN Code)": "TW0008134008",
+      "公開發行日": "1997/06/12",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008134008",
+    "public_offering_date": "1997/06/12",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8140",
+    "name": "利翔航太",
+    "raw_fields": {
+      "有價證券代號及名稱": "8140　利翔航太",
+      "國際證券辨識號碼(ISIN Code)": "TW0008140005",
+      "公開發行日": "1997/07/10",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008140005",
+    "public_offering_date": "1997/07/10",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8152",
+    "name": "峻新電腦",
+    "raw_fields": {
+      "有價證券代號及名稱": "8152　峻新電腦",
+      "國際證券辨識號碼(ISIN Code)": "TW0008152000",
+      "公開發行日": "1997/11/20",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008152000",
+    "public_offering_date": "1997/11/20",
+    "industry": "電子工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8218",
+    "name": "輝城電子",
+    "raw_fields": {
+      "有價證券代號及名稱": "8218　輝城電子",
+      "國際證券辨識號碼(ISIN Code)": "TW0008218009",
+      "公開發行日": "1999/11/29",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008218009",
+    "public_offering_date": "1999/11/29",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8287",
+    "name": "英格爾",
+    "raw_fields": {
+      "有價證券代號及名稱": "8287　英格爾",
+      "國際證券辨識號碼(ISIN Code)": "TW0008287004",
+      "公開發行日": "2000/08/10",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008287004",
+    "public_offering_date": "2000/08/10",
+    "industry": "電子零組件業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8304",
+    "name": "佳聯有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8304　佳聯有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008304007",
+      "公開發行日": "1998/07/11",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008304007",
+    "public_offering_date": "1998/07/11",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8305",
+    "name": "群健",
+    "raw_fields": {
+      "有價證券代號及名稱": "8305　群健",
+      "國際證券辨識號碼(ISIN Code)": "TW0008305004",
+      "公開發行日": "1997/07/01",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008305004",
+    "public_offering_date": "1997/07/01",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8307",
+    "name": "威達",
+    "raw_fields": {
+      "有價證券代號及名稱": "8307　威達",
+      "國際證券辨識號碼(ISIN Code)": "TW0008307000",
+      "公開發行日": "1997/07/25",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008307000",
+    "public_offering_date": "1997/07/25",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8308",
+    "name": "中投有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8308　中投有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008308008",
+      "公開發行日": "1997/07/30",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008308008",
+    "public_offering_date": "1997/07/30",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8309",
+    "name": "吉元",
+    "raw_fields": {
+      "有價證券代號及名稱": "8309　吉元",
+      "國際證券辨識號碼(ISIN Code)": "TW0008309006",
+      "公開發行日": "1997/06/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008309006",
+    "public_offering_date": "1997/06/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8310",
+    "name": "長德有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8310　長德有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008310004",
+      "公開發行日": "1997/09/24",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008310004",
+    "public_offering_date": "1997/09/24",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8312",
+    "name": "東亞有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8312　東亞有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008312000",
+      "公開發行日": "1997/04/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008312000",
+    "public_offering_date": "1997/04/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8327",
+    "name": "洄瀾有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8327　洄瀾有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008327008",
+      "公開發行日": "1998/06/19",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008327008",
+    "public_offering_date": "1998/06/19",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8343",
+    "name": "科學城",
+    "raw_fields": {
+      "有價證券代號及名稱": "8343　科學城",
+      "國際證券辨識號碼(ISIN Code)": "TW0008343005",
+      "公開發行日": "1999/05/04",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008343005",
+    "public_offering_date": "1999/05/04",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8350",
+    "name": "榮輪科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "8350　榮輪科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0008350000",
+      "公開發行日": "1999/10/14",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008350000",
+    "public_offering_date": "1999/10/14",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8360",
+    "name": "中華電視",
+    "raw_fields": {
+      "有價證券代號及名稱": "8360　中華電視",
+      "國際證券辨識號碼(ISIN Code)": "TW0008360009",
+      "公開發行日": "2001/07/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008360009",
+    "public_offering_date": "2001/07/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8368",
+    "name": "屏南有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8368　屏南有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008368002",
+      "公開發行日": "1998/06/08",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008368002",
+    "public_offering_date": "1998/06/08",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8370",
+    "name": "欣隆天然",
+    "raw_fields": {
+      "有價證券代號及名稱": "8370　欣隆天然",
+      "國際證券辨識號碼(ISIN Code)": "TW0008370008",
+      "公開發行日": "1999/09/08",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008370008",
+    "public_offering_date": "1999/09/08",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8376",
+    "name": "遠鼎投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "8376　遠鼎投資",
+      "國際證券辨識號碼(ISIN Code)": "TW0008376005",
+      "公開發行日": "1988/08/01",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008376005",
+    "public_offering_date": "1988/08/01",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8379",
+    "name": "欣湖公司",
+    "raw_fields": {
+      "有價證券代號及名稱": "8379　欣湖公司",
+      "國際證券辨識號碼(ISIN Code)": "TW0008379009",
+      "公開發行日": "1994/11/03",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008379009",
+    "public_offering_date": "1994/11/03",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8387",
+    "name": "緯來電視網",
+    "raw_fields": {
+      "有價證券代號及名稱": "8387　緯來電視網",
+      "國際證券辨識號碼(ISIN Code)": "TW0008387002",
+      "公開發行日": "2003/08/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008387002",
+    "public_offering_date": "2003/08/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8391",
+    "name": "森霸電力",
+    "raw_fields": {
+      "有價證券代號及名稱": "8391　森霸電力",
+      "國際證券辨識號碼(ISIN Code)": "TW0008391004",
+      "公開發行日": "2004/08/19",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008391004",
+    "public_offering_date": "2004/08/19",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8392",
+    "name": "星能電力",
+    "raw_fields": {
+      "有價證券代號及名稱": "8392　星能電力",
+      "國際證券辨識號碼(ISIN Code)": "TW0008392002",
+      "公開發行日": "2004/08/19",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008392002",
+    "public_offering_date": "2004/08/19",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8394",
+    "name": "台灣菸酒",
+    "raw_fields": {
+      "有價證券代號及名稱": "8394　台灣菸酒",
+      "國際證券辨識號碼(ISIN Code)": "TW0008394008",
+      "公開發行日": "2005/01/11",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008394008",
+    "public_offering_date": "2005/01/11",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8399",
+    "name": "聯美林業",
+    "raw_fields": {
+      "有價證券代號及名稱": "8399　聯美林業",
+      "國際證券辨識號碼(ISIN Code)": "TW0008399007",
+      "公開發行日": "2006/05/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008399007",
+    "public_offering_date": "2006/05/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8452",
+    "name": "北都數位有線電視",
+    "raw_fields": {
+      "有價證券代號及名稱": "8452　北都數位有線電視",
+      "國際證券辨識號碼(ISIN Code)": "TW0008452004",
+      "公開發行日": "2013/12/16",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008452004",
+    "public_offering_date": "2013/12/16",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8453",
+    "name": "全國數位有線電視",
+    "raw_fields": {
+      "有價證券代號及名稱": "8453　全國數位有線電視",
+      "國際證券辨識號碼(ISIN Code)": "TW0008453002",
+      "公開發行日": "2013/12/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008453002",
+    "public_offering_date": "2013/12/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8456",
+    "name": "新北市有線電視",
+    "raw_fields": {
+      "有價證券代號及名稱": "8456　新北市有線電視",
+      "國際證券辨識號碼(ISIN Code)": "TW0008456005",
+      "公開發行日": "2014/02/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008456005",
+    "public_offering_date": "2014/02/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8459",
+    "name": "數位天空服務",
+    "raw_fields": {
+      "有價證券代號及名稱": "8459　數位天空服務",
+      "國際證券辨識號碼(ISIN Code)": "TW0008459009",
+      "公開發行日": "2014/06/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008459009",
+    "public_offering_date": "2014/06/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8469",
+    "name": "新高雄有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8469　新高雄有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008469008",
+      "公開發行日": "2014/10/15",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008469008",
+    "public_offering_date": "2014/10/15",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8943",
+    "name": "寶福有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8943　寶福有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008943002",
+      "公開發行日": "1996/06/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008943002",
+    "public_offering_date": "1996/06/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8945",
+    "name": "大新店",
+    "raw_fields": {
+      "有價證券代號及名稱": "8945　大新店",
+      "國際證券辨識號碼(ISIN Code)": "TW0008945007",
+      "公開發行日": "1996/07/03",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008945007",
+    "public_offering_date": "1996/07/03",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8946",
+    "name": "雙子星",
+    "raw_fields": {
+      "有價證券代號及名稱": "8946　雙子星",
+      "國際證券辨識號碼(ISIN Code)": "TW0008946005",
+      "公開發行日": "1996/07/03",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008946005",
+    "public_offering_date": "1996/07/03",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8948",
+    "name": "北視有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8948　北視有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008948001",
+      "公開發行日": "1996/07/12",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008948001",
+    "public_offering_date": "1996/07/12",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8951",
+    "name": "新竹振道",
+    "raw_fields": {
+      "有價證券代號及名稱": "8951　新竹振道",
+      "國際證券辨識號碼(ISIN Code)": "TW0008951005",
+      "公開發行日": "1996/07/25",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008951005",
+    "public_offering_date": "1996/07/25",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8952",
+    "name": "金頻道",
+    "raw_fields": {
+      "有價證券代號及名稱": "8952　金頻道",
+      "國際證券辨識號碼(ISIN Code)": "TW0008952003",
+      "公開發行日": "1996/09/20",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008952003",
+    "public_offering_date": "1996/09/20",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8953",
+    "name": "吉隆有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8953　吉隆有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008953001",
+      "公開發行日": "1996/09/02",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008953001",
+    "public_offering_date": "1996/09/02",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8955",
+    "name": "北健有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8955　北健有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008955006",
+      "公開發行日": "1996/09/04",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008955006",
+    "public_offering_date": "1996/09/04",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8956",
+    "name": "台灣數位",
+    "raw_fields": {
+      "有價證券代號及名稱": "8956　台灣數位",
+      "國際證券辨識號碼(ISIN Code)": "TW0008956004",
+      "公開發行日": "1996/09/25",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008956004",
+    "public_offering_date": "1996/09/25",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8957",
+    "name": "新唐城",
+    "raw_fields": {
+      "有價證券代號及名稱": "8957　新唐城",
+      "國際證券辨識號碼(ISIN Code)": "TW0008957002",
+      "公開發行日": "1996/09/30",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008957002",
+    "public_offering_date": "1996/09/30",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8960",
+    "name": "紅樹林",
+    "raw_fields": {
+      "有價證券代號及名稱": "8960　紅樹林",
+      "國際證券辨識號碼(ISIN Code)": "TW0008960006",
+      "公開發行日": "1996/10/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008960006",
+    "public_offering_date": "1996/10/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8962",
+    "name": "新視波有",
+    "raw_fields": {
+      "有價證券代號及名稱": "8962　新視波有",
+      "國際證券辨識號碼(ISIN Code)": "TW0008962002",
+      "公開發行日": "1996/10/16",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008962002",
+    "public_offering_date": "1996/10/16",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8963",
+    "name": "新台北",
+    "raw_fields": {
+      "有價證券代號及名稱": "8963　新台北",
+      "國際證券辨識號碼(ISIN Code)": "TW0008963000",
+      "公開發行日": "1996/10/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008963000",
+    "public_offering_date": "1996/10/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8965",
+    "name": "家和有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8965　家和有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008965005",
+      "公開發行日": "1996/10/24",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008965005",
+    "public_offering_date": "1996/10/24",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8966",
+    "name": "鳳信有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8966　鳳信有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008966003",
+      "公開發行日": "1996/11/04",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008966003",
+    "public_offering_date": "1996/11/04",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8967",
+    "name": "慶聯有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8967　慶聯有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008967001",
+      "公開發行日": "1996/11/07",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008967001",
+    "public_offering_date": "1996/11/07",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8968",
+    "name": "陽明山",
+    "raw_fields": {
+      "有價證券代號及名稱": "8968　陽明山",
+      "國際證券辨識號碼(ISIN Code)": "TW0008968009",
+      "公開發行日": "1996/12/11",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008968009",
+    "public_offering_date": "1996/12/11",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8969",
+    "name": "北桃園",
+    "raw_fields": {
+      "有價證券代號及名稱": "8969　北桃園",
+      "國際證券辨識號碼(ISIN Code)": "TW0008969007",
+      "公開發行日": "1996/12/03",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008969007",
+    "public_offering_date": "1996/12/03",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8970",
+    "name": "大揚有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8970　大揚有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008970005",
+      "公開發行日": "1996/12/04",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008970005",
+    "public_offering_date": "1996/12/04",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8971",
+    "name": "南桃園",
+    "raw_fields": {
+      "有價證券代號及名稱": "8971　南桃園",
+      "國際證券辨識號碼(ISIN Code)": "TW0008971003",
+      "公開發行日": "1996/12/13",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008971003",
+    "public_offering_date": "1996/12/13",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8973",
+    "name": "澎湖有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8973　澎湖有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008973009",
+      "公開發行日": "1996/12/27",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008973009",
+    "public_offering_date": "1996/12/27",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8974",
+    "name": "世新有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8974　世新有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008974007",
+      "公開發行日": "1996/12/24",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008974007",
+    "public_offering_date": "1996/12/24",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8975",
+    "name": "觀昇有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8975　觀昇有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008975004",
+      "公開發行日": "1997/01/07",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008975004",
+    "public_offering_date": "1997/01/07",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8976",
+    "name": "聯維有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8976　聯維有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008976002",
+      "公開發行日": "1997/01/09",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008976002",
+    "public_offering_date": "1997/01/09",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8977",
+    "name": "南國",
+    "raw_fields": {
+      "有價證券代號及名稱": "8977　南國",
+      "國際證券辨識號碼(ISIN Code)": "TW0008977000",
+      "公開發行日": "1997/01/15",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008977000",
+    "public_offering_date": "1997/01/15",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8978",
+    "name": "大安文山",
+    "raw_fields": {
+      "有價證券代號及名稱": "8978　大安文山",
+      "國際證券辨識號碼(ISIN Code)": "TW0008978008",
+      "公開發行日": "1996/12/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008978008",
+    "public_offering_date": "1996/12/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8980",
+    "name": "萬象有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8980　萬象有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008980004",
+      "公開發行日": "1997/03/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008980004",
+    "public_offering_date": "1997/03/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8981",
+    "name": "麗冠有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8981　麗冠有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008981002",
+      "公開發行日": "1997/03/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008981002",
+    "public_offering_date": "1997/03/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8982",
+    "name": "信和有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8982　信和有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008982000",
+      "公開發行日": "1997/01/27",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008982000",
+    "public_offering_date": "1997/01/27",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8983",
+    "name": "豐盟有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8983　豐盟有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008983008",
+      "公開發行日": "1997/02/21",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008983008",
+    "public_offering_date": "1997/02/21",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8985",
+    "name": "國聲有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8985　國聲有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008985003",
+      "公開發行日": "1997/03/01",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008985003",
+    "public_offering_date": "1997/03/01",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8986",
+    "name": "台灣佳光",
+    "raw_fields": {
+      "有價證券代號及名稱": "8986　台灣佳光",
+      "國際證券辨識號碼(ISIN Code)": "TW0008986001",
+      "公開發行日": "1997/03/26",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008986001",
+    "public_offering_date": "1997/03/26",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8987",
+    "name": "東台有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8987　東台有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008987009",
+      "公開發行日": "1997/03/22",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008987009",
+    "public_offering_date": "1997/03/22",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8988",
+    "name": "大屯有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8988　大屯有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008988007",
+      "公開發行日": "1997/04/02",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008988007",
+    "public_offering_date": "1997/04/02",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8990",
+    "name": "港都電視",
+    "raw_fields": {
+      "有價證券代號及名稱": "8990　港都電視",
+      "國際證券辨識號碼(ISIN Code)": "TW0008990003",
+      "公開發行日": "1997/03/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008990003",
+    "public_offering_date": "1997/03/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8991",
+    "name": "三大有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8991　三大有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008991001",
+      "公開發行日": "1997/03/04",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008991001",
+    "public_offering_date": "1997/03/04",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8992",
+    "name": "新頻道有",
+    "raw_fields": {
+      "有價證券代號及名稱": "8992　新頻道有",
+      "國際證券辨識號碼(ISIN Code)": "TW0008992009",
+      "公開發行日": "1997/06/11",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008992009",
+    "public_offering_date": "1997/06/11",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "8995",
+    "name": "北港有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "8995　北港有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0008995002",
+      "公開發行日": "1997/07/01",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008995002",
+    "public_offering_date": "1997/07/01",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9963",
+    "name": "台電",
+    "raw_fields": {
+      "有價證券代號及名稱": "9963　台電",
+      "國際證券辨識號碼(ISIN Code)": "TW0009963009",
+      "公開發行日": "1965/10/09",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009963009",
+    "public_offering_date": "1965/10/09",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9964",
+    "name": "榮僑投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "9964　榮僑投資",
+      "國際證券辨識號碼(ISIN Code)": "TW0009964007",
+      "公開發行日": "1982/10/28",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009964007",
+    "public_offering_date": "1982/10/28",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9968",
+    "name": "華歌爾",
+    "raw_fields": {
+      "有價證券代號及名稱": "9968　華歌爾",
+      "國際證券辨識號碼(ISIN Code)": "TW0009968008",
+      "公開發行日": "1991/10/31",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009968008",
+    "public_offering_date": "1991/10/31",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9971",
+    "name": "立大開發",
+    "raw_fields": {
+      "有價證券代號及名稱": "9971　立大開發",
+      "國際證券辨識號碼(ISIN Code)": "TW0009971002",
+      "公開發行日": "1994/09/10",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009971002",
+    "public_offering_date": "1994/09/10",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9977",
+    "name": "新永安",
+    "raw_fields": {
+      "有價證券代號及名稱": "9977　新永安",
+      "國際證券辨識號碼(ISIN Code)": "TW0009977009",
+      "公開發行日": "1995/07/22",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009977009",
+    "public_offering_date": "1995/07/22",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9978",
+    "name": "長榮空廚",
+    "raw_fields": {
+      "有價證券代號及名稱": "9978　長榮空廚",
+      "國際證券辨識號碼(ISIN Code)": "TW0009978007",
+      "公開發行日": "1995/05/31",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009978007",
+    "public_offering_date": "1995/05/31",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9982",
+    "name": "三冠王",
+    "raw_fields": {
+      "有價證券代號及名稱": "9982　三冠王",
+      "國際證券辨識號碼(ISIN Code)": "TW0009982009",
+      "公開發行日": "1996/04/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009982009",
+    "public_offering_date": "1996/04/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9983",
+    "name": "永佳樂",
+    "raw_fields": {
+      "有價證券代號及名稱": "9983　永佳樂",
+      "國際證券辨識號碼(ISIN Code)": "TW0009983007",
+      "公開發行日": "1995/04/05",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009983007",
+    "public_offering_date": "1995/04/05",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9984",
+    "name": "全聯有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "9984　全聯有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0009984005",
+      "公開發行日": "1996/04/25",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009984005",
+    "public_offering_date": "1996/04/25",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9985",
+    "name": "觀天下",
+    "raw_fields": {
+      "有價證券代號及名稱": "9985　觀天下",
+      "國際證券辨識號碼(ISIN Code)": "TW0009985002",
+      "公開發行日": "1996/03/27",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009985002",
+    "public_offering_date": "1996/03/27",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "9986",
+    "name": "南天有線",
+    "raw_fields": {
+      "有價證券代號及名稱": "9986　南天有線",
+      "國際證券辨識號碼(ISIN Code)": "TW0009986000",
+      "公開發行日": "1996/05/17",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0009986000",
+    "public_offering_date": "1996/05/17",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  }
+]

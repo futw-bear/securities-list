@@ -1,0 +1,21 @@
+[
+  {
+    "str_mode": 12,
+    "category": null,
+    "code": "ST001D",
+    "name": "綠點陽光ST國泰債",
+    "raw_fields": {
+      "STO代號及名稱": "ST001D　綠點陽光ST國泰債",
+      "國際證券辨識號碼(ISIN Code)": "TW000ST001D8",
+      "發行日": "2023/12/12",
+      "到期日": "2029/12/12",
+      "CFICode": "DBFUGB",
+      "備註": ""
+    },
+    "isin_code": "TW000ST001D8",
+    "issue_date": "2023/12/12",
+    "maturity_date": "2029/12/12",
+    "cfi_code": "DBFUGB",
+    "remarks": null
+  }
+]
