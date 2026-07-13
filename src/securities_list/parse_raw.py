@@ -7,8 +7,8 @@ import sys
 from html.parser import HTMLParser
 from pathlib import Path
 
-DEFAULT_RAW_DIR = Path("raw")
-DEFAULT_OUTPUT_DIR = Path("data/generated")
+DEFAULT_RAW_DIR = Path("data/raw")
+DEFAULT_OUTPUT_DIR = Path("data/parsed")
 DEFAULT_FULL_OUTPUT = DEFAULT_OUTPUT_DIR / "securities-full.json"
 DEFAULT_COMPACT_OUTPUT = DEFAULT_OUTPUT_DIR / "securities.json"
 
@@ -152,10 +152,24 @@ def raw_file_sort_key(path: Path) -> tuple[int, str]:
     return (str_mode if str_mode is not None else 9999, path.name)
 
 
-def convert_raw_dir(raw_dir: Path) -> list[dict[str, object]]:
+def convert_raw_dir_by_str_mode(
+    raw_dir: Path,
+) -> tuple[list[dict[str, object]], dict[int, list[dict[str, object]]]]:
     records: list[dict[str, object]] = []
+    records_by_str_mode: dict[int, list[dict[str, object]]] = {}
     for path in sorted(raw_dir.glob("*.html"), key=raw_file_sort_key):
-        records.extend(parse_raw_file(path))
+        parsed_records = parse_raw_file(path)
+        records.extend(parsed_records)
+
+        str_mode = extract_str_mode_from_path(path)
+        if str_mode is not None:
+            records_by_str_mode.setdefault(str_mode, []).extend(parsed_records)
+
+    return records, records_by_str_mode
+
+
+def convert_raw_dir(raw_dir: Path) -> list[dict[str, object]]:
+    records, _ = convert_raw_dir_by_str_mode(raw_dir)
     return records
 
 
@@ -175,6 +189,38 @@ def write_json(path: Path, value: object) -> None:
         json.dumps(value, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+
+
+def output_path_for_str_mode(path: Path, str_mode: int) -> Path:
+    return path.with_name(f"{path.stem}-{str_mode}{path.suffix}")
+
+
+def write_outputs(
+    full_output: Path,
+    compact_output: Path,
+    records: list[dict[str, object]],
+    records_by_str_mode: dict[int, list[dict[str, object]]],
+) -> list[tuple[Path, int]]:
+    written: list[tuple[Path, int]] = []
+
+    write_json(full_output, records)
+    written.append((full_output, len(records)))
+
+    compact = compact_records(records)
+    write_json(compact_output, compact)
+    written.append((compact_output, len(compact)))
+
+    for str_mode, mode_records in sorted(records_by_str_mode.items()):
+        mode_full_output = output_path_for_str_mode(full_output, str_mode)
+        write_json(mode_full_output, mode_records)
+        written.append((mode_full_output, len(mode_records)))
+
+        mode_compact_output = output_path_for_str_mode(compact_output, str_mode)
+        mode_compact = compact_records(mode_records)
+        write_json(mode_compact_output, mode_compact)
+        written.append((mode_compact_output, len(mode_compact)))
+
+    return written
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
@@ -205,16 +251,19 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     try:
-        records = convert_raw_dir(args.raw_dir)
-        write_json(args.full_output, records)
-        compact = compact_records(records)
-        write_json(args.compact_output, compact)
+        records, records_by_str_mode = convert_raw_dir_by_str_mode(args.raw_dir)
+        written = write_outputs(
+            args.full_output,
+            args.compact_output,
+            records,
+            records_by_str_mode,
+        )
     except (OSError, ValueError) as exc:
         print(f"convert-raw-json: {exc}", file=sys.stderr)
         return 1
 
-    print(f"{args.full_output} ({len(records)} records)")
-    print(f"{args.compact_output} ({len(compact)} records)")
+    for path, record_count in written:
+        print(f"{path} ({record_count} records)")
     return 0
 
 

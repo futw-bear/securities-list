@@ -11,7 +11,7 @@ from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 from urllib.request import Request, urlopen
 
 DEFAULT_URL = "https://isin.twse.com.tw/isin/C_public.jsp?strMode=1"
-DEFAULT_OUTPUT_DIR = Path("raw")
+DEFAULT_OUTPUT_DIR = Path("data/raw")
 STR_MODES = range(1, 13)
 
 
