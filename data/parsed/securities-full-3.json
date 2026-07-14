@@ -23877,6 +23877,81 @@
   {
     "str_mode": 3,
     "category": "公司債",
+    "code": "B903IA",
+    "name": "P15台電4A",
+    "raw_fields": {
+      "有價證券代號及名稱": "B903IA　P15台電4A",
+      "國際證券辨識號碼(ISIN Code)": "TW000B903IA5",
+      "發行日": "2026/07/15",
+      "到期日": "2031/07/15",
+      "利率值": "2.050000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B903IA5",
+    "issue_date": "2026/07/15",
+    "maturity_date": "2031/07/15",
+    "interest_rate": "2.050000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
+    "code": "B903IB",
+    "name": "P15台電4B",
+    "raw_fields": {
+      "有價證券代號及名稱": "B903IB　P15台電4B",
+      "國際證券辨識號碼(ISIN Code)": "TW000B903IB3",
+      "發行日": "2026/07/15",
+      "到期日": "2033/07/15",
+      "利率值": "2.050000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B903IB3",
+    "issue_date": "2026/07/15",
+    "maturity_date": "2033/07/15",
+    "interest_rate": "2.050000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
+    "code": "B903IC",
+    "name": "P15台電4C",
+    "raw_fields": {
+      "有價證券代號及名稱": "B903IC　P15台電4C",
+      "國際證券辨識號碼(ISIN Code)": "TW000B903IC1",
+      "發行日": "2026/07/15",
+      "到期日": "2036/07/15",
+      "利率值": "2.060000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B903IC1",
+    "issue_date": "2026/07/15",
+    "maturity_date": "2036/07/15",
+    "interest_rate": "2.060000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
     "code": "B903WE",
     "name": "P06台電1C",
     "raw_fields": {
@@ -70072,6 +70147,31 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DTFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
+    "code": "F19701",
+    "name": "S25HNCB1",
+    "raw_fields": {
+      "有價證券代號及名稱": "F19701　S25HNCB1",
+      "國際證券辨識號碼(ISIN Code)": "TW000F197017",
+      "發行日": "2025/03/28",
+      "到期日": "2028/03/28",
+      "利率值": "浮動利率",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBVUGR",
+      "備註": ""
+    },
+    "isin_code": "TW000F197017",
+    "issue_date": "2025/03/28",
+    "maturity_date": "2028/03/28",
+    "interest_rate": "浮動利率",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBVUGR",
     "remarks": null
   },
   {
