@@ -1029,12 +1029,12 @@
       "國際證券辨識號碼(ISIN Code)": "TW000T0134K3",
       "發行日": "2022/11/08",
       "CFICode": "CIOGRU",
-      "備註": ""
+      "備註": "於2022/11/08登錄櫃檯買賣"
     },
     "isin_code": "TW000T0134K3",
     "issue_date": "2022/11/08",
     "cfi_code": "CIOGRU",
-    "remarks": null
+    "remarks": "於2022/11/08登錄櫃檯買賣"
   },
   {
     "str_mode": 7,

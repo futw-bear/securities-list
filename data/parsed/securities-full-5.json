@@ -5462,27 +5462,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "7814",
-    "name": "海昌生技",
-    "raw_fields": {
-      "有價證券代號及名稱": "7814　海昌生技",
-      "國際證券辨識號碼(ISIN Code)": "TW0007814006",
-      "上市日": "2025/01/09",
-      "市場別": "興櫃",
-      "產業別": "生技醫療業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007814006",
-    "listing_date": "2025/01/09",
-    "market": "興櫃",
-    "industry": "生技醫療業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "7815",
     "name": "新特",
     "raw_fields": {
@@ -7220,6 +7199,27 @@
     "listing_date": "2026/06/26",
     "market": "興櫃",
     "industry": "電腦及週邊設備業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7930",
+    "name": "威世波",
+    "raw_fields": {
+      "有價證券代號及名稱": "7930　威世波",
+      "國際證券辨識號碼(ISIN Code)": "TW0007930000",
+      "上市日": "2026/07/16",
+      "市場別": "興櫃",
+      "產業別": "通信網路業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007930000",
+    "listing_date": "2026/07/16",
+    "market": "興櫃",
+    "industry": "通信網路業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },
