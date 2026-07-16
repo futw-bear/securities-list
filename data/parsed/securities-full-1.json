@@ -3270,25 +3270,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "6813",
-    "name": "富動科",
-    "raw_fields": {
-      "有價證券代號及名稱": "6813　富動科",
-      "國際證券辨識號碼(ISIN Code)": "TW0006813009",
-      "公開發行日": "2020/11/03",
-      "產業別": "電腦及週邊設備業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006813009",
-    "public_offering_date": "2020/11/03",
-    "industry": "電腦及週邊設備業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "6837",
     "name": "富利康科技",
     "raw_fields": {
@@ -4024,6 +4005,25 @@
     "isin_code": "TW0007936007",
     "public_offering_date": "2026/07/13",
     "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7939",
+    "name": "技宸",
+    "raw_fields": {
+      "有價證券代號及名稱": "7939　技宸",
+      "國際證券辨識號碼(ISIN Code)": "TW0007939001",
+      "公開發行日": "2026/07/17",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007939001",
+    "public_offering_date": "2026/07/17",
+    "industry": "電子工業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

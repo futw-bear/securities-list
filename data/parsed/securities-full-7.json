@@ -4779,6 +4779,210 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T045LA",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LA　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LA9",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LA9",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LB",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LB　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LB7",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LB7",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LC",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LC　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LC5",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LC5",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LD",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LD　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LD3",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LD3",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LE",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LE　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LE1",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LE1",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LF",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LF　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LF8",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LF8",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LG",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LG　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LG6",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LG6",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LH",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LH　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LH4",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LH4",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LJ",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LJ　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LJ0",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LJ0",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LK",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LK　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LK8",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LK8",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LL",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LL　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LL6",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LL6",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T045LM",
+    "name": "�i豐ＡＩ人型機器人多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T045LM　�i豐ＡＩ人型機器人多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T045LM4",
+      "發行日": "2026/07/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T045LM4",
+    "issue_date": "2026/07/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0496A",
     "name": "匯豐ＥＳＧ永續多元資產組合證",
     "raw_fields": {
@@ -14282,6 +14486,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T1080G",
+    "name": "富邦ＡＩ智能新趨勢多重資產型",
+    "raw_fields": {
+      "有價證券代號及名稱": "T1080G　富邦ＡＩ智能新趨勢多重資產型",
+      "國際證券辨識號碼(ISIN Code)": "TW000T1080G5",
+      "發行日": "2026/07/15",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T1080G5",
+    "issue_date": "2026/07/15",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T1089A",
     "name": "富邦台灣高股息證券投資信託基",
     "raw_fields": {
@@ -14312,6 +14533,23 @@
     "issue_date": "2020/07/10",
     "cfi_code": "CIOIEU",
     "remarks": null
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T1089C",
+    "name": "富邦台灣高股息證券投資信託基",
+    "raw_fields": {
+      "有價證券代號及名稱": "T1089C　富邦台灣高股息證券投資信託基",
+      "國際證券辨識號碼(ISIN Code)": "TW000T1089C5",
+      "發行日": "2026/07/15",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T1089C5",
+    "issue_date": "2026/07/15",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
   },
   {
     "str_mode": 7,
@@ -25060,6 +25298,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T2003D",
+    "name": "富邦上選證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T2003D　富邦上選證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T2003D3",
+      "發行日": "2026/07/15",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T2003D3",
+    "issue_date": "2026/07/15",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T2003Y",
     "name": "日盛上選證券投資信託基金",
     "raw_fields": {
@@ -25158,6 +25413,23 @@
     "issue_date": "1997/10/03",
     "cfi_code": "CIOGEU",
     "remarks": null
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T2011A",
+    "name": "富邦新台商證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T2011A　富邦新台商證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T2011A2",
+      "發行日": "2026/07/15",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T2011A2",
+    "issue_date": "2026/07/15",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
   },
   {
     "str_mode": 7,
@@ -25855,6 +26127,23 @@
     "issue_date": "2021/06/30",
     "cfi_code": "CIOIRU",
     "remarks": null
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T2069A",
+    "name": "富邦台灣永續成長股息證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T2069A　富邦台灣永續成長股息證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T2069A0",
+      "發行日": "2026/07/15",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T2069A0",
+    "issue_date": "2026/07/15",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
   },
   {
     "str_mode": 7,
