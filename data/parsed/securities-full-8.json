@@ -211,6 +211,25 @@
   {
     "str_mode": 8,
     "category": "普通股",
+    "code": "7420",
+    "name": "伍碩科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7420　伍碩科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007420B14",
+      "登錄日": "2026/07/17",
+      "市場別": "創櫃板",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007420B14",
+    "registration_date": "2026/07/17",
+    "market": "創櫃板",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 8,
+    "category": "普通股",
     "code": "7425",
     "name": "膳安",
     "raw_fields": {

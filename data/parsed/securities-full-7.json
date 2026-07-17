@@ -7533,6 +7533,312 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T05C6A",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6A　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6A6",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6A6",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6B",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6B　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6B4",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6B4",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6C",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6C　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6C2",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6C2",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6D",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6D　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6D0",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6D0",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6E",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6E　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6E8",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6E8",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6F",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6F　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6F5",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6F5",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6G",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6G　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6G3",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6G3",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6H",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6H　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6H1",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6H1",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6J",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6J　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6J7",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6J7",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6K",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6K　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6K5",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6K5",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6L",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6L　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6L3",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6L3",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6M",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6M　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6M1",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6M1",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6N",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6N　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6N9",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6N9",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6P",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6P　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6P4",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6P4",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6Q",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6Q　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6Q2",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6Q2",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6R",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6R　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6R0",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6R0",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6S",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6S　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6S8",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6S8",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T05C6T",
+    "name": "元大優質收益成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T05C6T　元大優質收益成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T05C6T6",
+      "發行日": "2026/07/16",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T05C6T6",
+    "issue_date": "2026/07/16",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0601A",
     "name": "景順潛力證券投資信託基金",
     "raw_fields": {
@@ -15228,6 +15534,142 @@
     },
     "isin_code": "TW000T10A3H3",
     "issue_date": "2025/12/04",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4A",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4A　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4A6",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4A6",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4B",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4B　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4B4",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4B4",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4C",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4C　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4C2",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4C2",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4D",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4D　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4D0",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4D0",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4E",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4E　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4E8",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4E8",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4F",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4F　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4F5",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4F5",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4G",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4G　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4G3",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4G3",
+    "issue_date": "2026/07/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A4H",
+    "name": "富邦景氣循環多元資產組合證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A4H　富邦景氣循環多元資產組合證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A4H1",
+      "發行日": "2026/07/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A4H1",
+    "issue_date": "2026/07/17",
     "cfi_code": "CIOIEU",
     "remarks": "於//登錄櫃檯買賣"
   },
