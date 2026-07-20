@@ -3384,6 +3384,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "6883",
+    "name": "微電能源",
+    "raw_fields": {
+      "有價證券代號及名稱": "6883　微電能源",
+      "國際證券辨識號碼(ISIN Code)": "TW0006883002",
+      "公開發行日": "2022/01/12",
+      "產業別": "綠能環保",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006883002",
+    "public_offering_date": "2022/01/12",
+    "industry": "綠能環保",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "6930",
     "name": "盛新",
     "raw_fields": {
@@ -3986,25 +4005,6 @@
     "isin_code": "TW0007935009",
     "public_offering_date": "2026/07/13",
     "industry": "電子工業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
-    "code": "7936",
-    "name": "寰聖",
-    "raw_fields": {
-      "有價證券代號及名稱": "7936　寰聖",
-      "國際證券辨識號碼(ISIN Code)": "TW0007936007",
-      "公開發行日": "2026/07/13",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007936007",
-    "public_offering_date": "2026/07/13",
-    "industry": "其他業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

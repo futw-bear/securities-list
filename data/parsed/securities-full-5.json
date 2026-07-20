@@ -3446,27 +3446,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "6883",
-    "name": "微電能源",
-    "raw_fields": {
-      "有價證券代號及名稱": "6883　微電能源",
-      "國際證券辨識號碼(ISIN Code)": "TW0006883002",
-      "上市日": "2024/07/19",
-      "市場別": "興櫃",
-      "產業別": "綠能環保",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006883002",
-    "listing_date": "2024/07/19",
-    "market": "興櫃",
-    "industry": "綠能環保",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "6886",
     "name": "遠東生技",
     "raw_fields": {
@@ -7241,6 +7220,27 @@
     "listing_date": "2026/06/29",
     "market": "興櫃",
     "industry": "綠能環保",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7936",
+    "name": "寰聖",
+    "raw_fields": {
+      "有價證券代號及名稱": "7936　寰聖",
+      "國際證券辨識號碼(ISIN Code)": "TW0007936007",
+      "上市日": "2026/07/21",
+      "市場別": "興櫃",
+      "產業別": "電子零組件業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007936007",
+    "listing_date": "2026/07/21",
+    "market": "興櫃",
+    "industry": "電子零組件業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },
