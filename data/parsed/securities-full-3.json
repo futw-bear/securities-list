@@ -1377,31 +1377,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "24866",
-    "name": "一詮六",
-    "raw_fields": {
-      "有價證券代號及名稱": "24866　一詮六",
-      "國際證券辨識號碼(ISIN Code)": "TW0002486602",
-      "發行日": "2024/07/01",
-      "到期日": "2026/07/20",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0002486602",
-    "issue_date": "2024/07/01",
-    "maturity_date": "2026/07/20",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "25283",
     "name": "皇普三",
     "raw_fields": {
@@ -4722,31 +4697,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "49674",
-    "name": "十銓四",
-    "raw_fields": {
-      "有價證券代號及名稱": "49674　十銓四",
-      "國際證券辨識號碼(ISIN Code)": "TW0004967401",
-      "發行日": "2026/01/15",
-      "到期日": "2026/07/20",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZSGR",
-      "備註": ""
-    },
-    "isin_code": "TW0004967401",
-    "issue_date": "2026/01/15",
-    "maturity_date": "2026/07/20",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZSGR",
     "remarks": null
   },
   {
@@ -8247,6 +8197,31 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUDR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "轉換公司債",
+    "code": "80541",
+    "name": "安國一",
+    "raw_fields": {
+      "有價證券代號及名稱": "80541　安國一",
+      "國際證券辨識號碼(ISIN Code)": "TW0008054107",
+      "發行日": "2026/07/22",
+      "到期日": "2029/07/22",
+      "利率值": "0.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DCZSGR",
+      "備註": ""
+    },
+    "isin_code": "TW0008054107",
+    "issue_date": "2026/07/22",
+    "maturity_date": "2029/07/22",
+    "interest_rate": "0.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DCZSGR",
     "remarks": null
   },
   {
@@ -22344,31 +22319,6 @@
     "issue_date": "2024/11/12",
     "maturity_date": "2029/11/12",
     "interest_rate": "1.970000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFSFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B86603",
-    "name": "P10永信建1",
-    "raw_fields": {
-      "有價證券代號及名稱": "B86603　P10永信建1",
-      "國際證券辨識號碼(ISIN Code)": "TW000B866037",
-      "發行日": "2021/07/20",
-      "到期日": "2026/07/20",
-      "利率值": "0.590000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFSFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B866037",
-    "issue_date": "2021/07/20",
-    "maturity_date": "2026/07/20",
-    "interest_rate": "0.590000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFSFR",
@@ -43169,31 +43119,6 @@
     "issue_date": "2025/09/23",
     "maturity_date": "2026/10/01",
     "interest_rate": "20.890000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012CH",
-    "name": "S25CTBC102",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012CH　S25CTBC102",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012CH9",
-      "發行日": "2025/10/14",
-      "到期日": "2026/07/20",
-      "利率值": "15.380000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012CH9",
-    "issue_date": "2025/10/14",
-    "maturity_date": "2026/07/20",
-    "interest_rate": "15.380000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
@@ -65197,6 +65122,31 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBVGFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
+    "code": "F13778",
+    "name": "O26MSF4",
+    "raw_fields": {
+      "有價證券代號及名稱": "F13778　O26MSF4",
+      "國際證券辨識號碼(ISIN Code)": "XS3270930533",
+      "發行日": "2026/07/22",
+      "到期日": "2036/07/22",
+      "利率值": "5.400000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "XS3270930533",
+    "issue_date": "2026/07/22",
+    "maturity_date": "2036/07/22",
+    "interest_rate": "5.400000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
     "remarks": null
   },
   {

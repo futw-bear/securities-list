@@ -1427,6 +1427,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "3194",
+    "name": "圓方科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "3194　圓方科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0003194007",
+      "公開發行日": "2026/07/22",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003194007",
+    "public_offering_date": "2026/07/22",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "3197",
     "name": "賽亞基因科技",
     "raw_fields": {
@@ -3574,25 +3593,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "6992",
-    "name": "萬勝發科技",
-    "raw_fields": {
-      "有價證券代號及名稱": "6992　萬勝發科技",
-      "國際證券辨識號碼(ISIN Code)": "TW0006992001",
-      "公開發行日": "2023/08/18",
-      "產業別": "電子工業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006992001",
-    "public_offering_date": "2023/08/18",
-    "industry": "電子工業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "6993",
     "name": "凱納",
     "raw_fields": {
@@ -3986,25 +3986,6 @@
     "isin_code": "TW0007934002",
     "public_offering_date": "2026/06/15",
     "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
-    "code": "7935",
-    "name": "安富",
-    "raw_fields": {
-      "有價證券代號及名稱": "7935　安富",
-      "國際證券辨識號碼(ISIN Code)": "TW0007935009",
-      "公開發行日": "2026/07/13",
-      "產業別": "電子工業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007935009",
-    "public_offering_date": "2026/07/13",
-    "industry": "電子工業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },
