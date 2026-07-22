@@ -1674,25 +1674,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "3616",
-    "name": "泓辰",
-    "raw_fields": {
-      "有價證券代號及名稱": "3616　泓辰",
-      "國際證券辨識號碼(ISIN Code)": "TW0003616009",
-      "公開發行日": "2024/10/29",
-      "產業別": "電機機械",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0003616009",
-    "public_offering_date": "2024/10/29",
-    "industry": "電機機械",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "3682",
     "name": "亞太電",
     "raw_fields": {
@@ -3935,6 +3916,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "7925",
+    "name": "健生",
+    "raw_fields": {
+      "有價證券代號及名稱": "7925　健生",
+      "國際證券辨識號碼(ISIN Code)": "TW0007925000",
+      "公開發行日": "2026/07/23",
+      "產業別": "汽車工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007925000",
+    "public_offering_date": "2026/07/23",
+    "industry": "汽車工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "7932",
     "name": "昱鐳應材",
     "raw_fields": {
@@ -3947,25 +3947,6 @@
     },
     "isin_code": "TW0007932006",
     "public_offering_date": "2026/05/27",
-    "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
-    "code": "7933",
-    "name": "威旭",
-    "raw_fields": {
-      "有價證券代號及名稱": "7933　威旭",
-      "國際證券辨識號碼(ISIN Code)": "TW0007933004",
-      "公開發行日": "2026/07/15",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007933004",
-    "public_offering_date": "2026/07/15",
     "industry": "其他業",
     "cfi_code": "ESVUFR",
     "remarks": null

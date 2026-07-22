@@ -3803,27 +3803,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "6947",
-    "name": "台鎔科技",
-    "raw_fields": {
-      "有價證券代號及名稱": "6947　台鎔科技",
-      "國際證券辨識號碼(ISIN Code)": "TW0006947005",
-      "上市日": "2023/07/21",
-      "市場別": "興櫃",
-      "產業別": "綠能環保",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006947005",
-    "listing_date": "2023/07/21",
-    "market": "興櫃",
-    "industry": "綠能環保",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "6959",
     "name": "兆捷科技",
     "raw_fields": {
@@ -7241,6 +7220,27 @@
     "listing_date": "2026/06/29",
     "market": "興櫃",
     "industry": "綠能環保",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7933",
+    "name": "威旭",
+    "raw_fields": {
+      "有價證券代號及名稱": "7933　威旭",
+      "國際證券辨識號碼(ISIN Code)": "TW0007933004",
+      "上市日": "2026/07/23",
+      "市場別": "興櫃",
+      "產業別": "數位雲端",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007933004",
+    "listing_date": "2026/07/23",
+    "market": "興櫃",
+    "industry": "數位雲端",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

@@ -220,6 +220,10 @@
     "name": "鉅祥二"
   },
   {
+    "code": "24867",
+    "name": "一詮七"
+  },
+  {
     "code": "25283",
     "name": "皇普三"
   },
@@ -7132,18 +7136,6 @@
     "name": "S26CTBC91"
   },
   {
-    "code": "F012G8",
-    "name": "S26CTBC92"
-  },
-  {
-    "code": "F012G9",
-    "name": "S26CTBC93"
-  },
-  {
-    "code": "F012GA",
-    "name": "S26CTBC94"
-  },
-  {
     "code": "F012GB",
     "name": "S26CTBC95"
   },
@@ -7170,6 +7162,10 @@
   {
     "code": "F012GH",
     "name": "S26CTBC101"
+  },
+  {
+    "code": "F012GJ",
+    "name": "S26CTBC102"
   },
   {
     "code": "F01503",
@@ -9654,10 +9650,6 @@
   {
     "code": "F10319",
     "name": "P20QNBF10"
-  },
-  {
-    "code": "F10322",
-    "name": "P21QNBF3"
   },
   {
     "code": "F10323",
