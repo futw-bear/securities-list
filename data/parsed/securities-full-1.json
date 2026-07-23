@@ -3612,25 +3612,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "7422",
-    "name": "鴻林堂",
-    "raw_fields": {
-      "有價證券代號及名稱": "7422　鴻林堂",
-      "國際證券辨識號碼(ISIN Code)": "TW0007422B12",
-      "公開發行日": "2026/07/16",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007422B12",
-    "public_offering_date": "2026/07/16",
-    "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "7570",
     "name": "紫金堂",
     "raw_fields": {

@@ -4160,6 +4160,27 @@
   {
     "str_mode": 5,
     "category": null,
+    "code": "7422",
+    "name": "鴻林堂",
+    "raw_fields": {
+      "有價證券代號及名稱": "7422　鴻林堂",
+      "國際證券辨識號碼(ISIN Code)": "TW0007422B12",
+      "上市日": "2026/07/24",
+      "市場別": "興櫃",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007422B12",
+    "listing_date": "2026/07/24",
+    "market": "興櫃",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
     "code": "7427",
     "name": "華上生醫",
     "raw_fields": {
