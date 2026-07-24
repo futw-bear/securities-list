@@ -35226,23 +35226,6 @@
   {
     "str_mode": 7,
     "category": null,
-    "code": "T22C5Y",
-    "name": "復華二年半至五年機動到期Ａ級",
-    "raw_fields": {
-      "有價證券代號及名稱": "T22C5Y　復華二年半至五年機動到期Ａ級",
-      "國際證券辨識號碼(ISIN Code)": "TW000T22C5Y7",
-      "發行日": "2023/11/01",
-      "CFICode": "CIOGBU",
-      "備註": ""
-    },
-    "isin_code": "TW000T22C5Y7",
-    "issue_date": "2023/11/01",
-    "cfi_code": "CIOGBU",
-    "remarks": null
-  },
-  {
-    "str_mode": 7,
-    "category": null,
     "code": "T22C6Y",
     "name": "復華三至八年機動到期Ａ級債券",
     "raw_fields": {
