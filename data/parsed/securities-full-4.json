@@ -7205,69 +7205,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "701928",
-    "name": "台燿兆豐57購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "701928　台燿兆豐57購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7019289",
-      "上市日": "2025/11/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7019289",
-    "listing_date": "2025/11/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "701931",
-    "name": "光頡國票57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "701931　光頡國票57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7019313",
-      "上市日": "2025/11/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7019313",
-    "listing_date": "2025/11/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "701949",
-    "name": "元太群益57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "701949　元太群益57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7019495",
-      "上市日": "2025/11/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7019495",
-    "listing_date": "2025/11/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "701971",
     "name": "臺慶科凱基59購01",
     "raw_fields": {
@@ -188078,27 +188015,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "735122",
-    "name": "新應材凱基57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "735122　新應材凱基57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7351229",
-      "上市日": "2025/06/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7351229",
-    "listing_date": "2025/06/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "735271",
     "name": "波若威統一62購01",
     "raw_fields": {
@@ -197108,69 +197024,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "739829",
-    "name": "佳邦群益57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "739829　佳邦群益57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7398295",
-      "上市日": "2025/09/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7398295",
-    "listing_date": "2025/09/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "739836",
-    "name": "順達群益57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "739836　順達群益57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7398360",
-      "上市日": "2025/09/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7398360",
-    "listing_date": "2025/09/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "739837",
-    "name": "雍智群益57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "739837　雍智群益57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7398378",
-      "上市日": "2025/09/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7398378",
-    "listing_date": "2025/09/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "739841",
     "name": "世界國票5C購01",
     "raw_fields": {
@@ -197204,27 +197057,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z7398428",
-    "listing_date": "2025/09/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "739845",
-    "name": "精測國票57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "739845　精測國票57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7398451",
-      "上市日": "2025/09/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7398451",
     "listing_date": "2025/09/25",
     "market": "上櫃",
     "industry": null,

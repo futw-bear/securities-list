@@ -4902,31 +4902,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "52303",
-    "name": "雷笛克光學三",
-    "raw_fields": {
-      "有價證券代號及名稱": "52303　雷笛克光學三",
-      "國際證券辨識號碼(ISIN Code)": "TW0005230304",
-      "發行日": "2023/07/24",
-      "到期日": "2026/07/24",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZSGR",
-      "備註": ""
-    },
-    "isin_code": "TW0005230304",
-    "issue_date": "2023/07/24",
-    "maturity_date": "2026/07/24",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZSGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "52441",
     "name": "弘凱一",
     "raw_fields": {
@@ -18444,31 +18419,6 @@
     "issue_date": "2014/09/12",
     "maturity_date": "2026/09/12",
     "interest_rate": "1.990000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B712FV",
-    "name": "P08塑化1B",
-    "raw_fields": {
-      "有價證券代號及名稱": "B712FV　P08塑化1B",
-      "國際證券辨識號碼(ISIN Code)": "TW000B712FV2",
-      "發行日": "2019/07/24",
-      "到期日": "2026/07/24",
-      "利率值": "0.780000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B712FV2",
-    "issue_date": "2019/07/24",
-    "maturity_date": "2026/07/24",
-    "interest_rate": "0.780000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
