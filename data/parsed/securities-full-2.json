@@ -662048,6 +662048,27 @@
   {
     "str_mode": 2,
     "category": "ETF",
+    "code": "00410A",
+    "name": "主動永豐科技趨勢",
+    "raw_fields": {
+      "有價證券代號及名稱": "00410A　主動永豐科技趨勢",
+      "國際證券辨識號碼(ISIN Code)": "TW00000410A2",
+      "上市日": "2026/08/03",
+      "市場別": "上市",
+      "產業別": "",
+      "CFICode": "CEOIEU",
+      "備註": ""
+    },
+    "isin_code": "TW00000410A2",
+    "listing_date": "2026/08/03",
+    "market": "上市",
+    "industry": null,
+    "cfi_code": "CEOIEU",
+    "remarks": null
+  },
+  {
+    "str_mode": 2,
+    "category": "ETF",
     "code": "0050",
     "name": "元大台灣50",
     "raw_fields": {
@@ -666290,6 +666311,27 @@
   {
     "str_mode": 2,
     "category": "ETF",
+    "code": "009826",
+    "name": "貝萊德世界股票",
+    "raw_fields": {
+      "有價證券代號及名稱": "009826　貝萊德世界股票",
+      "國際證券辨識號碼(ISIN Code)": "TW0000098268",
+      "上市日": "2026/08/03",
+      "市場別": "上市",
+      "產業別": "",
+      "CFICode": "CEOGEU",
+      "備註": ""
+    },
+    "isin_code": "TW0000098268",
+    "listing_date": "2026/08/03",
+    "market": "上市",
+    "industry": null,
+    "cfi_code": "CEOGEU",
+    "remarks": null
+  },
+  {
+    "str_mode": 2,
+    "category": "ETF",
     "code": "00982A",
     "name": "主動群益台灣強棒",
     "raw_fields": {
@@ -666600,6 +666642,27 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "CEOIEU",
+    "remarks": null
+  },
+  {
+    "str_mode": 2,
+    "category": "ETF",
+    "code": "00991B",
+    "name": "貝萊德A級公司債",
+    "raw_fields": {
+      "有價證券代號及名稱": "00991B　貝萊德A級公司債",
+      "國際證券辨識號碼(ISIN Code)": "TW00000991B9",
+      "上市日": "2026/08/03",
+      "市場別": "上市",
+      "產業別": "",
+      "CFICode": "CEOIBU",
+      "備註": ""
+    },
+    "isin_code": "TW00000991B9",
+    "listing_date": "2026/08/03",
+    "market": "上市",
+    "industry": null,
+    "cfi_code": "CEOIBU",
     "remarks": null
   },
   {
