@@ -268,6 +268,25 @@
   {
     "str_mode": 8,
     "category": "普通股",
+    "code": "7429",
+    "name": "薇米文旅",
+    "raw_fields": {
+      "有價證券代號及名稱": "7429　薇米文旅",
+      "國際證券辨識號碼(ISIN Code)": "TW0007429B15",
+      "登錄日": "2026/07/27",
+      "市場別": "創櫃板",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007429B15",
+    "registration_date": "2026/07/27",
+    "market": "創櫃板",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 8,
+    "category": "普通股",
     "code": "7449",
     "name": "元皓",
     "raw_fields": {

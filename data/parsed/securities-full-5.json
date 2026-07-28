@@ -6974,6 +6974,27 @@
   {
     "str_mode": 5,
     "category": null,
+    "code": "7917",
+    "name": "源傑科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7917　源傑科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007917007",
+      "上市日": "2026/07/29",
+      "市場別": "興櫃",
+      "產業別": "通信網路業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007917007",
+    "listing_date": "2026/07/29",
+    "market": "興櫃",
+    "industry": "通信網路業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
     "code": "7918",
     "name": "創鉅材料",
     "raw_fields": {
