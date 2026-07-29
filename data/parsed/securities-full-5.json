@@ -548,6 +548,27 @@
   {
     "str_mode": 5,
     "category": null,
+    "code": "3194",
+    "name": "圓方科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "3194　圓方科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0003194007",
+      "上市日": "2026/07/30",
+      "市場別": "興櫃",
+      "產業別": "資訊服務業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003194007",
+    "listing_date": "2026/07/30",
+    "market": "興櫃",
+    "industry": "資訊服務業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
     "code": "3473",
     "name": "智通聯網",
     "raw_fields": {
