@@ -43352,6 +43352,40 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T32BJA",
+    "name": "野村臺灣智慧優選主動式ＥＴＦ",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BJA　野村臺灣智慧優選主動式ＥＴＦ",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BJA7",
+      "發行日": "2026/07/29",
+      "CFICode": "CIOGMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BJA7",
+    "issue_date": "2026/07/29",
+    "cfi_code": "CIOGMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BJB",
+    "name": "野村臺灣智慧優選主動式ＥＴＦ",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BJB　野村臺灣智慧優選主動式ＥＴＦ",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BJB5",
+      "發行日": "2026/07/29",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BJB5",
+    "issue_date": "2026/07/29",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T32C3A",
     "name": "野村四年階梯到期新興市場債券基金-累積型新台幣計價",
     "raw_fields": {
