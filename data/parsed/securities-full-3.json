@@ -677,31 +677,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "20662",
-    "name": "世德二",
-    "raw_fields": {
-      "有價證券代號及名稱": "20662　世德二",
-      "國際證券辨識號碼(ISIN Code)": "TW0002066206",
-      "發行日": "2023/07/31",
-      "到期日": "2026/07/31",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0002066206",
-    "issue_date": "2023/07/31",
-    "maturity_date": "2026/07/31",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "21043",
     "name": "國際中橡三",
     "raw_fields": {
@@ -4772,31 +4747,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "50097",
-    "name": "榮剛七",
-    "raw_fields": {
-      "有價證券代號及名稱": "50097　榮剛七",
-      "國際證券辨識號碼(ISIN Code)": "TW0005009708",
-      "發行日": "2023/07/31",
-      "到期日": "2026/07/31",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0005009708",
-    "issue_date": "2023/07/31",
-    "maturity_date": "2026/07/31",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
     "remarks": null
   },
   {
@@ -79594,31 +79544,6 @@
     "issue_date": "2020/09/25",
     "maturity_date": "2035/09/25",
     "interest_rate": "0.780000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G13801",
-    "name": "P08法巴銀1",
-    "raw_fields": {
-      "有價證券代號及名稱": "G13801　P08法巴銀1",
-      "國際證券辨識號碼(ISIN Code)": "TW000G138010",
-      "發行日": "2019/07/31",
-      "到期日": "2026/07/31",
-      "利率值": "0.800000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G138010",
-    "issue_date": "2019/07/31",
-    "maturity_date": "2026/07/31",
-    "interest_rate": "0.800000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",

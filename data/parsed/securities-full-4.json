@@ -149,27 +149,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "700027",
-    "name": "新應材中信57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "700027　新應材中信57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7000271",
-      "上市日": "2025/10/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7000271",
-    "listing_date": "2025/10/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "700028",
     "name": "雙鴻中信59購01",
     "raw_fields": {
@@ -7184,48 +7163,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "702092",
-    "name": "新應材凱基57購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "702092　新應材凱基57購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7020923",
-      "上市日": "2025/12/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7020923",
-    "listing_date": "2025/12/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "702096",
-    "name": "千附精國票57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "702096　千附精國票57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7020964",
-      "上市日": "2025/12/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7020964",
-    "listing_date": "2025/12/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "702111",
     "name": "旺矽元富58購02",
     "raw_fields": {
@@ -7238,27 +7175,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z7021111",
-    "listing_date": "2025/12/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "702117",
-    "name": "旺矽永豐57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "702117　旺矽永豐57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7021178",
-      "上市日": "2025/12/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7021178",
     "listing_date": "2025/12/01",
     "market": "上櫃",
     "industry": null,
@@ -178817,27 +178733,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "722527",
-    "name": "晟德統一57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "722527　晟德統一57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW24Z7225277",
-      "上市日": "2024/08/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW24Z7225277",
-    "listing_date": "2024/08/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "722572",
     "name": "晟德統一58購01",
     "raw_fields": {
@@ -192614,48 +192509,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "736994",
-    "name": "中光電統一57購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "736994　中光電統一57購04",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7369940",
-      "上市日": "2025/08/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7369940",
-    "listing_date": "2025/08/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "736995",
-    "name": "南俊統一57購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "736995　南俊統一57購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7369957",
-      "上市日": "2025/08/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7369957",
-    "listing_date": "2025/08/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "736997",
     "name": "華景電統一59購01",
     "raw_fields": {
@@ -195567,48 +195420,6 @@
     },
     "isin_code": "TW25Z7383735",
     "listing_date": "2025/08/29",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "738427",
-    "name": "台燿元大57購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "738427　台燿元大57購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7384279",
-      "上市日": "2025/09/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7384279",
-    "listing_date": "2025/09/01",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "738437",
-    "name": "環球晶元大57購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "738437　環球晶元大57購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7384378",
-      "上市日": "2025/09/01",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7384378",
-    "listing_date": "2025/09/01",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCCA",
