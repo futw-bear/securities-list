@@ -59026,6 +59026,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T4234F",
+    "name": "施羅德全週期成長多重資產證券",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4234F　施羅德全週期成長多重資產證券",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4234F7",
+      "發行日": "2026/07/28",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4234F7",
+    "issue_date": "2026/07/28",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T4236A",
     "name": "施羅德全週期動態多元資產組合",
     "raw_fields": {
