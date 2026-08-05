@@ -6377,31 +6377,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "64773",
-    "name": "安集三",
-    "raw_fields": {
-      "有價證券代號及名稱": "64773　安集三",
-      "國際證券辨識號碼(ISIN Code)": "TW0006477300",
-      "發行日": "2021/08/04",
-      "到期日": "2026/08/04",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0006477300",
-    "issue_date": "2021/08/04",
-    "maturity_date": "2026/08/04",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "64774",
     "name": "安集四",
     "raw_fields": {
@@ -45152,6 +45127,31 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
+    "code": "F012GW",
+    "name": "S26CTBC114",
+    "raw_fields": {
+      "有價證券代號及名稱": "F012GW　S26CTBC114",
+      "國際證券辨識號碼(ISIN Code)": "TW000F012GW9",
+      "發行日": "2026/08/06",
+      "到期日": "2026/11/13",
+      "利率值": "38.330000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "TW000F012GW9",
+    "issue_date": "2026/08/06",
+    "maturity_date": "2026/11/13",
+    "interest_rate": "38.330000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
     "code": "F01503",
     "name": "14CHB1B",
     "raw_fields": {
@@ -70147,6 +70147,31 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
+    "code": "F19208",
+    "name": "P26WFF4",
+    "raw_fields": {
+      "有價證券代號及名稱": "F19208　P26WFF4",
+      "國際證券辨識號碼(ISIN Code)": "XS3431973224",
+      "發行日": "2026/08/06",
+      "到期日": "2036/08/06",
+      "利率值": "5.650000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "XS3431973224",
+    "issue_date": "2026/08/06",
+    "maturity_date": "2036/08/06",
+    "interest_rate": "5.650000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
     "remarks": null
   },
   {

@@ -4055,6 +4055,69 @@
   {
     "str_mode": 6,
     "category": "股票期貨",
+    "code": "DC1C7",
+    "name": "彰銀股票期貨2027/03",
+    "raw_fields": {
+      "有價證券代號及名稱": "DC1C7　彰銀股票期貨2027/03",
+      "國際證券辨識號碼(ISIN Code)": "TW000DC1C709",
+      "上市日": "2026/04/16",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "FFSCSX",
+      "備註": ""
+    },
+    "isin_code": "TW000DC1C709",
+    "listing_date": "2026/04/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "FFSCSX",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票期貨",
+    "code": "DC1H6",
+    "name": "彰銀股票期貨2026/08",
+    "raw_fields": {
+      "有價證券代號及名稱": "DC1H6　彰銀股票期貨2026/08",
+      "國際證券辨識號碼(ISIN Code)": "TW000DC1H609",
+      "上市日": "2026/06/18",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "FFSCSX",
+      "備註": ""
+    },
+    "isin_code": "TW000DC1H609",
+    "listing_date": "2026/06/18",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "FFSCSX",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票期貨",
+    "code": "DC1I6",
+    "name": "彰銀股票期貨2026/09",
+    "raw_fields": {
+      "有價證券代號及名稱": "DC1I6　彰銀股票期貨2026/09",
+      "國際證券辨識號碼(ISIN Code)": "TW000DC1I607",
+      "上市日": "2025/10/16",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "FFSCSX",
+      "備註": ""
+    },
+    "isin_code": "TW000DC1I607",
+    "listing_date": "2025/10/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "FFSCSX",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票期貨",
     "code": "DCFC7",
     "name": "彰銀股票期貨2027/03",
     "raw_fields": {
@@ -33161,6 +33224,27 @@
   {
     "str_mode": 6,
     "category": "股票期貨",
+    "code": "VN1H6",
+    "name": "小型華城期貨2026/08",
+    "raw_fields": {
+      "有價證券代號及名稱": "VN1H6　小型華城期貨2026/08",
+      "國際證券辨識號碼(ISIN Code)": "TW000VN1H604",
+      "上市日": "2026/08/03",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "FFSCSX",
+      "備註": ""
+    },
+    "isin_code": "TW000VN1H604",
+    "listing_date": "2026/08/03",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "FFSCSX",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票期貨",
     "code": "VNFC7",
     "name": "小型華城期貨2027/03",
     "raw_fields": {
@@ -39608,6 +39692,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權買權",
+    "code": "CAO01950HL",
+    "name": "南亞股票選擇權,2026/08,履約價195.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "CAO01950HL　南亞股票選擇權,2026/08,履約價195.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWCAO1950HL1",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWCAO1950HL1",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
     "code": "CAO01950I6",
     "name": "南亞股票選擇權,2026/09,履約價195.0,買權",
     "raw_fields": {
@@ -39663,6 +39768,27 @@
     },
     "isin_code": "TWCAO2000HK6",
     "listing_date": "2026/07/22",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "CAO02000HL",
+    "name": "南亞股票選擇權,2026/08,履約價200.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "CAO02000HL　南亞股票選擇權,2026/08,履約價200.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWCAO2000HL4",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWCAO2000HL4",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCESCS",
@@ -74027,6 +74153,69 @@
   {
     "str_mode": 6,
     "category": "股票選擇權買權",
+    "code": "DXO02200H6",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200H6　緯創股票選擇權,2026/08,履約價220.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200H69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200H69",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02200HK",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200HK　緯創股票選擇權,2026/08,履約價220.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200HK2",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200HK2",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02200HL",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200HL　緯創股票選擇權,2026/08,履約價220.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200HL0",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200HL0",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
     "code": "DXO02200I6",
     "name": "緯創股票選擇權,2026/09,履約價220.0,買權",
     "raw_fields": {
@@ -74069,6 +74258,90 @@
   {
     "str_mode": 6,
     "category": "股票選擇權買權",
+    "code": "DXO02250H6",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250H6　緯創股票選擇權,2026/08,履約價225.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250H68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250H68",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02250HK",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250HK　緯創股票選擇權,2026/08,履約價225.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250HK7",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250HK7",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02250HL",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250HL　緯創股票選擇權,2026/08,履約價225.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250HL5",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250HL5",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02250I6",
+    "name": "緯創股票選擇權,2026/09,履約價225.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250I6　緯創股票選擇權,2026/09,履約價225.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250I67",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250I67",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
     "code": "DXO02300I6",
     "name": "緯創股票選擇權,2026/09,履約價230.0,買權",
     "raw_fields": {
@@ -74082,6 +74355,27 @@
     },
     "isin_code": "TWDXO2300I67",
     "listing_date": "2026/06/04",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "DXO02300L6",
+    "name": "緯創股票選擇權,2026/12,履約價230.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02300L6　緯創股票選擇權,2026/12,履約價230.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2300L62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2300L62",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCESCS",
@@ -77555,6 +77849,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權買權",
+    "code": "IJO49500I6",
+    "name": "大立光股票選擇權,2026/09,履約價4950.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO49500I6　大立光股票選擇權,2026/09,履約價4950.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO950DI66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO950DI66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
     "code": "IJO50000H6",
     "name": "大立光股票選擇權,2026/08,履約價5000.0,買權",
     "raw_fields": {
@@ -77597,6 +77912,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權買權",
+    "code": "IJO50000L6",
+    "name": "大立光股票選擇權,2026/12,履約價5000.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO50000L6　大立光股票選擇權,2026/12,履約價5000.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO000EL60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO000EL60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
     "code": "IJO50500H6",
     "name": "大立光股票選擇權,2026/08,履約價5050.0,買權",
     "raw_fields": {
@@ -77610,6 +77946,27 @@
     },
     "isin_code": "TWIJO050EH65",
     "listing_date": "2026/06/18",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "IJO50500I6",
+    "name": "大立光股票選擇權,2026/09,履約價5050.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO50500I6　大立光股票選擇權,2026/09,履約價5050.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO050EI64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO050EI64",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCESCS",
@@ -77652,6 +78009,27 @@
     },
     "isin_code": "TWIJO100EI64",
     "listing_date": "2026/06/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權買權",
+    "code": "IJO51000L6",
+    "name": "大立光股票選擇權,2026/12,履約價5100.0,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO51000L6　大立光股票選擇權,2026/12,履約價5100.0,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO100EL69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO100EL69",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCESCS",
@@ -84926,6 +85304,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權賣權",
+    "code": "CAO01950TL",
+    "name": "南亞股票選擇權,2026/08,履約價195.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "CAO01950TL　南亞股票選擇權,2026/08,履約價195.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWCAO1950TL6",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWCAO1950TL6",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
     "code": "CAO01950U6",
     "name": "南亞股票選擇權,2026/09,履約價195.0,賣權",
     "raw_fields": {
@@ -84981,6 +85380,27 @@
     },
     "isin_code": "TWCAO2000TK1",
     "listing_date": "2026/07/22",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "CAO02000TL",
+    "name": "南亞股票選擇權,2026/08,履約價200.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "CAO02000TL　南亞股票選擇權,2026/08,履約價200.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWCAO2000TL9",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWCAO2000TL9",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPESCS",
@@ -119303,6 +119723,69 @@
   {
     "str_mode": 6,
     "category": "股票選擇權賣權",
+    "code": "DXO02200T6",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200T6　緯創股票選擇權,2026/08,履約價220.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200T65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200T65",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02200TK",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200TK　緯創股票選擇權,2026/08,履約價220.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200TK7",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200TK7",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02200TL",
+    "name": "緯創股票選擇權,2026/08,履約價220.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02200TL　緯創股票選擇權,2026/08,履約價220.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2200TL5",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2200TL5",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
     "code": "DXO02200U6",
     "name": "緯創股票選擇權,2026/09,履約價220.0,賣權",
     "raw_fields": {
@@ -119345,6 +119828,90 @@
   {
     "str_mode": 6,
     "category": "股票選擇權賣權",
+    "code": "DXO02250T6",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250T6　緯創股票選擇權,2026/08,履約價225.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250T64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250T64",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02250TK",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250TK　緯創股票選擇權,2026/08,履約價225.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250TK2",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250TK2",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02250TL",
+    "name": "緯創股票選擇權,2026/08,履約價225.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250TL　緯創股票選擇權,2026/08,履約價225.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250TL0",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250TL0",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02250U6",
+    "name": "緯創股票選擇權,2026/09,履約價225.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02250U6　緯創股票選擇權,2026/09,履約價225.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2250U61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2250U61",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
     "code": "DXO02300U6",
     "name": "緯創股票選擇權,2026/09,履約價230.0,賣權",
     "raw_fields": {
@@ -119358,6 +119925,27 @@
     },
     "isin_code": "TWDXO2300U61",
     "listing_date": "2026/06/04",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "DXO02300X6",
+    "name": "緯創股票選擇權,2026/12,履約價230.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "DXO02300X6　緯創股票選擇權,2026/12,履約價230.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWDXO2300X68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWDXO2300X68",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPESCS",
@@ -122873,6 +123461,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權賣權",
+    "code": "IJO49500U6",
+    "name": "大立光股票選擇權,2026/09,履約價4950.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO49500U6　大立光股票選擇權,2026/09,履約價4950.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO950DU60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO950DU60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
     "code": "IJO50000T6",
     "name": "大立光股票選擇權,2026/08,履約價5000.0,賣權",
     "raw_fields": {
@@ -122915,6 +123524,27 @@
   {
     "str_mode": 6,
     "category": "股票選擇權賣權",
+    "code": "IJO50000X6",
+    "name": "大立光股票選擇權,2026/12,履約價5000.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO50000X6　大立光股票選擇權,2026/12,履約價5000.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO000EX66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO000EX66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
     "code": "IJO50500T6",
     "name": "大立光股票選擇權,2026/08,履約價5050.0,賣權",
     "raw_fields": {
@@ -122928,6 +123558,27 @@
     },
     "isin_code": "TWIJO050ET61",
     "listing_date": "2026/06/18",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "IJO50500U6",
+    "name": "大立光股票選擇權,2026/09,履約價5050.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO50500U6　大立光股票選擇權,2026/09,履約價5050.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO050EU68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO050EU68",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPESCS",
@@ -122970,6 +123621,27 @@
     },
     "isin_code": "TWIJO100EU68",
     "listing_date": "2026/06/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPESCS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "股票選擇權賣權",
+    "code": "IJO51000X6",
+    "name": "大立光股票選擇權,2026/12,履約價5100.0,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "IJO51000X6　大立光股票選擇權,2026/12,履約價5100.0,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWIJO100EX65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPESCS",
+      "備註": ""
+    },
+    "isin_code": "TWIJO100EX65",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPESCS",
@@ -174176,6 +174848,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO42150H6",
+    "name": "臺指選擇權,2026/08,履約價42150,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42150H6　臺指選擇權,2026/08,履約價42150,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO215DH66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO215DH66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO42200C7",
     "name": "臺指選擇權,2027/03,履約價42200,買權",
     "raw_fields": {
@@ -174281,6 +174974,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO42250H6",
+    "name": "臺指選擇權,2026/08,履約價42250,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42250H6　臺指選擇權,2026/08,履約價42250,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO225DH64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO225DH64",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO42300H6",
     "name": "臺指選擇權,2026/08,履約價42300,買權",
     "raw_fields": {
@@ -174336,6 +175050,27 @@
     },
     "isin_code": "TWTXO230DJ65",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO42350H6",
+    "name": "臺指選擇權,2026/08,履約價42350,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42350H6　臺指選擇權,2026/08,履約價42350,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO235DH62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO235DH62",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -174449,6 +175184,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO42450H6",
+    "name": "臺指選擇權,2026/08,履約價42450,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42450H6　臺指選擇權,2026/08,履約價42450,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO245DH60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO245DH60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO42500H6",
     "name": "臺指選擇權,2026/08,履約價42500,買權",
     "raw_fields": {
@@ -174504,6 +175260,27 @@
     },
     "isin_code": "TWTXO250DJ60",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO42550H6",
+    "name": "臺指選擇權,2026/08,履約價42550,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42550H6　臺指選擇權,2026/08,履約價42550,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO255DH67",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO255DH67",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -174617,6 +175394,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO42650H6",
+    "name": "臺指選擇權,2026/08,履約價42650,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42650H6　臺指選擇權,2026/08,履約價42650,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO265DH65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO265DH65",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO42700H6",
     "name": "臺指選擇權,2026/08,履約價42700,買權",
     "raw_fields": {
@@ -174672,6 +175470,27 @@
     },
     "isin_code": "TWTXO270DJ66",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO42750H6",
+    "name": "臺指選擇權,2026/08,履約價42750,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42750H6　臺指選擇權,2026/08,履約價42750,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO275DH63",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO275DH63",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -174785,6 +175604,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO42850H6",
+    "name": "臺指選擇權,2026/08,履約價42850,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42850H6　臺指選擇權,2026/08,履約價42850,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO285DH61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO285DH61",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO42900H6",
     "name": "臺指選擇權,2026/08,履約價42900,買權",
     "raw_fields": {
@@ -174840,6 +175680,27 @@
     },
     "isin_code": "TWTXO290DJ62",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO42950H6",
+    "name": "臺指選擇權,2026/08,履約價42950,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42950H6　臺指選擇權,2026/08,履約價42950,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO295DH69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO295DH69",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -174953,6 +175814,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO43050H6",
+    "name": "臺指選擇權,2026/08,履約價43050,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43050H6　臺指選擇權,2026/08,履約價43050,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO305DH67",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO305DH67",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO43100H6",
     "name": "臺指選擇權,2026/08,履約價43100,買權",
     "raw_fields": {
@@ -175008,6 +175890,27 @@
     },
     "isin_code": "TWTXO310DJ68",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO43150H6",
+    "name": "臺指選擇權,2026/08,履約價43150,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43150H6　臺指選擇權,2026/08,履約價43150,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO315DH65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO315DH65",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175121,6 +176024,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO43250H6",
+    "name": "臺指選擇權,2026/08,履約價43250,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43250H6　臺指選擇權,2026/08,履約價43250,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO325DH63",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO325DH63",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO43300H6",
     "name": "臺指選擇權,2026/08,履約價43300,買權",
     "raw_fields": {
@@ -175176,6 +176100,27 @@
     },
     "isin_code": "TWTXO330DJ64",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO43350H6",
+    "name": "臺指選擇權,2026/08,履約價43350,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43350H6　臺指選擇權,2026/08,履約價43350,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO335DH61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO335DH61",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175289,6 +176234,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO43450H6",
+    "name": "臺指選擇權,2026/08,履約價43450,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43450H6　臺指選擇權,2026/08,履約價43450,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO345DH69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO345DH69",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO43500H6",
     "name": "臺指選擇權,2026/08,履約價43500,買權",
     "raw_fields": {
@@ -175344,6 +176310,27 @@
     },
     "isin_code": "TWTXO350DJ69",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO43550H6",
+    "name": "臺指選擇權,2026/08,履約價43550,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43550H6　臺指選擇權,2026/08,履約價43550,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO355DH66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO355DH66",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175457,6 +176444,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO43650H6",
+    "name": "臺指選擇權,2026/08,履約價43650,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43650H6　臺指選擇權,2026/08,履約價43650,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO365DH64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO365DH64",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO43700H6",
     "name": "臺指選擇權,2026/08,履約價43700,買權",
     "raw_fields": {
@@ -175512,6 +176520,27 @@
     },
     "isin_code": "TWTXO370DJ65",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO43750H6",
+    "name": "臺指選擇權,2026/08,履約價43750,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43750H6　臺指選擇權,2026/08,履約價43750,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO375DH62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO375DH62",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175625,6 +176654,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO43850H6",
+    "name": "臺指選擇權,2026/08,履約價43850,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43850H6　臺指選擇權,2026/08,履約價43850,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO385DH60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO385DH60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO43900H6",
     "name": "臺指選擇權,2026/08,履約價43900,買權",
     "raw_fields": {
@@ -175680,6 +176730,27 @@
     },
     "isin_code": "TWTXO390DJ61",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO43950H6",
+    "name": "臺指選擇權,2026/08,履約價43950,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43950H6　臺指選擇權,2026/08,履約價43950,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO395DH68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO395DH68",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175793,6 +176864,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO44050H6",
+    "name": "臺指選擇權,2026/08,履約價44050,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44050H6　臺指選擇權,2026/08,履約價44050,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO405DH66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO405DH66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO44100H6",
     "name": "臺指選擇權,2026/08,履約價44100,買權",
     "raw_fields": {
@@ -175848,6 +176940,27 @@
     },
     "isin_code": "TWTXO410DJ67",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO44150H6",
+    "name": "臺指選擇權,2026/08,履約價44150,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44150H6　臺指選擇權,2026/08,履約價44150,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO415DH64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO415DH64",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -175961,6 +177074,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO44250H6",
+    "name": "臺指選擇權,2026/08,履約價44250,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44250H6　臺指選擇權,2026/08,履約價44250,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO425DH62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO425DH62",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO44300H6",
     "name": "臺指選擇權,2026/08,履約價44300,買權",
     "raw_fields": {
@@ -176016,6 +177150,27 @@
     },
     "isin_code": "TWTXO430DJ63",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO44350H6",
+    "name": "臺指選擇權,2026/08,履約價44350,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44350H6　臺指選擇權,2026/08,履約價44350,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO435DH60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO435DH60",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -176129,6 +177284,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權買權",
+    "code": "TXO44450H6",
+    "name": "臺指選擇權,2026/08,履約價44450,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44450H6　臺指選擇權,2026/08,履約價44450,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO445DH68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO445DH68",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
     "code": "TXO44500H6",
     "name": "臺指選擇權,2026/08,履約價44500,買權",
     "raw_fields": {
@@ -176184,6 +177360,27 @@
     },
     "isin_code": "TWTXO450DJ68",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO44550H6",
+    "name": "臺指選擇權,2026/08,履約價44550,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44550H6　臺指選擇權,2026/08,履約價44550,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO455DH65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO455DH65",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -176289,6 +177486,27 @@
     },
     "isin_code": "TWTXO460DL62",
     "listing_date": "2026/04/17",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OCEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權買權",
+    "code": "TXO44650H6",
+    "name": "臺指選擇權,2026/08,履約價44650,買權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44650H6　臺指選擇權,2026/08,履約價44650,買權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO465DH63",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OCEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO465DH63",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OCEICS",
@@ -210905,6 +212123,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO42150T6",
+    "name": "臺指選擇權,2026/08,履約價42150,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42150T6　臺指選擇權,2026/08,履約價42150,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO215DT62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO215DT62",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO42200O7",
     "name": "臺指選擇權,2027/03,履約價42200,賣權",
     "raw_fields": {
@@ -211010,6 +212249,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO42250T6",
+    "name": "臺指選擇權,2026/08,履約價42250,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42250T6　臺指選擇權,2026/08,履約價42250,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO225DT60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO225DT60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO42300T6",
     "name": "臺指選擇權,2026/08,履約價42300,賣權",
     "raw_fields": {
@@ -211065,6 +212325,27 @@
     },
     "isin_code": "TWTXO230DV69",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO42350T6",
+    "name": "臺指選擇權,2026/08,履約價42350,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42350T6　臺指選擇權,2026/08,履約價42350,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO235DT68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO235DT68",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -211178,6 +212459,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO42450T6",
+    "name": "臺指選擇權,2026/08,履約價42450,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42450T6　臺指選擇權,2026/08,履約價42450,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO245DT66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO245DT66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO42500T6",
     "name": "臺指選擇權,2026/08,履約價42500,賣權",
     "raw_fields": {
@@ -211233,6 +212535,27 @@
     },
     "isin_code": "TWTXO250DV64",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO42550T6",
+    "name": "臺指選擇權,2026/08,履約價42550,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42550T6　臺指選擇權,2026/08,履約價42550,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO255DT63",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO255DT63",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -211346,6 +212669,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO42650T6",
+    "name": "臺指選擇權,2026/08,履約價42650,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42650T6　臺指選擇權,2026/08,履約價42650,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO265DT61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO265DT61",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO42700T6",
     "name": "臺指選擇權,2026/08,履約價42700,賣權",
     "raw_fields": {
@@ -211401,6 +212745,27 @@
     },
     "isin_code": "TWTXO270DV60",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO42750T6",
+    "name": "臺指選擇權,2026/08,履約價42750,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42750T6　臺指選擇權,2026/08,履約價42750,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO275DT69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO275DT69",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -211514,6 +212879,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO42850T6",
+    "name": "臺指選擇權,2026/08,履約價42850,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42850T6　臺指選擇權,2026/08,履約價42850,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO285DT67",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO285DT67",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO42900T6",
     "name": "臺指選擇權,2026/08,履約價42900,賣權",
     "raw_fields": {
@@ -211569,6 +212955,27 @@
     },
     "isin_code": "TWTXO290DV66",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO42950T6",
+    "name": "臺指選擇權,2026/08,履約價42950,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO42950T6　臺指選擇權,2026/08,履約價42950,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO295DT65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO295DT65",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -211682,6 +213089,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO43050T6",
+    "name": "臺指選擇權,2026/08,履約價43050,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43050T6　臺指選擇權,2026/08,履約價43050,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO305DT63",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO305DT63",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO43100T6",
     "name": "臺指選擇權,2026/08,履約價43100,賣權",
     "raw_fields": {
@@ -211737,6 +213165,27 @@
     },
     "isin_code": "TWTXO310DV62",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO43150T6",
+    "name": "臺指選擇權,2026/08,履約價43150,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43150T6　臺指選擇權,2026/08,履約價43150,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO315DT61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO315DT61",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -211850,6 +213299,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO43250T6",
+    "name": "臺指選擇權,2026/08,履約價43250,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43250T6　臺指選擇權,2026/08,履約價43250,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO325DT69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO325DT69",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO43300T6",
     "name": "臺指選擇權,2026/08,履約價43300,賣權",
     "raw_fields": {
@@ -211905,6 +213375,27 @@
     },
     "isin_code": "TWTXO330DV68",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO43350T6",
+    "name": "臺指選擇權,2026/08,履約價43350,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43350T6　臺指選擇權,2026/08,履約價43350,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO335DT67",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO335DT67",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212018,6 +213509,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO43450T6",
+    "name": "臺指選擇權,2026/08,履約價43450,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43450T6　臺指選擇權,2026/08,履約價43450,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO345DT65",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO345DT65",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO43500T6",
     "name": "臺指選擇權,2026/08,履約價43500,賣權",
     "raw_fields": {
@@ -212073,6 +213585,27 @@
     },
     "isin_code": "TWTXO350DV63",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO43550T6",
+    "name": "臺指選擇權,2026/08,履約價43550,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43550T6　臺指選擇權,2026/08,履約價43550,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO355DT62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO355DT62",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212186,6 +213719,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO43650T6",
+    "name": "臺指選擇權,2026/08,履約價43650,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43650T6　臺指選擇權,2026/08,履約價43650,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO365DT60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO365DT60",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO43700T6",
     "name": "臺指選擇權,2026/08,履約價43700,賣權",
     "raw_fields": {
@@ -212241,6 +213795,27 @@
     },
     "isin_code": "TWTXO370DV69",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO43750T6",
+    "name": "臺指選擇權,2026/08,履約價43750,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43750T6　臺指選擇權,2026/08,履約價43750,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO375DT68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO375DT68",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212354,6 +213929,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO43850T6",
+    "name": "臺指選擇權,2026/08,履約價43850,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43850T6　臺指選擇權,2026/08,履約價43850,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO385DT66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO385DT66",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO43900T6",
     "name": "臺指選擇權,2026/08,履約價43900,賣權",
     "raw_fields": {
@@ -212409,6 +214005,27 @@
     },
     "isin_code": "TWTXO390DV65",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO43950T6",
+    "name": "臺指選擇權,2026/08,履約價43950,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO43950T6　臺指選擇權,2026/08,履約價43950,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO395DT64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO395DT64",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212522,6 +214139,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO44050T6",
+    "name": "臺指選擇權,2026/08,履約價44050,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44050T6　臺指選擇權,2026/08,履約價44050,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO405DT62",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO405DT62",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO44100T6",
     "name": "臺指選擇權,2026/08,履約價44100,賣權",
     "raw_fields": {
@@ -212577,6 +214215,27 @@
     },
     "isin_code": "TWTXO410DV61",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO44150T6",
+    "name": "臺指選擇權,2026/08,履約價44150,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44150T6　臺指選擇權,2026/08,履約價44150,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO415DT60",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO415DT60",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212690,6 +214349,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO44250T6",
+    "name": "臺指選擇權,2026/08,履約價44250,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44250T6　臺指選擇權,2026/08,履約價44250,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO425DT68",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO425DT68",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO44300T6",
     "name": "臺指選擇權,2026/08,履約價44300,賣權",
     "raw_fields": {
@@ -212745,6 +214425,27 @@
     },
     "isin_code": "TWTXO430DV67",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO44350T6",
+    "name": "臺指選擇權,2026/08,履約價44350,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44350T6　臺指選擇權,2026/08,履約價44350,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO435DT66",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO435DT66",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -212858,6 +214559,27 @@
   {
     "str_mode": 6,
     "category": "臺指選擇權賣權",
+    "code": "TXO44450T6",
+    "name": "臺指選擇權,2026/08,履約價44450,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44450T6　臺指選擇權,2026/08,履約價44450,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO445DT64",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO445DT64",
+    "listing_date": "2026/08/05",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
     "code": "TXO44500T6",
     "name": "臺指選擇權,2026/08,履約價44500,賣權",
     "raw_fields": {
@@ -212913,6 +214635,27 @@
     },
     "isin_code": "TWTXO450DV62",
     "listing_date": "2026/07/16",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO44550T6",
+    "name": "臺指選擇權,2026/08,履約價44550,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44550T6　臺指選擇權,2026/08,履約價44550,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO455DT61",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO455DT61",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
@@ -213018,6 +214761,27 @@
     },
     "isin_code": "TWTXO460DX68",
     "listing_date": "2026/04/17",
+    "market": "期貨及選擇權",
+    "industry": null,
+    "cfi_code": "OPEICS",
+    "remarks": null
+  },
+  {
+    "str_mode": 6,
+    "category": "臺指選擇權賣權",
+    "code": "TXO44650T6",
+    "name": "臺指選擇權,2026/08,履約價44650,賣權",
+    "raw_fields": {
+      "有價證券代號及名稱": "TXO44650T6　臺指選擇權,2026/08,履約價44650,賣權",
+      "國際證券辨識號碼(ISIN Code)": "TWTXO465DT69",
+      "上市日": "2026/08/05",
+      "市場別": "期貨及選擇權",
+      "產業別": "",
+      "CFICode": "OPEICS",
+      "備註": ""
+    },
+    "isin_code": "TWTXO465DT69",
+    "listing_date": "2026/08/05",
     "market": "期貨及選擇權",
     "industry": null,
     "cfi_code": "OPEICS",
