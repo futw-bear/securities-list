@@ -170,27 +170,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "2237",
-    "name": "華德動能",
-    "raw_fields": {
-      "有價證券代號及名稱": "2237　華德動能",
-      "國際證券辨識號碼(ISIN Code)": "TW0002237005",
-      "上市日": "2014/12/23",
-      "市場別": "興櫃",
-      "產業別": "電機機械",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0002237005",
-    "listing_date": "2014/12/23",
-    "market": "興櫃",
-    "industry": "電機機械",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "2245",
     "name": "詠勝昌*",
     "raw_fields": {
@@ -960,27 +939,6 @@
     },
     "isin_code": "TW0004544002",
     "listing_date": "2012/12/24",
-    "market": "興櫃",
-    "industry": "電機機械",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
-    "code": "4546",
-    "name": "長亨",
-    "raw_fields": {
-      "有價證券代號及名稱": "4546　長亨",
-      "國際證券辨識號碼(ISIN Code)": "TW0004546007",
-      "上市日": "2013/07/30",
-      "市場別": "興櫃",
-      "產業別": "電機機械",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0004546007",
-    "listing_date": "2013/07/30",
     "market": "興櫃",
     "industry": "電機機械",
     "cfi_code": "ESVUFR",
@@ -7367,6 +7325,27 @@
     "listing_date": "2026/08/06",
     "market": "興櫃",
     "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7943",
+    "name": "鴻璟科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7943　鴻璟科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007943003",
+      "上市日": "2026/08/10",
+      "市場別": "興櫃",
+      "產業別": "數位雲端",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007943003",
+    "listing_date": "2026/08/10",
+    "market": "興櫃",
+    "industry": "數位雲端",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

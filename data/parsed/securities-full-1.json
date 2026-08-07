@@ -1788,6 +1788,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "4546",
+    "name": "長亨",
+    "raw_fields": {
+      "有價證券代號及名稱": "4546　長亨",
+      "國際證券辨識號碼(ISIN Code)": "TW0004546007",
+      "公開發行日": "2013/04/18",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004546007",
+    "public_offering_date": "2013/04/18",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "4548",
     "name": "名超企業",
     "raw_fields": {
@@ -3928,25 +3947,6 @@
     },
     "isin_code": "TW0007934002",
     "public_offering_date": "2026/06/15",
-    "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
-    "code": "7943",
-    "name": "鴻璟科技",
-    "raw_fields": {
-      "有價證券代號及名稱": "7943　鴻璟科技",
-      "國際證券辨識號碼(ISIN Code)": "TW0007943003",
-      "公開發行日": "2026/07/31",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007943003",
-    "public_offering_date": "2026/07/31",
     "industry": "其他業",
     "cfi_code": "ESVUFR",
     "remarks": null
