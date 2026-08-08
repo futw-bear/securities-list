@@ -63902,31 +63902,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F13714",
-    "name": "P19MSF9",
-    "raw_fields": {
-      "有價證券代號及名稱": "F13714　P19MSF9",
-      "國際證券辨識號碼(ISIN Code)": "XS1906337644",
-      "發行日": "2019/08/07",
-      "到期日": "2026/08/07",
-      "利率值": "8.500000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFGFR",
-      "備註": ""
-    },
-    "isin_code": "XS1906337644",
-    "issue_date": "2019/08/07",
-    "maturity_date": "2026/08/07",
-    "interest_rate": "8.500000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFGFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F13715",
     "name": "P19MSF10",
     "raw_fields": {
@@ -65647,31 +65622,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFGGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F14208",
-    "name": "P19CGMHI5",
-    "raw_fields": {
-      "有價證券代號及名稱": "F14208　P19CGMHI5",
-      "國際證券辨識號碼(ISIN Code)": "XS1980769456",
-      "發行日": "2019/08/07",
-      "到期日": "2026/08/07",
-      "利率值": "8.550000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "XS1980769456",
-    "issue_date": "2019/08/07",
-    "maturity_date": "2026/08/07",
-    "interest_rate": "8.550000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
     "remarks": null
   },
   {
