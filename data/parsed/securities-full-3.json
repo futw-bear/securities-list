@@ -5077,31 +5077,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "53095",
-    "name": "系統電五",
-    "raw_fields": {
-      "有價證券代號及名稱": "53095　系統電五",
-      "國際證券辨識號碼(ISIN Code)": "TW0005309504",
-      "發行日": "2023/08/08",
-      "到期日": "2026/08/08",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0005309504",
-    "issue_date": "2023/08/08",
-    "maturity_date": "2026/08/08",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "53096",
     "name": "系統電六",
     "raw_fields": {
@@ -29219,31 +29194,6 @@
     "issue_date": "2017/09/08",
     "maturity_date": "2032/09/08",
     "interest_rate": "2.100000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B95552",
-    "name": "P08凱控1A",
-    "raw_fields": {
-      "有價證券代號及名稱": "B95552　P08凱控1A",
-      "國際證券辨識號碼(ISIN Code)": "TW000B955525",
-      "發行日": "2019/08/08",
-      "到期日": "2026/08/08",
-      "利率值": "0.880000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B955525",
-    "issue_date": "2019/08/08",
-    "maturity_date": "2026/08/08",
-    "interest_rate": "0.880000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
