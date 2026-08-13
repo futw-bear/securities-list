@@ -8553,6 +8553,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0705A",
+    "name": "瀚亞外銷證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0705A　瀚亞外銷證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0705A1",
+      "發行日": "2026/01/16",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0705A1",
+    "issue_date": "2026/01/16",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0705Y",
     "name": "瀚亞外銷基金",
     "raw_fields": {
