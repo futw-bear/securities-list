@@ -856,6 +856,10 @@
     "name": "聖暉二"
   },
   {
+    "code": "55363",
+    "name": "聖暉三"
+  },
+  {
     "code": "56087",
     "name": "四維航七"
   },
@@ -1490,6 +1494,10 @@
   {
     "code": "89278",
     "name": "北基八"
+  },
+  {
+    "code": "89365",
+    "name": "國統五"
   },
   {
     "code": "89964",
@@ -3860,6 +3868,18 @@
     "name": "P15台電4C"
   },
   {
+    "code": "B903ID",
+    "name": "P15台電5A"
+  },
+  {
+    "code": "B903IE",
+    "name": "P15台電5B"
+  },
+  {
+    "code": "B903IF",
+    "name": "P15台電5C"
+  },
+  {
     "code": "B903WE",
     "name": "P06台電1C"
   },
@@ -4714,6 +4734,14 @@
   {
     "code": "B95565",
     "name": "P14凱控1C"
+  },
+  {
+    "code": "B95566",
+    "name": "P15凱控1A"
+  },
+  {
+    "code": "B95567",
+    "name": "P15凱控1B"
   },
   {
     "code": "B95925",
@@ -6932,10 +6960,6 @@
     "name": "S26CTBC2"
   },
   {
-    "code": "F012DL",
-    "name": "S26CTBC5"
-  },
-  {
     "code": "F012DQ",
     "name": "S26CTBC9"
   },
@@ -6984,20 +7008,8 @@
     "name": "S26CTBC51"
   },
   {
-    "code": "F012F3",
-    "name": "S26CTBC54"
-  },
-  {
     "code": "F012F4",
     "name": "S26CTBC55"
-  },
-  {
-    "code": "F012F5",
-    "name": "S26CTBC56"
-  },
-  {
-    "code": "F012F6",
-    "name": "S26CTBC57"
   },
   {
     "code": "F012F7",
@@ -7024,10 +7036,6 @@
     "name": "S26CTBC64"
   },
   {
-    "code": "F012FF",
-    "name": "S26CTBC66"
-  },
-  {
     "code": "F012FG",
     "name": "S26CTBC67"
   },
@@ -7036,20 +7044,12 @@
     "name": "S26CTBC68"
   },
   {
-    "code": "F012FJ",
-    "name": "S26CTBC69"
-  },
-  {
     "code": "F012FL",
     "name": "S26CTBC71"
   },
   {
     "code": "F012FM",
     "name": "S26CTBC72"
-  },
-  {
-    "code": "F012FN",
-    "name": "S26CTBC73"
   },
   {
     "code": "F012FP",
@@ -7072,28 +7072,8 @@
     "name": "S26CTBC78"
   },
   {
-    "code": "F012FU",
-    "name": "S26CTBC79"
-  },
-  {
-    "code": "F012FV",
-    "name": "S26CTBC80"
-  },
-  {
-    "code": "F012FW",
-    "name": "S26CTBC81"
-  },
-  {
     "code": "F012FX",
     "name": "S26CTBC82"
-  },
-  {
-    "code": "F012FY",
-    "name": "S26CTBC83"
-  },
-  {
-    "code": "F012FZ",
-    "name": "S26CTBC84"
   },
   {
     "code": "F012G1",
@@ -7198,6 +7178,14 @@
   {
     "code": "F012GX",
     "name": "S26CTBC115"
+  },
+  {
+    "code": "F012GY",
+    "name": "S26CTBC116"
+  },
+  {
+    "code": "F012GZ",
+    "name": "S26CTBC117"
   },
   {
     "code": "F01503",

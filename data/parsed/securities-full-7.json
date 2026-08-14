@@ -23819,6 +23819,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T1802A",
+    "name": "聯博大利證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T1802A　聯博大利證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T1802A5",
+      "發行日": "2025/12/18",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T1802A5",
+    "issue_date": "2025/12/18",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T1802Y",
     "name": "聯博大利基金",
     "raw_fields": {
@@ -24410,6 +24427,40 @@
     "issue_date": "2015/04/01",
     "cfi_code": "CIOILU",
     "remarks": null
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T1812J",
+    "name": "聯博亞太多重資產基金證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T1812J　聯博亞太多重資產基金證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T1812J5",
+      "發行日": "2026/08/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T1812J5",
+    "issue_date": "2026/08/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T1812K",
+    "name": "聯博亞太多重資產基金證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T1812K　聯博亞太多重資產基金證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T1812K3",
+      "發行日": "2026/08/14",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T1812K3",
+    "issue_date": "2026/08/14",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
   },
   {
     "str_mode": 7,
