@@ -25777,31 +25777,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B903Z5",
-    "name": "P12台電4A",
-    "raw_fields": {
-      "有價證券代號及名稱": "B903Z5　P12台電4A",
-      "國際證券辨識號碼(ISIN Code)": "TW000B903Z52",
-      "發行日": "2023/08/15",
-      "到期日": "2026/08/15",
-      "利率值": "1.450000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B903Z52",
-    "issue_date": "2023/08/15",
-    "maturity_date": "2026/08/15",
-    "interest_rate": "1.450000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B903Z6",
     "name": "P12台電4B",
     "raw_fields": {
