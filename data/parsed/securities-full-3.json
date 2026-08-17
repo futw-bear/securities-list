@@ -1877,6 +1877,31 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
+    "code": "30166",
+    "name": "嘉晶六",
+    "raw_fields": {
+      "有價證券代號及名稱": "30166　嘉晶六",
+      "國際證券辨識號碼(ISIN Code)": "TW0003016606",
+      "發行日": "2026/08/18",
+      "到期日": "2029/08/18",
+      "利率值": "0.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DCZUGR",
+      "備註": ""
+    },
+    "isin_code": "TW0003016606",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2029/08/18",
+    "interest_rate": "0.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DCZUGR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "轉換公司債",
     "code": "30285",
     "name": "增你強五",
     "raw_fields": {
@@ -3022,6 +3047,31 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUDR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "轉換公司債",
+    "code": "35122",
+    "name": "皇龍二",
+    "raw_fields": {
+      "有價證券代號及名稱": "35122　皇龍二",
+      "國際證券辨識號碼(ISIN Code)": "TW0003512208",
+      "發行日": "2026/08/18",
+      "到期日": "2029/08/18",
+      "利率值": "0.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DCZSDR",
+      "備註": ""
+    },
+    "isin_code": "TW0003512208",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2029/08/18",
+    "interest_rate": "0.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DCZSDR",
     "remarks": null
   },
   {
@@ -4777,6 +4827,31 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
+    "code": "49675",
+    "name": "十銓五",
+    "raw_fields": {
+      "有價證券代號及名稱": "49675　十銓五",
+      "國際證券辨識號碼(ISIN Code)": "TW0004967500",
+      "發行日": "2026/08/18",
+      "到期日": "2031/08/18",
+      "利率值": "0.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DCZUDR",
+      "備註": ""
+    },
+    "isin_code": "TW0004967500",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2031/08/18",
+    "interest_rate": "0.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DCZUDR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "轉換公司債",
     "code": "49793",
     "name": "華星光三",
     "raw_fields": {
@@ -6272,31 +6347,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "64145",
-    "name": "樺漢五",
-    "raw_fields": {
-      "有價證券代號及名稱": "64145　樺漢五",
-      "國際證券辨識號碼(ISIN Code)": "TW0006414501",
-      "發行日": "2023/08/16",
-      "到期日": "2026/08/16",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0006414501",
-    "issue_date": "2023/08/16",
-    "maturity_date": "2026/08/16",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
     "remarks": null
   },
   {
@@ -33702,6 +33752,56 @@
   {
     "str_mode": 3,
     "category": "公司債",
+    "code": "B99609",
+    "name": "P15國壽1A",
+    "raw_fields": {
+      "有價證券代號及名稱": "B99609　P15國壽1A",
+      "國際證券辨識號碼(ISIN Code)": "TW000B996099",
+      "發行日": "2026/08/18",
+      "到期日": "2036/08/18",
+      "利率值": "3.700000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B996099",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2036/08/18",
+    "interest_rate": "3.700000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
+    "code": "B99610",
+    "name": "P15國壽1B",
+    "raw_fields": {
+      "有價證券代號及名稱": "B99610　P15國壽1B",
+      "國際證券辨識號碼(ISIN Code)": "TW000B996107",
+      "發行日": "2026/08/18",
+      "到期日": "2041/08/18",
+      "利率值": "3.850000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "TW000B996107",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2041/08/18",
+    "interest_rate": "3.850000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
     "code": "B99701",
     "name": "P06台壽1",
     "raw_fields": {
@@ -44894,6 +44994,31 @@
     "issue_date": "2026/08/17",
     "maturity_date": "2027/03/24",
     "interest_rate": "16.850000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
+    "code": "F012H1",
+    "name": "S26CTBC118",
+    "raw_fields": {
+      "有價證券代號及名稱": "F012H1　S26CTBC118",
+      "國際證券辨識號碼(ISIN Code)": "TW000F012H12",
+      "發行日": "2026/08/18",
+      "到期日": "2027/05/24",
+      "利率值": "19.900000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "TW000F012H12",
+    "issue_date": "2026/08/18",
+    "maturity_date": "2027/05/24",
+    "interest_rate": "19.900000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",

@@ -3446,13 +3446,13 @@
     "raw_fields": {
       "有價證券代號及名稱": "6950　科科科技-KY",
       "國際證券辨識號碼(ISIN Code)": "KYG5275M1015",
-      "公開發行日": "2024/01/17",
+      "公開發行日": "2026/08/17",
       "產業別": "數位雲端",
       "CFICode": "ESVUFR",
       "備註": ""
     },
     "isin_code": "KYG5275M1015",
-    "public_offering_date": "2024/01/17",
+    "public_offering_date": "2026/08/17",
     "industry": "數位雲端",
     "cfi_code": "ESVUFR",
     "remarks": null
@@ -3871,6 +3871,25 @@
     },
     "isin_code": "TW0007906000",
     "public_offering_date": "2026/01/13",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7914",
+    "name": "碩明綠能",
+    "raw_fields": {
+      "有價證券代號及名稱": "7914　碩明綠能",
+      "國際證券辨識號碼(ISIN Code)": "TW0007914004",
+      "公開發行日": "2026/08/18",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007914004",
+    "public_offering_date": "2026/08/18",
     "industry": "其他業",
     "cfi_code": "ESVUFR",
     "remarks": null
