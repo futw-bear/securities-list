@@ -3954,25 +3954,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "7944",
-    "name": "睿禾金碳",
-    "raw_fields": {
-      "有價證券代號及名稱": "7944　睿禾金碳",
-      "國際證券辨識號碼(ISIN Code)": "TW0007944001",
-      "公開發行日": "2026/08/11",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007944001",
-    "public_offering_date": "2026/08/11",
-    "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "7945",
     "name": "廣盛科技",
     "raw_fields": {
