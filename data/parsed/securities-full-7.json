@@ -65724,6 +65724,74 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T4779A",
+    "name": "台新全球ＡＩ電力證券投資信託",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4779A　台新全球ＡＩ電力證券投資信託",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4779A2",
+      "發行日": "2026/08/20",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4779A2",
+    "issue_date": "2026/08/20",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T4779B",
+    "name": "台新全球ＡＩ電力證券投資信託",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4779B　台新全球ＡＩ電力證券投資信託",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4779B0",
+      "發行日": "2026/08/20",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4779B0",
+    "issue_date": "2026/08/20",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T4779C",
+    "name": "台新全球ＡＩ電力證券投資信託",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4779C　台新全球ＡＩ電力證券投資信託",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4779C8",
+      "發行日": "2026/08/20",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4779C8",
+    "issue_date": "2026/08/20",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T4779D",
+    "name": "台新全球ＡＩ電力證券投資信託",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4779D　台新全球ＡＩ電力證券投資信託",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4779D6",
+      "發行日": "2026/08/20",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4779D6",
+    "issue_date": "2026/08/20",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T4801A",
     "name": "合庫台灣證券投資信託基金",
     "raw_fields": {
