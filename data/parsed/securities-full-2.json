@@ -30893,27 +30893,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "033058",
-    "name": "道瓊銅凱基58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "033058　道瓊銅凱基58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0330584",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0330584",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "03305T",
     "name": "臺股指中信63售09",
     "raw_fields": {
@@ -30977,27 +30956,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "033087",
-    "name": "台灣50兆豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "033087　台灣50兆豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0330873",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0330873",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "03308T",
     "name": "道瓊銅凱基61售02",
     "raw_fields": {
@@ -31040,27 +30998,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "033102",
-    "name": "智邦群益58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "033102　智邦群益58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0331020",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0331020",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "03310T",
     "name": "臺股指凱基63售14",
     "raw_fields": {
@@ -31098,27 +31035,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWBCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "033122",
-    "name": "富世達群益58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "033122　富世達群益58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0331228",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0331228",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -51032,27 +50948,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "037250",
-    "name": "毅嘉統一58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "037250　毅嘉統一58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0372503",
-      "上市日": "2025/09/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0372503",
-    "listing_date": "2025/09/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "037251",
     "name": "牧德統一5C購01",
     "raw_fields": {
@@ -51216,27 +51111,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWICCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "037282",
-    "name": "台灣50元大58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "037282　台灣50元大58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0372826",
-      "上市日": "2025/09/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0372826",
-    "listing_date": "2025/09/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
     "remarks": null
   },
   {
@@ -71192,27 +71066,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "041218",
-    "name": "T50反1永豐58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "041218　T50反1永豐58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0412184",
-      "上市日": "2025/10/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0412184",
-    "listing_date": "2025/10/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "04121T",
     "name": "台灣50富邦62售10",
     "raw_fields": {
@@ -71687,27 +71540,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0413448",
-    "listing_date": "2025/10/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "041345",
-    "name": "貿聯國票58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "041345　貿聯國票58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0413455",
-      "上市日": "2025/10/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0413455",
     "listing_date": "2025/10/22",
     "market": "上市",
     "industry": null,
@@ -95636,27 +95468,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "049234",
-    "name": "華通永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049234　華通永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492343",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492343",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "049235",
     "name": "台積電永豐6C購02",
     "raw_fields": {
@@ -95678,27 +95489,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "049237",
-    "name": "裕民永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049237　裕民永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492376",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492376",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "049238",
     "name": "晶豪科永豐5C購01",
     "raw_fields": {
@@ -95711,69 +95501,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0492384",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049243",
-    "name": "至上永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049243　至上永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492434",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492434",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049244",
-    "name": "元金反凱基58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049244　元金反凱基58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492442",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492442",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049250",
-    "name": "鴻海凱基58購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "049250　鴻海凱基58購05",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492509",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492509",
     "listing_date": "2025/12/22",
     "market": "上市",
     "industry": null,
@@ -95951,48 +95678,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "049265",
-    "name": "昇貿凱基58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049265　昇貿凱基58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492657",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492657",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049267",
-    "name": "聯鈞凱基58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "049267　聯鈞凱基58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492673",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492673",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "049268",
     "name": "聯鈞凱基59購01",
     "raw_fields": {
@@ -96026,27 +95711,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0492707",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049277",
-    "name": "台玻兆豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049277　台玻兆豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492772",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492772",
     "listing_date": "2025/12/22",
     "market": "上市",
     "industry": null,
@@ -96098,69 +95762,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "049280",
-    "name": "亞力富邦58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "049280　亞力富邦58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492806",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492806",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049283",
-    "name": "智邦富邦58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "049283　智邦富邦58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492830",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492830",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049285",
-    "name": "漢唐富邦58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "049285　漢唐富邦58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492855",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492855",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "049286",
     "name": "漢唐富邦59購01",
     "raw_fields": {
@@ -96173,27 +95774,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0492863",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049287",
-    "name": "裕民富邦58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "049287　裕民富邦58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492871",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492871",
     "listing_date": "2025/12/22",
     "market": "上市",
     "industry": null,
@@ -96224,69 +95804,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "049291",
-    "name": "奇鋐富邦58購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "049291　奇鋐富邦58購05",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492913",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492913",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049292",
-    "name": "奇鋐富邦58購06",
-    "raw_fields": {
-      "有價證券代號及名稱": "049292　奇鋐富邦58購06",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492921",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492921",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049295",
-    "name": "新日興富邦58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049295　新日興富邦58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492954",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492954",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "049296",
     "name": "聯鈞富邦5A購01",
     "raw_fields": {
@@ -96299,69 +95816,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0492962",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049297",
-    "name": "世芯富邦58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "049297　世芯富邦58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492970",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492970",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049298",
-    "name": "世芯富邦58購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "049298　世芯富邦58購04",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0492988",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0492988",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049300",
-    "name": "達興富邦58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049300　達興富邦58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0493002",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0493002",
     "listing_date": "2025/12/22",
     "market": "上市",
     "industry": null,
@@ -96513,69 +95967,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049335",
-    "name": "聯鈞國票58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049335　聯鈞國票58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0493358",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0493358",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049347",
-    "name": "華通群益58購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "049347　華通群益58購04",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0493473",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0493473",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049351",
-    "name": "華碩群益58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049351　華碩群益58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0493515",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0493515",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -96824,27 +96215,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z0494000",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "049401",
-    "name": "昇貿元大58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "049401　昇貿元大58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0494018",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0494018",
     "listing_date": "2025/12/22",
     "market": "上市",
     "industry": null,
@@ -126212,27 +125582,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "05336U",
-    "name": "台積電群益58售03",
-    "raw_fields": {
-      "有價證券代號及名稱": "05336U　台積電群益58售03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z05336U9",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z05336U9",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053370",
     "name": "大同元大59購02",
     "raw_fields": {
@@ -126396,27 +125745,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "05339U",
-    "name": "達興群益58售01",
-    "raw_fields": {
-      "有價證券代號及名稱": "05339U　達興群益58售01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z05339U3",
-      "上市日": "2025/08/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z05339U3",
-    "listing_date": "2025/08/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCPE",
     "remarks": null
   },
   {
@@ -128774,48 +128102,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053615",
-    "name": "台泥永豐58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "053615　台泥永豐58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536154",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536154",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053616",
-    "name": "士電永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053616　士電永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536162",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536162",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053618",
     "name": "美時永豐59購02",
     "raw_fields": {
@@ -128879,27 +128165,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053623",
-    "name": "菱生永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053623　菱生永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536238",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536238",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053624",
     "name": "大同永豐59購01",
     "raw_fields": {
@@ -128912,27 +128177,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z0536246",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053628",
-    "name": "聯發科永豐58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053628　聯發科永豐58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536287",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536287",
     "listing_date": "2026/01/22",
     "market": "上市",
     "industry": null,
@@ -128963,27 +128207,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053631",
-    "name": "欣興永豐58購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "053631　欣興永豐58購05",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536311",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536311",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053632",
     "name": "欣興永豐5A購03",
     "raw_fields": {
@@ -128996,48 +128219,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z0536329",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053636",
-    "name": "全訊永豐58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053636　全訊永豐58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536360",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536360",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053637",
-    "name": "力成永豐58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053637　力成永豐58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536378",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536378",
     "listing_date": "2026/01/22",
     "market": "上市",
     "industry": null,
@@ -129971,27 +129152,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053687",
-    "name": "聯鈞富邦58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053687　聯鈞富邦58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0536873",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0536873",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053689",
     "name": "定穎控富邦5A購01",
     "raw_fields": {
@@ -130097,27 +129257,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053702",
-    "name": "仁寶凱基58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053702　仁寶凱基58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537020",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537020",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053704",
     "name": "華泰凱基5B購01",
     "raw_fields": {
@@ -130130,48 +129269,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z0537046",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053705",
-    "name": "台積電凱基58購15",
-    "raw_fields": {
-      "有價證券代號及名稱": "053705　台積電凱基58購15",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537053",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537053",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053709",
-    "name": "強茂凱基58購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "053709　強茂凱基58購05",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537095",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537095",
     "listing_date": "2026/01/22",
     "market": "上市",
     "industry": null,
@@ -130265,258 +129362,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "053719",
-    "name": "南電凱基58購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "053719　南電凱基58購05",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537194",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537194",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053721",
-    "name": "中興電國泰58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053721　中興電國泰58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537210",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537210",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053722",
-    "name": "國巨國泰58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053722　國巨國泰58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537228",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537228",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053723",
-    "name": "華泰國泰58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053723　華泰國泰58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537236",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537236",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053724",
-    "name": "世芯國泰58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "053724　世芯國泰58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537244",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537244",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053725",
-    "name": "定穎控國泰58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053725　定穎控國泰58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537251",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537251",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053726",
-    "name": "定穎控國泰58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "053726　定穎控國泰58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537269",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537269",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053727",
-    "name": "定穎控國泰58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053727　定穎控國泰58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537277",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537277",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053728",
-    "name": "力成國泰58購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "053728　力成國泰58購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537285",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537285",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053731",
-    "name": "力成國泰58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053731　力成國泰58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537319",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537319",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053732",
-    "name": "力成國泰58購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "053732　力成國泰58購04",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537327",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537327",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053734",
-    "name": "富世達國泰58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053734　富世達國泰58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537343",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537343",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "053735",
     "name": "元黃金群益65購01",
     "raw_fields": {
@@ -130533,27 +129378,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWBCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053740",
-    "name": "東元群益58購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "053740　東元群益58購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537400",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537400",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -130638,48 +129462,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053762",
-    "name": "福懋科群益58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053762　福懋科群益58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537624",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537624",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "053763",
-    "name": "FB科技元大58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "053763　FB科技元大58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z0537632",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWBCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z0537632",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWBCCA",
     "remarks": null
   },
   {
@@ -351558,27 +350340,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "06648U",
-    "name": "世芯中信58售02",
-    "raw_fields": {
-      "有價證券代號及名稱": "06648U　世芯中信58售02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z06648U6",
-      "上市日": "2025/10/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z06648U6",
-    "listing_date": "2025/10/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCPE",
     "remarks": null
   },
   {
@@ -579392,27 +578153,6 @@
   {
     "str_mode": 2,
     "category": "上市認購(售)權證",
-    "code": "07742U",
-    "name": "臺股指凱基58售07",
-    "raw_fields": {
-      "有價證券代號及名稱": "07742U　臺股指凱基58售07",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z07742U6",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWICPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z07742U6",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWICPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
     "code": "077430",
     "name": "玉晶光國票61購02",
     "raw_fields": {
@@ -579618,27 +578358,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "07743U",
-    "name": "臺股指凱基58售08",
-    "raw_fields": {
-      "有價證券代號及名稱": "07743U　臺股指凱基58售08",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z07743U4",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWICPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z07743U4",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWICPE",
     "remarks": null
   },
   {
@@ -580962,27 +579681,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "07749U",
-    "name": "華通群益58售05",
-    "raw_fields": {
-      "有價證券代號及名稱": "07749U　華通群益58售05",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z07749U1",
-      "上市日": "2025/12/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z07749U1",
-    "listing_date": "2025/12/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCPE",
     "remarks": null
   },
   {
@@ -612480,27 +611178,6 @@
     },
     "isin_code": "TW26Z0789662",
     "listing_date": "2026/08/06",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "078967",
-    "name": "立積群益58購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "078967　立積群益58購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z0789672",
-      "上市日": "2025/04/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z0789672",
-    "listing_date": "2025/04/22",
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
@@ -663807,27 +662484,6 @@
     "market": "上市",
     "industry": null,
     "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 2,
-    "category": "上市認購(售)權證",
-    "code": "08135U",
-    "name": "臺股指元大58售08",
-    "raw_fields": {
-      "有價證券代號及名稱": "08135U　臺股指元大58售08",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z08135U1",
-      "上市日": "2026/01/22",
-      "市場別": "上市",
-      "產業別": "",
-      "CFICode": "RWICPE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z08135U1",
-    "listing_date": "2026/01/22",
-    "market": "上市",
-    "industry": null,
-    "cfi_code": "RWICPE",
     "remarks": null
   },
   {

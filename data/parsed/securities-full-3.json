@@ -952,31 +952,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "23683",
-    "name": "金像電三",
-    "raw_fields": {
-      "有價證券代號及名稱": "23683　金像電三",
-      "國際證券辨識號碼(ISIN Code)": "TW0002368305",
-      "發行日": "2025/11/24",
-      "到期日": "2026/08/21",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0002368305",
-    "issue_date": "2025/11/24",
-    "maturity_date": "2026/08/21",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "23742",
     "name": "佳能二",
     "raw_fields": {
@@ -54697,31 +54672,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBZUGB",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F05427",
-    "name": "P19NATIX4",
-    "raw_fields": {
-      "有價證券代號及名稱": "F05427　P19NATIX4",
-      "國際證券辨識號碼(ISIN Code)": "XS1939110489",
-      "發行日": "2019/08/21",
-      "到期日": "2026/08/21",
-      "利率值": "3.500000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGB",
-      "備註": ""
-    },
-    "isin_code": "XS1939110489",
-    "issue_date": "2019/08/21",
-    "maturity_date": "2026/08/21",
-    "interest_rate": "3.500000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGB",
     "remarks": null
   },
   {
