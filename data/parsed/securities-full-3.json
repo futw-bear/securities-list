@@ -2452,6 +2452,31 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
+    "code": "32191",
+    "name": "倚強科一",
+    "raw_fields": {
+      "有價證券代號及名稱": "32191　倚強科一",
+      "國際證券辨識號碼(ISIN Code)": "TW0003219101",
+      "發行日": "2026/08/25",
+      "到期日": "2029/08/25",
+      "利率值": "0.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DCZUDR",
+      "備註": ""
+    },
+    "isin_code": "TW0003219101",
+    "issue_date": "2026/08/25",
+    "maturity_date": "2029/08/25",
+    "interest_rate": "0.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DCZUDR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "轉換公司債",
     "code": "32571",
     "name": "虹冠電一",
     "raw_fields": {
@@ -45102,6 +45127,31 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
+    "code": "F012H5",
+    "name": "S26CTBC122",
+    "raw_fields": {
+      "有價證券代號及名稱": "F012H5　S26CTBC122",
+      "國際證券辨識號碼(ISIN Code)": "TW000F012H53",
+      "發行日": "2026/08/25",
+      "到期日": "2027/08/31",
+      "利率值": "16.540000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUGR",
+      "備註": ""
+    },
+    "isin_code": "TW000F012H53",
+    "issue_date": "2026/08/25",
+    "maturity_date": "2027/08/31",
+    "interest_rate": "16.540000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUGR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
     "code": "F01503",
     "name": "14CHB1B",
     "raw_fields": {
@@ -71402,6 +71452,31 @@
   {
     "str_mode": 3,
     "category": "金融債",
+    "code": "G102BL",
+    "name": "P15玉銀1",
+    "raw_fields": {
+      "有價證券代號及名稱": "G102BL　P15玉銀1",
+      "國際證券辨識號碼(ISIN Code)": "TW000G102BL1",
+      "發行日": "2026/08/25",
+      "到期日": "2031/08/25",
+      "利率值": "2.200000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000G102BL1",
+    "issue_date": "2026/08/25",
+    "maturity_date": "2031/08/25",
+    "interest_rate": "2.200000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "金融債",
     "code": "G10316",
     "name": "P07高銀2",
     "raw_fields": {
@@ -73372,31 +73447,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUQR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G110AJ",
-    "name": "P08永豐銀6",
-    "raw_fields": {
-      "有價證券代號及名稱": "G110AJ　P08永豐銀6",
-      "國際證券辨識號碼(ISIN Code)": "TW000G110AJ0",
-      "發行日": "2019/08/23",
-      "到期日": "2026/08/23",
-      "利率值": "1.030000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G110AJ0",
-    "issue_date": "2019/08/23",
-    "maturity_date": "2026/08/23",
-    "interest_rate": "1.030000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {

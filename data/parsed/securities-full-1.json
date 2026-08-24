@@ -3973,6 +3973,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "7952",
+    "name": "頂祺",
+    "raw_fields": {
+      "有價證券代號及名稱": "7952　頂祺",
+      "國際證券辨識號碼(ISIN Code)": "TW0007952004",
+      "公開發行日": "2026/08/25",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007952004",
+    "public_offering_date": "2026/08/25",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "8029",
     "name": "久尹",
     "raw_fields": {

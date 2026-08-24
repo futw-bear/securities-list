@@ -66377,12 +66377,12 @@
       "國際證券辨識號碼(ISIN Code)": "TW000T4816Y2",
       "發行日": "2020/07/31",
       "CFICode": "CIOGEU",
-      "備註": ""
+      "備註": "於//登錄櫃檯買賣"
     },
     "isin_code": "TW000T4816Y2",
     "issue_date": "2020/07/31",
     "cfi_code": "CIOGEU",
-    "remarks": null
+    "remarks": "於//登錄櫃檯買賣"
   },
   {
     "str_mode": 7,
