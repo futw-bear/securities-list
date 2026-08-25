@@ -6890,6 +6890,27 @@
   {
     "str_mode": 5,
     "category": null,
+    "code": "7914",
+    "name": "碩明綠能",
+    "raw_fields": {
+      "有價證券代號及名稱": "7914　碩明綠能",
+      "國際證券辨識號碼(ISIN Code)": "TW0007914004",
+      "上市日": "2026/08/26",
+      "市場別": "興櫃",
+      "產業別": "綠能環保",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007914004",
+    "listing_date": "2026/08/26",
+    "market": "興櫃",
+    "industry": "綠能環保",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
     "code": "7915",
     "name": "廌家",
     "raw_fields": {
