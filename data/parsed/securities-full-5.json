@@ -5588,27 +5588,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "7834",
-    "name": "來毅數位",
-    "raw_fields": {
-      "有價證券代號及名稱": "7834　來毅數位",
-      "國際證券辨識號碼(ISIN Code)": "TW0007834004",
-      "上市日": "2025/05/13",
-      "市場別": "興櫃",
-      "產業別": "資訊服務業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007834004",
-    "listing_date": "2025/05/13",
-    "market": "興櫃",
-    "industry": "資訊服務業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "7836",
     "name": "智生活",
     "raw_fields": {
