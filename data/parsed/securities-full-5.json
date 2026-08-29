@@ -2313,9 +2313,9 @@
     "str_mode": 5,
     "category": null,
     "code": "6696",
-    "name": "仁新",
+    "name": "仁新*",
     "raw_fields": {
-      "有價證券代號及名稱": "6696　仁新",
+      "有價證券代號及名稱": "6696　仁新*",
       "國際證券辨識號碼(ISIN Code)": "TW0006696008",
       "上市日": "2018/10/08",
       "市場別": "興櫃",
@@ -3782,6 +3782,27 @@
   {
     "str_mode": 5,
     "category": null,
+    "code": "6950",
+    "name": "科科科技-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "6950　科科科技-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG5275M1015",
+      "上市日": "2026/08/31",
+      "市場別": "興櫃",
+      "產業別": "數位雲端",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG5275M1015",
+    "listing_date": "2026/08/31",
+    "market": "興櫃",
+    "industry": "數位雲端",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
     "code": "6959",
     "name": "兆捷科技",
     "raw_fields": {
@@ -4511,6 +4532,27 @@
     "listing_date": "2025/11/27",
     "market": "興櫃",
     "industry": "半導體業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7686",
+    "name": "捷立康",
+    "raw_fields": {
+      "有價證券代號及名稱": "7686　捷立康",
+      "國際證券辨識號碼(ISIN Code)": "TW0007686B13",
+      "上市日": "2026/08/31",
+      "市場別": "興櫃",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007686B13",
+    "listing_date": "2026/08/31",
+    "market": "興櫃",
+    "industry": "生技醫療業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },
