@@ -377,31 +377,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "15864",
-    "name": "和勤四",
-    "raw_fields": {
-      "有價證券代號及名稱": "15864　和勤四",
-      "國際證券辨識號碼(ISIN Code)": "TW0001586402",
-      "發行日": "2023/08/30",
-      "到期日": "2026/08/30",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZSGR",
-      "備註": ""
-    },
-    "isin_code": "TW0001586402",
-    "issue_date": "2023/08/30",
-    "maturity_date": "2026/08/30",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZSGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "15865",
     "name": "和勤五",
     "raw_fields": {
@@ -2147,31 +2122,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "30882",
-    "name": "艾訊二",
-    "raw_fields": {
-      "有價證券代號及名稱": "30882　艾訊二",
-      "國際證券辨識號碼(ISIN Code)": "TW0003088209",
-      "發行日": "2023/08/28",
-      "到期日": "2026/08/28",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0003088209",
-    "issue_date": "2023/08/28",
-    "maturity_date": "2026/08/28",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
     "remarks": null
   },
   {
@@ -30627,31 +30577,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B97865",
-    "name": "P11富邦金4",
-    "raw_fields": {
-      "有價證券代號及名稱": "B97865　P11富邦金4",
-      "國際證券辨識號碼(ISIN Code)": "TW000B978659",
-      "發行日": "2022/08/30",
-      "到期日": "2026/08/30",
-      "利率值": "1.650000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B978659",
-    "issue_date": "2022/08/30",
-    "maturity_date": "2026/08/30",
-    "interest_rate": "1.650000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B97866",
     "name": "P11富邦金5",
     "raw_fields": {
@@ -43272,31 +43197,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F01211",
-    "name": "S21CTBC2",
-    "raw_fields": {
-      "有價證券代號及名稱": "F01211　S21CTBC2",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012117",
-      "發行日": "2021/08/30",
-      "到期日": "2026/08/30",
-      "利率值": "浮動利率",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBVUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012117",
-    "issue_date": "2021/08/30",
-    "maturity_date": "2026/08/30",
-    "interest_rate": "浮動利率",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBVUGR",
     "remarks": null
   },
   {
@@ -64047,31 +63947,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBZGGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F13717",
-    "name": "P19MSF12",
-    "raw_fields": {
-      "有價證券代號及名稱": "F13717　P19MSF12",
-      "國際證券辨識號碼(ISIN Code)": "XS1906337727",
-      "發行日": "2019/08/30",
-      "到期日": "2026/08/30",
-      "利率值": "8.700000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFGGR",
-      "備註": ""
-    },
-    "isin_code": "XS1906337727",
-    "issue_date": "2019/08/30",
-    "maturity_date": "2026/08/30",
-    "interest_rate": "8.700000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFGGR",
     "remarks": null
   },
   {
