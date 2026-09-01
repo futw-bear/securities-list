@@ -1180,6 +1180,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "2867",
+    "name": "三商壽",
+    "raw_fields": {
+      "有價證券代號及名稱": "2867　三商壽",
+      "國際證券辨識號碼(ISIN Code)": "TW0002867009",
+      "公開發行日": "1996/01/03",
+      "產業別": "金融保險業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0002867009",
+    "public_offering_date": "1996/01/03",
+    "industry": "金融保險業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "2872",
     "name": "台灣票券",
     "raw_fields": {

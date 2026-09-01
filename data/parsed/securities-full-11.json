@@ -3011,6 +3011,23 @@
   {
     "str_mode": 11,
     "category": null,
+    "code": "IR0239",
+    "name": "臺灣璞玉永續報酬指數",
+    "raw_fields": {
+      "指數代號及名稱": "IR0239　臺灣璞玉永續報酬指數",
+      "國際證券辨識號碼(ISIN Code)": "TW000IR02398",
+      "發布日": "2026/09/01",
+      "CFICode": "TIEFGX",
+      "備註": ""
+    },
+    "isin_code": "TW000IR02398",
+    "publish_date": "2026/09/01",
+    "cfi_code": "TIEFGX",
+    "remarks": null
+  },
+  {
+    "str_mode": 11,
+    "category": null,
     "code": "IX0001",
     "name": "臺股指數",
     "raw_fields": {
@@ -6337,6 +6354,23 @@
     },
     "isin_code": "TW000IX02388",
     "publish_date": "2026/06/29",
+    "cfi_code": "TIEFPX",
+    "remarks": null
+  },
+  {
+    "str_mode": 11,
+    "category": null,
+    "code": "IX0239",
+    "name": "臺灣璞玉永續指數",
+    "raw_fields": {
+      "指數代號及名稱": "IX0239　臺灣璞玉永續指數",
+      "國際證券辨識號碼(ISIN Code)": "TW000IX02396",
+      "發布日": "2026/09/01",
+      "CFICode": "TIEFPX",
+      "備註": ""
+    },
+    "isin_code": "TW000IX02396",
+    "publish_date": "2026/09/01",
     "cfi_code": "TIEFPX",
     "remarks": null
   }

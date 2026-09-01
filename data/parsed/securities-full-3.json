@@ -377,31 +377,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "15865",
-    "name": "和勤五",
-    "raw_fields": {
-      "有價證券代號及名稱": "15865　和勤五",
-      "國際證券辨識號碼(ISIN Code)": "TW0001586501",
-      "發行日": "2023/08/31",
-      "到期日": "2026/08/31",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0001586501",
-    "issue_date": "2023/08/31",
-    "maturity_date": "2026/08/31",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "15894",
     "name": "永冠四KY",
     "raw_fields": {
@@ -9994,31 +9969,6 @@
     "issue_date": "2020/04/15",
     "maturity_date": "2035/04/15",
     "interest_rate": "0.930000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B20248",
-    "name": "P10台泥1A",
-    "raw_fields": {
-      "有價證券代號及名稱": "B20248　P10台泥1A",
-      "國際證券辨識號碼(ISIN Code)": "TW000B202480",
-      "發行日": "2021/08/31",
-      "到期日": "2026/08/31",
-      "利率值": "0.590000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B202480",
-    "issue_date": "2021/08/31",
-    "maturity_date": "2026/08/31",
-    "interest_rate": "0.590000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
@@ -77122,31 +77072,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUQR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G12728",
-    "name": "P10土銀2A",
-    "raw_fields": {
-      "有價證券代號及名稱": "G12728　P10土銀2A",
-      "國際證券辨識號碼(ISIN Code)": "TW000G127286",
-      "發行日": "2021/08/31",
-      "到期日": "2026/08/31",
-      "利率值": "0.430000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G127286",
-    "issue_date": "2021/08/31",
-    "maturity_date": "2026/08/31",
-    "interest_rate": "0.430000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
