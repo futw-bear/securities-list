@@ -1769,6 +1769,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "4150",
+    "name": "優你康",
+    "raw_fields": {
+      "有價證券代號及名稱": "4150　優你康",
+      "國際證券辨識號碼(ISIN Code)": "TW0004150008",
+      "公開發行日": "2010/07/23",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0004150008",
+    "public_offering_date": "2010/07/23",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "4427",
     "name": "展頌",
     "raw_fields": {
