@@ -68902,31 +68902,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F18708",
-    "name": "P23JPCFC6",
-    "raw_fields": {
-      "有價證券代號及名稱": "F18708　P23JPCFC6",
-      "國際證券辨識號碼(ISIN Code)": "XS1449780722",
-      "發行日": "2023/09/05",
-      "到期日": "2026/09/05",
-      "利率值": "5.970000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "XS1449780722",
-    "issue_date": "2023/09/05",
-    "maturity_date": "2026/09/05",
-    "interest_rate": "5.970000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F18710",
     "name": "P23JPCFC8",
     "raw_fields": {
