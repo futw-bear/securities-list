@@ -31577,31 +31577,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B98910",
-    "name": "P09國泰金5",
-    "raw_fields": {
-      "有價證券代號及名稱": "B98910　P09國泰金5",
-      "國際證券辨識號碼(ISIN Code)": "TW000B989102",
-      "發行日": "2020/09/08",
-      "到期日": "2026/09/08",
-      "利率值": "0.640000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B989102",
-    "issue_date": "2020/09/08",
-    "maturity_date": "2026/09/08",
-    "interest_rate": "0.640000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B98911",
     "name": "P09國泰金6",
     "raw_fields": {
@@ -35172,31 +35147,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B9AP01",
-    "name": "P10雲品1",
-    "raw_fields": {
-      "有價證券代號及名稱": "B9AP01　P10雲品1",
-      "國際證券辨識號碼(ISIN Code)": "TW000B9AP014",
-      "發行日": "2021/09/08",
-      "到期日": "2026/09/08",
-      "利率值": "0.580000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFSFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B9AP014",
-    "issue_date": "2021/09/08",
-    "maturity_date": "2026/09/08",
-    "interest_rate": "0.580000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFSFR",
     "remarks": null
   },
   {
@@ -70018,6 +69968,31 @@
     "isin_code": "XS3220609047",
     "issue_date": "2025/11/18",
     "maturity_date": "2030/11/18",
+    "interest_rate": "浮動利率",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "外幣計價國際債券",
+    "code": "F19104",
+    "name": "P26KOBC1",
+    "raw_fields": {
+      "有價證券代號及名稱": "F19104　P26KOBC1",
+      "國際證券辨識號碼(ISIN Code)": "XS3480640021",
+      "發行日": "2026/09/09",
+      "到期日": "2031/09/09",
+      "利率值": "浮動利率",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBVUFR",
+      "備註": ""
+    },
+    "isin_code": "XS3480640021",
+    "issue_date": "2026/09/09",
+    "maturity_date": "2031/09/09",
     "interest_rate": "浮動利率",
     "market": "上櫃",
     "industry": null,

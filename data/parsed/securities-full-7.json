@@ -66200,6 +66200,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T4816A",
+    "name": "合庫台灣高科技證券投資信託基",
+    "raw_fields": {
+      "有價證券代號及名稱": "T4816A　合庫台灣高科技證券投資信託基",
+      "國際證券辨識號碼(ISIN Code)": "TW000T4816A2",
+      "發行日": "2026/09/07",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T4816A2",
+    "issue_date": "2026/09/07",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T4816Y",
     "name": "合庫台灣高科技證券投資信託基",
     "raw_fields": {
