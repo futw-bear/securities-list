@@ -5483,27 +5483,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "7825",
-    "name": "和亞智慧",
-    "raw_fields": {
-      "有價證券代號及名稱": "7825　和亞智慧",
-      "國際證券辨識號碼(ISIN Code)": "TW0007825002",
-      "上市日": "2025/04/15",
-      "市場別": "興櫃",
-      "產業別": "其他電子業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007825002",
-    "listing_date": "2025/04/15",
-    "market": "興櫃",
-    "industry": "其他電子業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "7826",
     "name": "極風雲創",
     "raw_fields": {
@@ -7262,6 +7241,27 @@
     "listing_date": "2026/07/23",
     "market": "興櫃",
     "industry": "數位雲端",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7934",
+    "name": "鋒霈環境科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7934　鋒霈環境科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007934002",
+      "上市日": "2026/09/10",
+      "市場別": "興櫃",
+      "產業別": "綠能環保",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007934002",
+    "listing_date": "2026/09/10",
+    "market": "興櫃",
+    "industry": "綠能環保",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

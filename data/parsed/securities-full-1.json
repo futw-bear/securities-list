@@ -3935,25 +3935,6 @@
   {
     "str_mode": 1,
     "category": null,
-    "code": "7934",
-    "name": "鋒霈環境",
-    "raw_fields": {
-      "有價證券代號及名稱": "7934　鋒霈環境",
-      "國際證券辨識號碼(ISIN Code)": "TW0007934002",
-      "公開發行日": "2026/06/15",
-      "產業別": "其他業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007934002",
-    "public_offering_date": "2026/06/15",
-    "industry": "其他業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 1,
-    "category": null,
     "code": "7947",
     "name": "補丁科",
     "raw_fields": {
