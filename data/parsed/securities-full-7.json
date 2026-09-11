@@ -43284,6 +43284,176 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T32BLA",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLA　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLA3",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOGMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLA3",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOGMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLB",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLB　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLB1",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLB1",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLC",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLC　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLC9",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOGMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLC9",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOGMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLD",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLD　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLD7",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLD7",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLE",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLE　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLE5",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOGMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLE5",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOGMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLF",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLF　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLF2",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLF2",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLG",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLG　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLG0",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOGMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLG0",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOGMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLH",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLH　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLH8",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLH8",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLJ",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLJ　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLJ4",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLJ4",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T32BLK",
+    "name": "野村台日優選多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T32BLK　野村台日優選多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T32BLK2",
+      "發行日": "2026/09/09",
+      "CFICode": "CIOIMU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T32BLK2",
+    "issue_date": "2026/09/09",
+    "cfi_code": "CIOIMU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T32C3A",
     "name": "野村四年階梯到期新興市場債券基金-累積型新台幣計價",
     "raw_fields": {
