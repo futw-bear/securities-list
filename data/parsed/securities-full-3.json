@@ -1027,31 +1027,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "24361",
-    "name": "偉詮電一",
-    "raw_fields": {
-      "有價證券代號及名稱": "24361　偉詮電一",
-      "國際證券辨識號碼(ISIN Code)": "TW0002436102",
-      "發行日": "2023/09/11",
-      "到期日": "2026/09/11",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0002436102",
-    "issue_date": "2023/09/11",
-    "maturity_date": "2026/09/11",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "24394",
     "name": "美律四",
     "raw_fields": {
@@ -18619,31 +18594,6 @@
     "issue_date": "2020/08/06",
     "maturity_date": "2030/08/06",
     "interest_rate": "0.680000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B71892",
-    "name": "P08中油1B",
-    "raw_fields": {
-      "有價證券代號及名稱": "B71892　P08中油1B",
-      "國際證券辨識號碼(ISIN Code)": "TW000B718923",
-      "發行日": "2019/09/11",
-      "到期日": "2026/09/11",
-      "利率值": "0.730000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B718923",
-    "issue_date": "2019/09/11",
-    "maturity_date": "2026/09/11",
-    "interest_rate": "0.730000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
