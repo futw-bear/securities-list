@@ -401,27 +401,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "2938",
-    "name": "床的世界",
-    "raw_fields": {
-      "有價證券代號及名稱": "2938　床的世界",
-      "國際證券辨識號碼(ISIN Code)": "TW0002938008",
-      "上市日": "2016/10/05",
-      "市場別": "興櫃",
-      "產業別": "居家生活",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0002938008",
-    "listing_date": "2016/10/05",
-    "market": "興櫃",
-    "industry": "居家生活",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "2940",
     "name": "歐都納",
     "raw_fields": {
@@ -7409,6 +7388,27 @@
     "listing_date": "2026/08/20",
     "market": "興櫃",
     "industry": "電腦及週邊設備業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7947",
+    "name": "補丁科",
+    "raw_fields": {
+      "有價證券代號及名稱": "7947　補丁科",
+      "國際證券辨識號碼(ISIN Code)": "TW0007947004",
+      "上市日": "2026/09/16",
+      "市場別": "興櫃",
+      "產業別": "半導體業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007947004",
+    "listing_date": "2026/09/16",
+    "market": "興櫃",
+    "industry": "半導體業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },
