@@ -902,31 +902,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "23372",
-    "name": "旺宏二",
-    "raw_fields": {
-      "有價證券代號及名稱": "23372　旺宏二",
-      "國際證券辨識號碼(ISIN Code)": "TW0002337201",
-      "發行日": "2025/03/24",
-      "到期日": "2026/09/16",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0002337201",
-    "issue_date": "2025/03/24",
-    "maturity_date": "2026/09/16",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "23511",
     "name": "順德一",
     "raw_fields": {
@@ -30327,31 +30302,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B97858",
-    "name": "P10富邦金1",
-    "raw_fields": {
-      "有價證券代號及名稱": "B97858　P10富邦金1",
-      "國際證券辨識號碼(ISIN Code)": "TW000B978584",
-      "發行日": "2021/09/16",
-      "到期日": "2026/09/16",
-      "利率值": "0.500000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B978584",
-    "issue_date": "2021/09/16",
-    "maturity_date": "2026/09/16",
-    "interest_rate": "0.500000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B97859",
     "name": "P10富邦金2",
     "raw_fields": {
@@ -43097,31 +43047,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012BU",
-    "name": "S25CTBC80",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012BU　S25CTBC80",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012BU4",
-      "發行日": "2025/09/10",
-      "到期日": "2026/09/16",
-      "利率值": "23.350000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012BU4",
-    "issue_date": "2025/09/10",
-    "maturity_date": "2026/09/16",
-    "interest_rate": "23.350000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
     "remarks": null
   },
   {
