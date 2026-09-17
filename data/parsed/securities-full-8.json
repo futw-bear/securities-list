@@ -800,25 +800,6 @@
   {
     "str_mode": 8,
     "category": "普通股",
-    "code": "7554",
-    "name": "十鼓文創",
-    "raw_fields": {
-      "有價證券代號及名稱": "7554　十鼓文創",
-      "國際證券辨識號碼(ISIN Code)": "TW0007554B12",
-      "登錄日": "2018/10/25",
-      "市場別": "創櫃板",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0007554B12",
-    "registration_date": "2018/10/25",
-    "market": "創櫃板",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 8,
-    "category": "普通股",
     "code": "7557",
     "name": "牧陽能控",
     "raw_fields": {
