@@ -287,6 +287,25 @@
   {
     "str_mode": 8,
     "category": "普通股",
+    "code": "7432",
+    "name": "富喬物業",
+    "raw_fields": {
+      "有價證券代號及名稱": "7432　富喬物業",
+      "國際證券辨識號碼(ISIN Code)": "TW0007432B10",
+      "登錄日": "2026/09/16",
+      "市場別": "創櫃板",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007432B10",
+    "registration_date": "2026/09/16",
+    "market": "創櫃板",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 8,
+    "category": "普通股",
     "code": "7449",
     "name": "元皓",
     "raw_fields": {

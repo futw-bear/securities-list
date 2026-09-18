@@ -1396,40 +1396,6 @@
   {
     "str_mode": 11,
     "category": null,
-    "code": "IR0124",
-    "name": "智慧投資多因子30報酬指數",
-    "raw_fields": {
-      "指數代號及名稱": "IR0124　智慧投資多因子30報酬指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IR01242",
-      "發布日": "2019/11/01",
-      "CFICode": "TIEFGX",
-      "備註": ""
-    },
-    "isin_code": "TW000IR01242",
-    "publish_date": "2019/11/01",
-    "cfi_code": "TIEFGX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IR0125",
-    "name": "智慧中立報酬指數",
-    "raw_fields": {
-      "指數代號及名稱": "IR0125　智慧中立報酬指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IR01259",
-      "發布日": "2019/11/20",
-      "CFICode": "TIEMGX",
-      "備註": ""
-    },
-    "isin_code": "TW000IR01259",
-    "publish_date": "2019/11/20",
-    "cfi_code": "TIEMGX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
     "code": "IR0127",
     "name": "特選大蘋果報酬正向兩倍指數",
     "raw_fields": {
@@ -1729,23 +1695,6 @@
       "備註": ""
     },
     "isin_code": "TW000IR01473",
-    "publish_date": "2021/05/03",
-    "cfi_code": "TIEFGX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IR0148",
-    "name": "特選上櫃ESG成長報酬指數",
-    "raw_fields": {
-      "指數代號及名稱": "IR0148　特選上櫃ESG成長報酬指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IR01481",
-      "發布日": "2021/05/03",
-      "CFICode": "TIEFGX",
-      "備註": ""
-    },
-    "isin_code": "TW000IR01481",
     "publish_date": "2021/05/03",
     "cfi_code": "TIEFGX",
     "remarks": null
@@ -2564,23 +2513,6 @@
     "isin_code": "TW000IR02067",
     "publish_date": "2023/11/20",
     "cfi_code": "TIEEGX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IR0207",
-    "name": "特選臺灣優利成長報酬指數",
-    "raw_fields": {
-      "指數代號及名稱": "IR0207　特選臺灣優利成長報酬指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IR02075",
-      "發布日": "2023/12/25",
-      "CFICode": "TIEMGX",
-      "備註": ""
-    },
-    "isin_code": "TW000IR02075",
-    "publish_date": "2023/12/25",
-    "cfi_code": "TIEMGX",
     "remarks": null
   },
   {
@@ -4813,40 +4745,6 @@
   {
     "str_mode": 11,
     "category": null,
-    "code": "IX0124",
-    "name": "智慧投資多因子30指數",
-    "raw_fields": {
-      "指數代號及名稱": "IX0124　智慧投資多因子30指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IX01240",
-      "發布日": "2019/11/01",
-      "CFICode": "TIEFPX",
-      "備註": ""
-    },
-    "isin_code": "TW000IX01240",
-    "publish_date": "2019/11/01",
-    "cfi_code": "TIEFPX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IX0125",
-    "name": "智慧中立指數",
-    "raw_fields": {
-      "指數代號及名稱": "IX0125　智慧中立指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IX01257",
-      "發布日": "2019/11/20",
-      "CFICode": "TIEMPX",
-      "備註": ""
-    },
-    "isin_code": "TW000IX01257",
-    "publish_date": "2019/11/20",
-    "cfi_code": "TIEMPX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
     "code": "IX0126",
     "name": "臺股期貨指數",
     "raw_fields": {
@@ -5061,23 +4959,6 @@
       "備註": ""
     },
     "isin_code": "TW000IX01471",
-    "publish_date": "2022/01/10",
-    "cfi_code": "TIEFPX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IX0148",
-    "name": "特選上櫃ESG成長指數",
-    "raw_fields": {
-      "指數代號及名稱": "IX0148　特選上櫃ESG成長指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IX01489",
-      "發布日": "2022/01/10",
-      "CFICode": "TIEFPX",
-      "備註": ""
-    },
-    "isin_code": "TW000IX01489",
     "publish_date": "2022/01/10",
     "cfi_code": "TIEFPX",
     "remarks": null
@@ -5879,23 +5760,6 @@
     "isin_code": "TW000IX02065",
     "publish_date": "2023/11/20",
     "cfi_code": "TIEEPX",
-    "remarks": null
-  },
-  {
-    "str_mode": 11,
-    "category": null,
-    "code": "IX0207",
-    "name": "特選臺灣優利成長指數",
-    "raw_fields": {
-      "指數代號及名稱": "IX0207　特選臺灣優利成長指數",
-      "國際證券辨識號碼(ISIN Code)": "TW000IX02073",
-      "發布日": "2023/12/25",
-      "CFICode": "TIEMPX",
-      "備註": ""
-    },
-    "isin_code": "TW000IX02073",
-    "publish_date": "2023/12/25",
-    "cfi_code": "TIEMPX",
     "remarks": null
   },
   {
