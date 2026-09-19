@@ -4277,31 +4277,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "45421",
-    "name": "科嶠一",
-    "raw_fields": {
-      "有價證券代號及名稱": "45421　科嶠一",
-      "國際證券辨識號碼(ISIN Code)": "TW0004542105",
-      "發行日": "2024/09/06",
-      "到期日": "2026/09/18",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0004542105",
-    "issue_date": "2024/09/06",
-    "maturity_date": "2026/09/18",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "45491",
     "name": "桓達一",
     "raw_fields": {
@@ -43602,31 +43577,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F012F4",
-    "name": "S26CTBC55",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012F4　S26CTBC55",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012F48",
-      "發行日": "2026/05/13",
-      "到期日": "2026/09/18",
-      "利率值": "10.280000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012F48",
-    "issue_date": "2026/05/13",
-    "maturity_date": "2026/09/18",
-    "interest_rate": "10.280000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F012F7",
     "name": "S26CTBC58",
     "raw_fields": {
@@ -44469,31 +44419,6 @@
     "issue_date": "2026/08/03",
     "maturity_date": "2027/03/09",
     "interest_rate": "21.430000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012GT",
-    "name": "S26CTBC111",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012GT　S26CTBC111",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012GT5",
-      "發行日": "2026/08/03",
-      "到期日": "2026/09/18",
-      "利率值": "9.720000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012GT5",
-    "issue_date": "2026/08/03",
-    "maturity_date": "2026/09/18",
-    "interest_rate": "9.720000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
