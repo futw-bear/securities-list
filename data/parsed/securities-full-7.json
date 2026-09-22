@@ -3776,6 +3776,108 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0368A",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368A　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368A8",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368A8",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0368B",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368B　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368B6",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368B6",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0368C",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368C　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368C4",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368C4",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0368D",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368D　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368D2",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368D2",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0368E",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368E　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368E0",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368E0",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0368F",
+    "name": "第一金全球動態入息多重資產證",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0368F　第一金全球動態入息多重資產證",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0368F7",
+      "發行日": "2026/09/17",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0368F7",
+    "issue_date": "2026/09/17",
+    "cfi_code": "CIOIEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0405Y",
     "name": "匯豐安富基金",
     "raw_fields": {
@@ -11545,6 +11647,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0803C",
+    "name": "玉山金滿意證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0803C　玉山金滿意證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0803C0",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0803C0",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0803Y",
     "name": "ＰＧＩＭ保德信金滿意證券投資",
     "raw_fields": {
@@ -11749,6 +11868,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0812C",
+    "name": "玉山新世紀證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0812C　玉山新世紀證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0812C1",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0812C1",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0812Y",
     "name": "ＰＧＩＭ保德信新世紀證券投資",
     "raw_fields": {
@@ -11778,6 +11914,23 @@
     "isin_code": "TW000T0814B9",
     "issue_date": "2021/09/23",
     "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0814C",
+    "name": "玉山金平衡證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0814C　玉山金平衡證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0814C7",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0814C7",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
     "remarks": "於//登錄櫃檯買賣"
   },
   {
@@ -12270,6 +12423,23 @@
     },
     "isin_code": "TW000T0839C4",
     "issue_date": "2021/09/23",
+    "cfi_code": "CFOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0839D",
+    "name": "玉山策略成長ＥＴＦ組合證券投",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0839D　玉山策略成長ＥＴＦ組合證券投",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0839D2",
+      "發行日": "2026/09/21",
+      "CFICode": "CFOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0839D2",
+    "issue_date": "2026/09/21",
     "cfi_code": "CFOGEU",
     "remarks": "於//登錄櫃檯買賣"
   },
@@ -13036,6 +13206,23 @@
     "isin_code": "TW000T0848M4",
     "issue_date": "2022/08/31",
     "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0848N",
+    "name": "玉山全球生態友善ＥＳＧ多重資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0848N　玉山全球生態友善ＥＳＧ多重資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0848N2",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0848N2",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
     "remarks": "於//登錄櫃檯買賣"
   },
   {

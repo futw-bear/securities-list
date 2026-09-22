@@ -1674,6 +1674,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "3659",
+    "name": "百辰",
+    "raw_fields": {
+      "有價證券代號及名稱": "3659　百辰",
+      "國際證券辨識號碼(ISIN Code)": "TW0003659009",
+      "公開發行日": "2008/12/29",
+      "產業別": "光電業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0003659009",
+    "public_offering_date": "2008/12/29",
+    "industry": "光電業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "3682",
     "name": "亞太電",
     "raw_fields": {
