@@ -15880,6 +15880,278 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T10A5A",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5A　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5A3",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5A3",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5B",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5B　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5B1",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5B1",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5C",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5C　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5C9",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5C9",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5D",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5D　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5D7",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5D7",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5E",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5E　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5E5",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5E5",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5F",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5F　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5F2",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5F2",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5G",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5G　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5G0",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5G0",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5H",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5H　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5H8",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5H8",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5J",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5J　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5J4",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5J4",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5K",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5K　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5K2",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5K2",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5L",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5L　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5L0",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5L0",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5M",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5M　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5M8",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5M8",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5N",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5N　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5N6",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5N6",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5P",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5P　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5P1",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGLU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5P1",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGLU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5Q",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5Q　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5Q9",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5Q9",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T10A5R",
+    "name": "富邦富裕商機多重資產證券投資",
+    "raw_fields": {
+      "有價證券代號及名稱": "T10A5R　富邦富裕商機多重資產證券投資",
+      "國際證券辨識號碼(ISIN Code)": "TW000T10A5R7",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOILU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T10A5R7",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOILU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T1102Y",
     "name": "摩根台灣增長基金",
     "raw_fields": {

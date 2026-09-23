@@ -9877,6 +9877,31 @@
   {
     "str_mode": 3,
     "category": "公司債",
+    "code": "B20174",
+    "name": "P15亞泥2",
+    "raw_fields": {
+      "有價證券代號及名稱": "B20174　P15亞泥2",
+      "國際證券辨識號碼(ISIN Code)": "TW000B201748",
+      "發行日": "2026/09/24",
+      "到期日": "2031/09/24",
+      "利率值": "2.370000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B201748",
+    "issue_date": "2026/09/24",
+    "maturity_date": "2031/09/24",
+    "interest_rate": "2.370000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
     "code": "B20244",
     "name": "P07台泥1",
     "raw_fields": {
@@ -26452,6 +26477,31 @@
   {
     "str_mode": 3,
     "category": "公司債",
+    "code": "B91019",
+    "name": "P15凱基證3",
+    "raw_fields": {
+      "有價證券代號及名稱": "B91019　P15凱基證3",
+      "國際證券辨識號碼(ISIN Code)": "TW000B910199",
+      "發行日": "2026/09/24",
+      "到期日": "2036/09/24",
+      "利率值": "3.000000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFUFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B910199",
+    "issue_date": "2026/09/24",
+    "maturity_date": "2036/09/24",
+    "interest_rate": "3.000000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
     "code": "B921AC",
     "name": "P10陽明1H",
     "raw_fields": {
@@ -34752,6 +34802,31 @@
   {
     "str_mode": 3,
     "category": "公司債",
+    "code": "B9AH07",
+    "name": "P15美好2",
+    "raw_fields": {
+      "有價證券代號及名稱": "B9AH07　P15美好2",
+      "國際證券辨識號碼(ISIN Code)": "TW000B9AH078",
+      "發行日": "2026/09/24",
+      "到期日": "2032/09/24",
+      "利率值": "3.200000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFSFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B9AH078",
+    "issue_date": "2026/09/24",
+    "maturity_date": "2032/09/24",
+    "interest_rate": "3.200000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFSFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
     "code": "B9AK01",
     "name": "P09凱基壽1",
     "raw_fields": {
@@ -35419,6 +35494,31 @@
     "issue_date": "2026/09/07",
     "maturity_date": "2031/09/07",
     "interest_rate": "2.500000",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "DBFSFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 3,
+    "category": "公司債",
+    "code": "B9AY01",
+    "name": "P15元翎1",
+    "raw_fields": {
+      "有價證券代號及名稱": "B9AY01　P15元翎1",
+      "國際證券辨識號碼(ISIN Code)": "TW000B9AY016",
+      "發行日": "2026/09/24",
+      "到期日": "2029/09/24",
+      "利率值": "2.400000",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "DBFSFR",
+      "備註": ""
+    },
+    "isin_code": "TW000B9AY016",
+    "issue_date": "2026/09/24",
+    "maturity_date": "2029/09/24",
+    "interest_rate": "2.400000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFSFR",
@@ -43052,31 +43152,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F012BY",
-    "name": "S25CTBC84",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012BY　S25CTBC84",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012BY6",
-      "發行日": "2025/09/17",
-      "到期日": "2026/09/23",
-      "利率值": "21.330000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012BY6",
-    "issue_date": "2025/09/17",
-    "maturity_date": "2026/09/23",
-    "interest_rate": "21.330000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F012C4",
     "name": "S25CTBC89",
     "raw_fields": {
@@ -44252,31 +44327,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F012GP",
-    "name": "S26CTBC107",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012GP　S26CTBC107",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012GP3",
-      "發行日": "2026/07/31",
-      "到期日": "2026/09/23",
-      "利率值": "30.610000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012GP3",
-    "issue_date": "2026/07/31",
-    "maturity_date": "2026/09/23",
-    "interest_rate": "30.610000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F012GQ",
     "name": "S26CTBC108",
     "raw_fields": {
@@ -44319,31 +44369,6 @@
     "issue_date": "2026/08/03",
     "maturity_date": "2027/08/09",
     "interest_rate": "12.360000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012GS",
-    "name": "S26CTBC110",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012GS　S26CTBC110",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012GS7",
-      "發行日": "2026/08/03",
-      "到期日": "2026/09/23",
-      "利率值": "21.430000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012GS7",
-    "issue_date": "2026/08/03",
-    "maturity_date": "2026/09/23",
-    "interest_rate": "21.430000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
@@ -81172,31 +81197,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUQR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G189AN",
-    "name": "P05華銀2",
-    "raw_fields": {
-      "有價證券代號及名稱": "G189AN　P05華銀2",
-      "國際證券辨識號碼(ISIN Code)": "TW000G189AN6",
-      "發行日": "2016/09/23",
-      "到期日": "2026/09/23",
-      "利率值": "1.200000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G189AN6",
-    "issue_date": "2016/09/23",
-    "maturity_date": "2026/09/23",
-    "interest_rate": "1.200000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
