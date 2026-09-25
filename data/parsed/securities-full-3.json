@@ -68377,31 +68377,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F17901",
-    "name": "P21BCI1",
-    "raw_fields": {
-      "有價證券代號及名稱": "F17901　P21BCI1",
-      "國際證券辨識號碼(ISIN Code)": "XS2384719667",
-      "發行日": "2021/09/24",
-      "到期日": "2026/09/24",
-      "利率值": "1.885000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFB",
-      "備註": ""
-    },
-    "isin_code": "XS2384719667",
-    "issue_date": "2021/09/24",
-    "maturity_date": "2026/09/24",
-    "interest_rate": "1.885000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFB",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F18001",
     "name": "P21UAE1",
     "raw_fields": {
