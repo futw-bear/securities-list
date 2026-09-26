@@ -10302,31 +10302,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B30443",
-    "name": "P08統一2B",
-    "raw_fields": {
-      "有價證券代號及名稱": "B30443　P08統一2B",
-      "國際證券辨識號碼(ISIN Code)": "TW000B304435",
-      "發行日": "2019/09/25",
-      "到期日": "2026/09/25",
-      "利率值": "0.730000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B304435",
-    "issue_date": "2019/09/25",
-    "maturity_date": "2026/09/25",
-    "interest_rate": "0.730000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B30445",
     "name": "P09統一1B",
     "raw_fields": {
@@ -26594,31 +26569,6 @@
     "issue_date": "2023/06/28",
     "maturity_date": "2028/06/28",
     "interest_rate": "1.680000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B92359",
-    "name": "P12遠鼎2A",
-    "raw_fields": {
-      "有價證券代號及名稱": "B92359　P12遠鼎2A",
-      "國際證券辨識號碼(ISIN Code)": "TW000B923598",
-      "發行日": "2023/09/25",
-      "到期日": "2026/09/25",
-      "利率值": "1.620000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B923598",
-    "issue_date": "2023/09/25",
-    "maturity_date": "2026/09/25",
-    "interest_rate": "1.620000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
