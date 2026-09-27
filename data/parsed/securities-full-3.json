@@ -4377,31 +4377,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "45641",
-    "name": "元翎一",
-    "raw_fields": {
-      "有價證券代號及名稱": "45641　元翎一",
-      "國際證券辨識號碼(ISIN Code)": "TW0004564109",
-      "發行日": "2023/09/26",
-      "到期日": "2026/09/26",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUGR",
-      "備註": ""
-    },
-    "isin_code": "TW0004564109",
-    "issue_date": "2023/09/26",
-    "maturity_date": "2026/09/26",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "45663",
     "name": "時碩工業三",
     "raw_fields": {
@@ -72877,31 +72852,6 @@
   {
     "str_mode": 3,
     "category": "金融債",
-    "code": "G10921",
-    "name": "P08聯邦1A",
-    "raw_fields": {
-      "有價證券代號及名稱": "G10921　P08聯邦1A",
-      "國際證券辨識號碼(ISIN Code)": "TW000G109219",
-      "發行日": "2019/09/26",
-      "到期日": "2026/09/26",
-      "利率值": "1.100000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G109219",
-    "issue_date": "2019/09/26",
-    "maturity_date": "2026/09/26",
-    "interest_rate": "1.100000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
     "code": "G10922",
     "name": "P08聯邦1B",
     "raw_fields": {
@@ -73619,31 +73569,6 @@
     "issue_date": "2022/04/08",
     "maturity_date": "2027/04/08",
     "interest_rate": "0.780000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G110B2",
-    "name": "P13永豐銀1",
-    "raw_fields": {
-      "有價證券代號及名稱": "G110B2　P13永豐銀1",
-      "國際證券辨識號碼(ISIN Code)": "TW000G110B25",
-      "發行日": "2024/09/26",
-      "到期日": "2026/09/26",
-      "利率值": "1.730000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G110B25",
-    "issue_date": "2024/09/26",
-    "maturity_date": "2026/09/26",
-    "interest_rate": "1.730000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
@@ -76322,31 +76247,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBVUQR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G12432",
-    "name": "P05合庫1B",
-    "raw_fields": {
-      "有價證券代號及名稱": "G12432　P05合庫1B",
-      "國際證券辨識號碼(ISIN Code)": "TW000G124325",
-      "發行日": "2016/09/26",
-      "到期日": "2026/09/26",
-      "利率值": "1.200000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G124325",
-    "issue_date": "2016/09/26",
-    "maturity_date": "2026/09/26",
-    "interest_rate": "1.200000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
