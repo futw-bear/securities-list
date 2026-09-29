@@ -3677,56 +3677,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "37083",
-    "name": "上緯投控三",
-    "raw_fields": {
-      "有價證券代號及名稱": "37083　上緯投控三",
-      "國際證券辨識號碼(ISIN Code)": "TW0003708301",
-      "發行日": "2021/09/27",
-      "到期日": "2026/09/27",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZSDR",
-      "備註": ""
-    },
-    "isin_code": "TW0003708301",
-    "issue_date": "2021/09/27",
-    "maturity_date": "2026/09/27",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZSDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "37084",
-    "name": "上緯投控四",
-    "raw_fields": {
-      "有價證券代號及名稱": "37084　上緯投控四",
-      "國際證券辨識號碼(ISIN Code)": "TW0003708400",
-      "發行日": "2021/09/28",
-      "到期日": "2026/09/28",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0003708400",
-    "issue_date": "2021/09/28",
-    "maturity_date": "2026/09/28",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "37151",
     "name": "定穎投控一",
     "raw_fields": {
@@ -7652,31 +7602,6 @@
   {
     "str_mode": 3,
     "category": "轉換公司債",
-    "code": "68731",
-    "name": "泓德能源一",
-    "raw_fields": {
-      "有價證券代號及名稱": "68731　泓德能源一",
-      "國際證券辨識號碼(ISIN Code)": "TW0006873102",
-      "發行日": "2023/09/28",
-      "到期日": "2026/09/28",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0006873102",
-    "issue_date": "2023/09/28",
-    "maturity_date": "2026/09/28",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
     "code": "68732",
     "name": "泓德能源二",
     "raw_fields": {
@@ -9172,31 +9097,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DCZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "轉換公司債",
-    "code": "84732",
-    "name": "山林水二",
-    "raw_fields": {
-      "有價證券代號及名稱": "84732　山林水二",
-      "國際證券辨識號碼(ISIN Code)": "TW0008473208",
-      "發行日": "2021/09/28",
-      "到期日": "2026/09/28",
-      "利率值": "0.000000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DCZUDR",
-      "備註": ""
-    },
-    "isin_code": "TW0008473208",
-    "issue_date": "2021/09/28",
-    "maturity_date": "2026/09/28",
-    "interest_rate": "0.000000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DCZUDR",
     "remarks": null
   },
   {
@@ -11594,31 +11494,6 @@
     "issue_date": "2020/09/17",
     "maturity_date": "2027/09/17",
     "interest_rate": "0.830000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B50169",
-    "name": "P10遠東新3",
-    "raw_fields": {
-      "有價證券代號及名稱": "B50169　P10遠東新3",
-      "國際證券辨識號碼(ISIN Code)": "TW000B501691",
-      "發行日": "2021/09/27",
-      "到期日": "2026/09/27",
-      "利率值": "0.630000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B501691",
-    "issue_date": "2021/09/27",
-    "maturity_date": "2026/09/27",
-    "interest_rate": "0.630000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUFR",
@@ -22269,31 +22144,6 @@
     "issue_date": "2024/11/12",
     "maturity_date": "2029/11/12",
     "interest_rate": "1.970000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFSFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B86604",
-    "name": "P10永信建2",
-    "raw_fields": {
-      "有價證券代號及名稱": "B86604　P10永信建2",
-      "國際證券辨識號碼(ISIN Code)": "TW000B866045",
-      "發行日": "2021/09/27",
-      "到期日": "2026/09/27",
-      "利率值": "0.550000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFSFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B866045",
-    "issue_date": "2021/09/27",
-    "maturity_date": "2026/09/27",
-    "interest_rate": "0.550000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFSFR",
@@ -35022,31 +34872,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B9AQ01",
-    "name": "P10精誠1",
-    "raw_fields": {
-      "有價證券代號及名稱": "B9AQ01　P10精誠1",
-      "國際證券辨識號碼(ISIN Code)": "TW000B9AQ012",
-      "發行日": "2021/09/27",
-      "到期日": "2026/09/27",
-      "利率值": "0.820000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B9AQ012",
-    "issue_date": "2021/09/27",
-    "maturity_date": "2026/09/27",
-    "interest_rate": "0.820000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
@@ -71952,31 +71777,6 @@
   {
     "str_mode": 3,
     "category": "金融債",
-    "code": "G107C5",
-    "name": "P10北富銀4",
-    "raw_fields": {
-      "有價證券代號及名稱": "G107C5　P10北富銀4",
-      "國際證券辨識號碼(ISIN Code)": "TW000G107C52",
-      "發行日": "2021/09/28",
-      "到期日": "2026/09/28",
-      "利率值": "0.450000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G107C52",
-    "issue_date": "2021/09/28",
-    "maturity_date": "2026/09/28",
-    "interest_rate": "0.450000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
     "code": "G107C6",
     "name": "P10北富銀5",
     "raw_fields": {
@@ -80347,31 +80147,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUQR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "金融債",
-    "code": "G14932",
-    "name": "P05彰銀1B",
-    "raw_fields": {
-      "有價證券代號及名稱": "G14932　P05彰銀1B",
-      "國際證券辨識號碼(ISIN Code)": "TW000G149322",
-      "發行日": "2016/09/27",
-      "到期日": "2026/09/27",
-      "利率值": "1.200000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000G149322",
-    "issue_date": "2016/09/27",
-    "maturity_date": "2026/09/27",
-    "interest_rate": "1.200000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
