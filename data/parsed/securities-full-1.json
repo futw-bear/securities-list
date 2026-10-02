@@ -3099,6 +3099,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "6618",
+    "name": "永虹先進",
+    "raw_fields": {
+      "有價證券代號及名稱": "6618　永虹先進",
+      "國際證券辨識號碼(ISIN Code)": "TW0006618002",
+      "公開發行日": "2016/11/17",
+      "產業別": "化學工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006618002",
+    "public_offering_date": "2016/11/17",
+    "industry": "化學工業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "6623",
     "name": "施吉生技",
     "raw_fields": {
@@ -3986,6 +4005,44 @@
     "isin_code": "TW0007952004",
     "public_offering_date": "2026/08/25",
     "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7955",
+    "name": "車麗屋",
+    "raw_fields": {
+      "有價證券代號及名稱": "7955　車麗屋",
+      "國際證券辨識號碼(ISIN Code)": "TW0007955007",
+      "公開發行日": "2026/09/30",
+      "產業別": "貿易百貨業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007955007",
+    "public_offering_date": "2026/09/30",
+    "industry": "貿易百貨業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7956",
+    "name": "啟賦",
+    "raw_fields": {
+      "有價證券代號及名稱": "7956　啟賦",
+      "國際證券辨識號碼(ISIN Code)": "TW0007956005",
+      "公開發行日": "2026/10/02",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007956005",
+    "public_offering_date": "2026/10/02",
+    "industry": "電子工業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

@@ -1955,27 +1955,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "6618",
-    "name": "永虹先進",
-    "raw_fields": {
-      "有價證券代號及名稱": "6618　永虹先進",
-      "國際證券辨識號碼(ISIN Code)": "TW0006618002",
-      "上市日": "2017/09/15",
-      "市場別": "興櫃",
-      "產業別": "化學工業",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006618002",
-    "listing_date": "2017/09/15",
-    "market": "興櫃",
-    "industry": "化學工業",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "6621",
     "name": "華宇藥",
     "raw_fields": {
