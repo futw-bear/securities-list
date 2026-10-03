@@ -4201,6 +4201,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "8244",
+    "name": "大椽",
+    "raw_fields": {
+      "有價證券代號及名稱": "8244　大椽",
+      "國際證券辨識號碼(ISIN Code)": "TW0008244005",
+      "公開發行日": "2026/10/02",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0008244005",
+    "public_offering_date": "2026/10/02",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "8287",
     "name": "英格爾",
     "raw_fields": {
