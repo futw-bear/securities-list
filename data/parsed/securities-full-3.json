@@ -43977,31 +43977,6 @@
   {
     "str_mode": 3,
     "category": "外幣計價國際債券",
-    "code": "F012GK",
-    "name": "S26CTBC103",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012GK　S26CTBC103",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012GK4",
-      "發行日": "2026/07/24",
-      "到期日": "2026/10/02",
-      "利率值": "8.890000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012GK4",
-    "issue_date": "2026/07/24",
-    "maturity_date": "2026/10/02",
-    "interest_rate": "8.890000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
     "code": "F012GN",
     "name": "S26CTBC106",
     "raw_fields": {
@@ -44294,31 +44269,6 @@
     "issue_date": "2026/08/25",
     "maturity_date": "2027/08/31",
     "interest_rate": "16.540000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012H6",
-    "name": "S26CTBC123",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012H6　S26CTBC123",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012H61",
-      "發行日": "2026/08/26",
-      "到期日": "2026/10/02",
-      "利率值": "27.060000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012H61",
-    "issue_date": "2026/08/26",
-    "maturity_date": "2026/10/02",
-    "interest_rate": "27.060000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
@@ -45097,31 +45047,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBZUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F02244",
-    "name": "P19SG5",
-    "raw_fields": {
-      "有價證券代號及名稱": "F02244　P19SG5",
-      "國際證券辨識號碼(ISIN Code)": "XS2027857197",
-      "發行日": "2019/10/02",
-      "到期日": "2026/10/02",
-      "利率值": "2.650000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "XS2027857197",
-    "issue_date": "2019/10/02",
-    "maturity_date": "2026/10/02",
-    "interest_rate": "2.650000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
