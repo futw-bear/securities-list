@@ -1913,27 +1913,6 @@
   {
     "str_mode": 5,
     "category": null,
-    "code": "6604",
-    "name": "儒億",
-    "raw_fields": {
-      "有價證券代號及名稱": "6604　儒億",
-      "國際證券辨識號碼(ISIN Code)": "TW0006604002",
-      "上市日": "2025/10/28",
-      "市場別": "興櫃",
-      "產業別": "電機機械",
-      "CFICode": "ESVUFR",
-      "備註": ""
-    },
-    "isin_code": "TW0006604002",
-    "listing_date": "2025/10/28",
-    "market": "興櫃",
-    "industry": "電機機械",
-    "cfi_code": "ESVUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 5,
-    "category": null,
     "code": "6610",
     "name": "安成生技",
     "raw_fields": {
@@ -2115,6 +2094,27 @@
     },
     "isin_code": "TW0006659006",
     "listing_date": "2025/12/22",
+    "market": "興櫃",
+    "industry": "生技醫療業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "6660",
+    "name": "厚美德",
+    "raw_fields": {
+      "有價證券代號及名稱": "6660　厚美德",
+      "國際證券辨識號碼(ISIN Code)": "TW0006660004",
+      "上市日": "2026/10/06",
+      "市場別": "興櫃",
+      "產業別": "生技醫療業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006660004",
+    "listing_date": "2026/10/06",
     "market": "興櫃",
     "industry": "生技醫療業",
     "cfi_code": "ESVUFR",
@@ -7367,6 +7367,27 @@
     "listing_date": "2026/09/30",
     "market": "興櫃",
     "industry": "資訊服務業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 5,
+    "category": null,
+    "code": "7951",
+    "name": "大易橙",
+    "raw_fields": {
+      "有價證券代號及名稱": "7951　大易橙",
+      "國際證券辨識號碼(ISIN Code)": "TW0007951006",
+      "上市日": "2026/10/06",
+      "市場別": "興櫃",
+      "產業別": "其他電子業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007951006",
+    "listing_date": "2026/10/06",
+    "market": "興櫃",
+    "industry": "其他電子業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

@@ -2837,27 +2837,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "701200",
-    "name": "雙鴻元大5A購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "701200　雙鴻元大5A購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7012003",
-      "上市日": "2025/11/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7012003",
-    "listing_date": "2025/11/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "701211",
     "name": "威剛凱基5B購01",
     "raw_fields": {
@@ -2870,27 +2849,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z7012110",
-    "listing_date": "2025/11/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "701227",
-    "name": "雙鴻元大5A購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "701227　雙鴻元大5A購04",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7012276",
-      "上市日": "2025/11/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7012276",
     "listing_date": "2025/11/05",
     "market": "上櫃",
     "industry": null,
@@ -4655,27 +4613,6 @@
       "備註": ""
     },
     "isin_code": "TW25Z7023117",
-    "listing_date": "2025/12/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "702312",
-    "name": "穩懋中信5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "702312　穩懋中信5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7023125",
-      "上市日": "2025/12/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7023125",
     "listing_date": "2025/12/05",
     "market": "上櫃",
     "industry": null,
@@ -6554,27 +6491,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "703353",
-    "name": "富喬凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "703353　富喬凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7033536",
-      "上市日": "2026/01/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7033536",
-    "listing_date": "2026/01/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "703354",
     "name": "富喬凱基5B購01",
     "raw_fields": {
@@ -6680,27 +6596,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "703386",
-    "name": "富喬富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "703386　富喬富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7033866",
-      "上市日": "2026/01/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7033866",
-    "listing_date": "2026/01/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "703389",
     "name": "富喬統一65購01",
     "raw_fields": {
@@ -6734,48 +6629,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7033908",
-    "listing_date": "2026/01/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "703395",
-    "name": "信驊元富5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "703395　信驊元富5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7033957",
-      "上市日": "2026/01/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7033957",
-    "listing_date": "2026/01/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "703396",
-    "name": "信驊元富5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "703396　信驊元富5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7033965",
-      "上市日": "2026/01/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7033965",
     "listing_date": "2026/01/05",
     "market": "上櫃",
     "industry": null,
@@ -6843,27 +6696,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "703407",
-    "name": "富喬永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "703407　富喬永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7034070",
-      "上市日": "2026/01/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7034070",
-    "listing_date": "2026/01/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -7091,27 +6923,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7034682",
-    "listing_date": "2026/01/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "703469",
-    "name": "欣銓統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "703469　欣銓統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7034690",
-      "上市日": "2026/01/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7034690",
     "listing_date": "2026/01/06",
     "market": "上櫃",
     "industry": null,
@@ -14093,69 +13904,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704786",
-    "name": "信驊凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704786　信驊凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7047866",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7047866",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704789",
-    "name": "雍智凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704789　雍智凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7047890",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7047890",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704793",
-    "name": "擎亞永豐5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704793　擎亞永豐5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7047932",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7047932",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704794",
     "name": "擎亞永豐5B購01",
     "raw_fields": {
@@ -14177,27 +13925,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704807",
-    "name": "宜鼎元大5A購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "704807　宜鼎元大5A購04",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048070",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048070",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704831",
     "name": "信驊國票5C購01",
     "raw_fields": {
@@ -14210,27 +13937,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7048310",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704839",
-    "name": "擎亞國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704839　擎亞國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048393",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048393",
     "listing_date": "2026/02/04",
     "market": "上櫃",
     "industry": null,
@@ -14303,27 +14009,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704844",
-    "name": "宜特富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704844　宜特富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048443",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048443",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704845",
     "name": "信驊富邦5B購01",
     "raw_fields": {
@@ -14345,27 +14030,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704846",
-    "name": "智通*富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704846　智通*富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048468",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048468",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704847",
     "name": "智通*富邦5B購01",
     "raw_fields": {
@@ -14378,27 +14042,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7048476",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704848",
-    "name": "順達富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704848　順達富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048484",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048484",
     "listing_date": "2026/02/04",
     "market": "上櫃",
     "industry": null,
@@ -14450,69 +14093,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704852",
-    "name": "雙鴻富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704852　雙鴻富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048526",
-      "上市日": "2026/02/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048526",
-    "listing_date": "2026/02/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704858",
-    "name": "東捷凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704858　東捷凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048583",
-      "上市日": "2026/02/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048583",
-    "listing_date": "2026/02/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704880",
-    "name": "榮剛富邦5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704880　榮剛富邦5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048807",
-      "上市日": "2026/02/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048807",
-    "listing_date": "2026/02/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704881",
     "name": "譜瑞兆豐62購01",
     "raw_fields": {
@@ -14525,27 +14105,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7048815",
-    "listing_date": "2026/02/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704893",
-    "name": "青雲永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704893　青雲永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7048930",
-      "上市日": "2026/02/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7048930",
     "listing_date": "2026/02/05",
     "market": "上櫃",
     "industry": null,
@@ -14828,27 +14387,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704911",
-    "name": "宜鼎凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704911　宜鼎凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049110",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049110",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704915",
     "name": "穩懋凱基5B購02",
     "raw_fields": {
@@ -14891,27 +14429,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704929",
-    "name": "勤凱元大5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704929　勤凱元大5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049292",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049292",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704937",
     "name": "茂迪富邦61購01",
     "raw_fields": {
@@ -14928,27 +14445,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCCE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704941",
-    "name": "印能國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704941　印能國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049417",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049417",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -15185,27 +14681,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "704957",
-    "name": "雙鴻永豐5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704957　雙鴻永豐5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049573",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049573",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "704958",
     "name": "中探針群益5C購01",
     "raw_fields": {
@@ -15218,111 +14693,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7049581",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704963",
-    "name": "協易機群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704963　協易機群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049631",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049631",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704966",
-    "name": "訊聯群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "704966　訊聯群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049664",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049664",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704968",
-    "name": "精材群益5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704968　精材群益5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049680",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049680",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704983",
-    "name": "雙鴻元富5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "704983　雙鴻元富5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049839",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049839",
-    "listing_date": "2026/02/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "704984",
-    "name": "雙鴻元富5A購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "704984　雙鴻元富5A購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7049847",
-      "上市日": "2026/02/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7049847",
     "listing_date": "2026/02/06",
     "market": "上櫃",
     "industry": null,
@@ -20162,27 +19532,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705572",
-    "name": "旺矽凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705572　旺矽凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7055729",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7055729",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705575",
     "name": "原相凱基5B購01",
     "raw_fields": {
@@ -20225,27 +19574,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705580",
-    "name": "宏觀永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705580　宏觀永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7055802",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7055802",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705581",
     "name": "良維永豐5B購01",
     "raw_fields": {
@@ -20267,27 +19595,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705583",
-    "name": "旺矽永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705583　旺矽永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7055836",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7055836",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705584",
     "name": "旺矽永豐5B購01",
     "raw_fields": {
@@ -20300,27 +19607,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7055844",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705585",
-    "name": "博磊永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705585　博磊永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7055851",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7055851",
     "listing_date": "2026/03/04",
     "market": "上櫃",
     "industry": null,
@@ -20414,90 +19700,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705600",
-    "name": "凡甲國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705600　凡甲國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056008",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056008",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705601",
-    "name": "旺矽國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705601　旺矽國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056016",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056016",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705602",
-    "name": "鑫聯國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705602　鑫聯國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056024",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056024",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705603",
-    "name": "元太國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705603　元太國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056032",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056032",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705604",
     "name": "良維國票67購01",
     "raw_fields": {
@@ -20519,27 +19721,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705605",
-    "name": "亞信國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705605　亞信國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056057",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056057",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705606",
     "name": "旺矽國票61購01",
     "raw_fields": {
@@ -20552,27 +19733,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056065",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705608",
-    "name": "是方國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705608　是方國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056081",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056081",
     "listing_date": "2026/03/04",
     "market": "上櫃",
     "industry": null,
@@ -20624,69 +19784,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705614",
-    "name": "弘塑群益5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705614　弘塑群益5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056149",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056149",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705615",
-    "name": "正基群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705615　正基群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056156",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056156",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705616",
-    "name": "宏捷科群益5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705616　宏捷科群益5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056164",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056164",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705617",
     "name": "良維群益5B購02",
     "raw_fields": {
@@ -20699,48 +19796,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056172",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705619",
-    "name": "亞信群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705619　亞信群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056198",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056198",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705620",
-    "name": "宜鼎群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705620　宜鼎群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056206",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056206",
     "listing_date": "2026/03/04",
     "market": "上櫃",
     "industry": null,
@@ -20771,48 +19826,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705622",
-    "name": "順達群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705622　順達群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056222",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056222",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705627",
-    "name": "環球晶群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705627　環球晶群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056271",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056271",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705630",
     "name": "旺矽兆豐5B購01",
     "raw_fields": {
@@ -20825,27 +19838,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056305",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705631",
-    "name": "大綜永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705631　大綜永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056313",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056313",
     "listing_date": "2026/03/05",
     "market": "上櫃",
     "industry": null,
@@ -20897,27 +19889,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705637",
-    "name": "系統電群益5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705637　系統電群益5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056370",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056370",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705638",
     "name": "宜鼎群益5B購01",
     "raw_fields": {
@@ -20939,27 +19910,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705643",
-    "name": "茂迪群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705643　茂迪群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056438",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056438",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705644",
     "name": "原相群益5C購01",
     "raw_fields": {
@@ -20972,90 +19922,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056446",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705648",
-    "name": "正基凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705648　正基凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056487",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056487",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705652",
-    "name": "宜鼎凱基5A購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "705652　宜鼎凱基5A購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056529",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056529",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705653",
-    "name": "前鼎凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705653　前鼎凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056537",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056537",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705656",
-    "name": "鉅橡凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705656　鉅橡凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056560",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056560",
     "listing_date": "2026/03/05",
     "market": "上櫃",
     "industry": null,
@@ -21119,48 +19985,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056669",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705667",
-    "name": "萬泰科國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705667　萬泰科國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056677",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056677",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705668",
-    "name": "鉅橡國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705668　鉅橡國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056685",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056685",
     "listing_date": "2026/03/05",
     "market": "上櫃",
     "industry": null,
@@ -21296,258 +20120,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705679",
-    "name": "九豪國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705679　九豪國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056792",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056792",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705680",
-    "name": "正基國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705680　正基國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056800",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056800",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705681",
-    "name": "沛亨國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705681　沛亨國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056818",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056818",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705682",
-    "name": "宜鼎國票5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705682　宜鼎國票5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056826",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056826",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705683",
-    "name": "岳豐國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705683　岳豐國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056834",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056834",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705684",
-    "name": "茂迪國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705684　茂迪國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056842",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056842",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705685",
-    "name": "茂迪國票5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705685　茂迪國票5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056859",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056859",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705686",
-    "name": "晟德國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705686　晟德國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056867",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056867",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705690",
-    "name": "僑威國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705690　僑威國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056909",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056909",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705691",
-    "name": "聚和國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705691　聚和國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056917",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056917",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705692",
-    "name": "臺慶科國票5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705692　臺慶科國票5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056925",
-      "上市日": "2026/03/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056925",
-    "listing_date": "2026/03/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705694",
-    "name": "正基凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705694　正基凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056941",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056941",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705697",
     "name": "新復興凱基5B購01",
     "raw_fields": {
@@ -21560,69 +20132,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7056974",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705698",
-    "name": "鉅橡凱基5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705698　鉅橡凱基5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056982",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056982",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705699",
-    "name": "聚和凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705699　聚和凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7056990",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7056990",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705700",
-    "name": "寶雅凱基5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705700　寶雅凱基5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057006",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057006",
     "listing_date": "2026/03/06",
     "market": "上櫃",
     "industry": null,
@@ -21653,27 +20162,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705704",
-    "name": "昱展國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705704　昱展國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057048",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057048",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705705",
     "name": "新復興國票5B購01",
     "raw_fields": {
@@ -21686,90 +20174,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7057055",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705706",
-    "name": "萬泰科國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705706　萬泰科國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057063",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057063",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705707",
-    "name": "德勝國票5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705707　德勝國票5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057071",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057071",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705708",
-    "name": "正基國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705708　正基國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057089",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057089",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705709",
-    "name": "勤凱國泰5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705709　勤凱國泰5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057097",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057097",
     "listing_date": "2026/03/06",
     "market": "上櫃",
     "industry": null,
@@ -21884,27 +20288,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705727",
-    "name": "九豪群益5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705727　九豪群益5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057279",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057279",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705728",
     "name": "台特化群益62購01",
     "raw_fields": {
@@ -21917,27 +20300,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7057287",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705729",
-    "name": "正基群益5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "705729　正基群益5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057295",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057295",
     "listing_date": "2026/03/06",
     "market": "上櫃",
     "industry": null,
@@ -22031,27 +20393,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "705740",
-    "name": "陽程永豐5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705740　陽程永豐5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057402",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057402",
-    "listing_date": "2026/03/06",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "705753",
     "name": "晟德凱基5A購01",
     "raw_fields": {
@@ -22064,27 +20405,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7057535",
-    "listing_date": "2026/03/09",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "705754",
-    "name": "精材凱基61購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "705754　精材凱基61購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7057543",
-      "上市日": "2026/03/09",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7057543",
     "listing_date": "2026/03/09",
     "market": "上櫃",
     "industry": null,
@@ -100214,27 +98534,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "710189",
-    "name": "台半元大5C購08",
-    "raw_fields": {
-      "有價證券代號及名稱": "710189　台半元大5C購08",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7101895",
-      "上市日": "2026/06/24",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7101895",
-    "listing_date": "2026/06/24",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "710190",
     "name": "宜鼎元大5C購14",
     "raw_fields": {
@@ -101402,27 +99701,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7102455",
-    "listing_date": "2026/06/25",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "710246",
-    "name": "台半元大5C購09",
-    "raw_fields": {
-      "有價證券代號及名稱": "710246　台半元大5C購09",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7102463",
-      "上市日": "2026/06/25",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7102463",
     "listing_date": "2026/06/25",
     "market": "上櫃",
     "industry": null,
@@ -104972,27 +103250,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7104162",
-    "listing_date": "2026/06/30",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "710417",
-    "name": "巨有國票5C購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "710417　巨有國票5C購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7104170",
-      "上市日": "2026/06/30",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7104170",
     "listing_date": "2026/06/30",
     "market": "上櫃",
     "industry": null,
@@ -116384,27 +114641,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "710967",
-    "name": "晶焱元大61購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "710967　晶焱元大61購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7109674",
-      "上市日": "2026/07/09",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7109674",
-    "listing_date": "2026/07/09",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "710968",
     "name": "翔名元大61購01",
     "raw_fields": {
@@ -117404,27 +115640,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7110177",
-    "listing_date": "2026/07/13",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711018",
-    "name": "茂達元大61購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "711018　茂達元大61購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7110185",
-      "上市日": "2026/07/13",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7110185",
     "listing_date": "2026/07/13",
     "market": "上櫃",
     "industry": null,
@@ -120512,27 +118727,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7111670",
-    "listing_date": "2026/07/15",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711168",
-    "name": "茂達元大61購04",
-    "raw_fields": {
-      "有價證券代號及名稱": "711168　茂達元大61購04",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7111688",
-      "上市日": "2026/07/15",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7111688",
     "listing_date": "2026/07/15",
     "market": "上櫃",
     "industry": null,
@@ -124259,27 +122453,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "711349",
-    "name": "雙鴻凱基63購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "711349　雙鴻凱基63購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7113494",
-      "上市日": "2026/07/20",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7113494",
-    "listing_date": "2026/07/20",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "711350",
     "name": "中光電元大61購11",
     "raw_fields": {
@@ -124355,27 +122528,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7113536",
-    "listing_date": "2026/07/20",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711354",
-    "name": "智通*元大61購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "711354　智通*元大61購05",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7113544",
-      "上市日": "2026/07/20",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7113544",
     "listing_date": "2026/07/20",
     "market": "上櫃",
     "industry": null,
@@ -125783,27 +123935,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7114229",
-    "listing_date": "2026/07/21",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711423",
-    "name": "陽程台新61購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "711423　陽程台新61購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7114237",
-      "上市日": "2026/07/21",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7114237",
     "listing_date": "2026/07/21",
     "market": "上櫃",
     "industry": null,
@@ -127577,27 +125708,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "711508",
-    "name": "雙鴻凱基63購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "711508　雙鴻凱基63購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7115085",
-      "上市日": "2026/07/22",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7115085",
-    "listing_date": "2026/07/22",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "711509",
     "name": "千附精元大61購02",
     "raw_fields": {
@@ -129131,27 +127241,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "711585",
-    "name": "雙鴻元大63購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "711585　雙鴻元大63購03",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7115853",
-      "上市日": "2026/07/23",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7115853",
-    "listing_date": "2026/07/23",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "711586",
     "name": "千附精國泰62購02",
     "raw_fields": {
@@ -130025,27 +128114,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7116273",
-    "listing_date": "2026/07/24",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711628",
-    "name": "陽程元大61購05",
-    "raw_fields": {
-      "有價證券代號及名稱": "711628　陽程元大61購05",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7116281",
-      "上市日": "2026/07/24",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7116281",
     "listing_date": "2026/07/24",
     "market": "上櫃",
     "industry": null,
@@ -131483,27 +129551,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "711697",
-    "name": "泓格元大61購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "711697　泓格元大61購01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7116976",
-      "上市日": "2026/07/27",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7116976",
-    "listing_date": "2026/07/27",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "711698",
     "name": "家登元大61購07",
     "raw_fields": {
@@ -132848,27 +130895,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "711762",
-    "name": "雙鴻凱基61購09",
-    "raw_fields": {
-      "有價證券代號及名稱": "711762　雙鴻凱基61購09",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7117628",
-      "上市日": "2026/07/28",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7117628",
-    "listing_date": "2026/07/28",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "711763",
     "name": "中光電國票61購03",
     "raw_fields": {
@@ -132965,27 +130991,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7117677",
-    "listing_date": "2026/07/28",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711768",
-    "name": "富喬國票61購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "711768　富喬國票61購02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7117685",
-      "上市日": "2026/07/28",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7117685",
     "listing_date": "2026/07/28",
     "market": "上櫃",
     "industry": null,
@@ -134708,27 +132713,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z7118501",
-    "listing_date": "2026/07/29",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "711851",
-    "name": "雙鴻永豐61購06",
-    "raw_fields": {
-      "有價證券代號及名稱": "711851　雙鴻永豐61購06",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z7118519",
-      "上市日": "2026/07/29",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW26Z7118519",
     "listing_date": "2026/07/29",
     "market": "上櫃",
     "industry": null,
@@ -225458,6 +223442,3198 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
+    "code": "716172",
+    "name": "大綜台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716172　大綜台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161725",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161725",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716173",
+    "name": "中美晶台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716173　中美晶台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161733",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161733",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716174",
+    "name": "台半台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716174　台半台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161741",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161741",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716175",
+    "name": "台嘉碩台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716175　台嘉碩台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161758",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161758",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716176",
+    "name": "系統電台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716176　系統電台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161766",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161766",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716177",
+    "name": "金山電台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716177　金山電台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161774",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161774",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716178",
+    "name": "金山電台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716178　金山電台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161782",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161782",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716179",
+    "name": "博智台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716179　博智台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161790",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161790",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716180",
+    "name": "華容台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716180　華容台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161808",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161808",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716181",
+    "name": "閎康台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716181　閎康台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161816",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161816",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716182",
+    "name": "閎康台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716182　閎康台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161824",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161824",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716183",
+    "name": "勤凱台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716183　勤凱台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161832",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161832",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716184",
+    "name": "聖暉*台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716184　聖暉*台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161840",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161840",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716185",
+    "name": "聖暉*台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716185　聖暉*台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161857",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161857",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716186",
+    "name": "臺慶科台新64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716186　臺慶科台新64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161865",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161865",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716187",
+    "name": "臺慶科台新64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716187　臺慶科台新64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161873",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161873",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716188",
+    "name": "穩懋台新64購05",
+    "raw_fields": {
+      "有價證券代號及名稱": "716188　穩懋台新64購05",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161881",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161881",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716189",
+    "name": "穩懋台新64購06",
+    "raw_fields": {
+      "有價證券代號及名稱": "716189　穩懋台新64購06",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161899",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161899",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716190",
+    "name": "大綜元大64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716190　大綜元大64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161907",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161907",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716191",
+    "name": "中美晶元大64購09",
+    "raw_fields": {
+      "有價證券代號及名稱": "716191　中美晶元大64購09",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161915",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161915",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716192",
+    "name": "中美晶元大67購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716192　中美晶元大67購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161923",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161923",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716193",
+    "name": "天品元大64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716193　天品元大64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161931",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161931",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716194",
+    "name": "世界元大64購11",
+    "raw_fields": {
+      "有價證券代號及名稱": "716194　世界元大64購11",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161949",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161949",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716195",
+    "name": "均華元大64購07",
+    "raw_fields": {
+      "有價證券代號及名稱": "716195　均華元大64購07",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161956",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161956",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716196",
+    "name": "系統電元大64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716196　系統電元大64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161964",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161964",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716197",
+    "name": "系統電元大64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716197　系統電元大64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161972",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161972",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716198",
+    "name": "系統電元大64購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716198　系統電元大64購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161980",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161980",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716199",
+    "name": "宜鼎元大6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716199　宜鼎元大6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7161998",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7161998",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716200",
+    "name": "昇達科元大64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716200　昇達科元大64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162004",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162004",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716201",
+    "name": "昇達科元大64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716201　昇達科元大64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162012",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162012",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716202",
+    "name": "欣銓元大64購09",
+    "raw_fields": {
+      "有價證券代號及名稱": "716202　欣銓元大64購09",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162020",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162020",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716203",
+    "name": "威剛元大64購07",
+    "raw_fields": {
+      "有價證券代號及名稱": "716203　威剛元大64購07",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162038",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162038",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716204",
+    "name": "威剛元大64購08",
+    "raw_fields": {
+      "有價證券代號及名稱": "716204　威剛元大64購08",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162046",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162046",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716205",
+    "name": "茂綸元大64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716205　茂綸元大64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162053",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162053",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716206",
+    "name": "茂綸元大66購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716206　茂綸元大66購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162061",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162061",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716207",
+    "name": "華容元大64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716207　華容元大64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162079",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162079",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716208",
+    "name": "華容元大64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716208　華容元大64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162087",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162087",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716209",
+    "name": "華容元大64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716209　華容元大64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162095",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162095",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716210",
+    "name": "鈊象元大64購08",
+    "raw_fields": {
+      "有價證券代號及名稱": "716210　鈊象元大64購08",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162103",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162103",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716211",
+    "name": "群聯元大64購21",
+    "raw_fields": {
+      "有價證券代號及名稱": "716211　群聯元大64購21",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162111",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162111",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716212",
+    "name": "群聯元大64購22",
+    "raw_fields": {
+      "有價證券代號及名稱": "716212　群聯元大64購22",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162129",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162129",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716213",
+    "name": "鈺創元大64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716213　鈺創元大64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162137",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162137",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716214",
+    "name": "大中群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716214　大中群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162145",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162145",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716215",
+    "name": "大中群益64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716215　大中群益64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162152",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162152",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716216",
+    "name": "大綜群益64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716216　大綜群益64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162160",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162160",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716217",
+    "name": "大綜群益65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716217　大綜群益65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162178",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162178",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716218",
+    "name": "天品群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716218　天品群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162186",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162186",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716219",
+    "name": "宏捷科群益64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716219　宏捷科群益64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162194",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162194",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716220",
+    "name": "系統電群益64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716220　系統電群益64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162202",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162202",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716221",
+    "name": "宜鼎群益64購06",
+    "raw_fields": {
+      "有價證券代號及名稱": "716221　宜鼎群益64購06",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162210",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162210",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716222",
+    "name": "欣銓群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716222　欣銓群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162228",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162228",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716223",
+    "name": "捷創群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716223　捷創群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162236",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162236",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716224",
+    "name": "凱崴群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716224　凱崴群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162244",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162244",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716225",
+    "name": "翔名群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716225　翔名群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162251",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162251",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716226",
+    "name": "華容群益64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716226　華容群益64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162269",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162269",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716227",
+    "name": "華容群益64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716227　華容群益64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162277",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162277",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716228",
+    "name": "順達群益64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716228　順達群益64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162285",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162285",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716229",
+    "name": "頎邦群益66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716229　頎邦群益66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162293",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162293",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716230",
+    "name": "營邦群益64購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716230　營邦群益64購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162301",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162301",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716231",
+    "name": "穩懋群益64購08",
+    "raw_fields": {
+      "有價證券代號及名稱": "716231　穩懋群益64購08",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162319",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162319",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716232",
+    "name": "九暘凱基64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716232　九暘凱基64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162327",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162327",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716233",
+    "name": "中美晶凱基64購10",
+    "raw_fields": {
+      "有價證券代號及名稱": "716233　中美晶凱基64購10",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162335",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162335",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716234",
+    "name": "中美晶凱基65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716234　中美晶凱基65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162343",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162343",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716235",
+    "name": "天品凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716235　天品凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162350",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162350",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716236",
+    "name": "世界凱基66購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716236　世界凱基66購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162368",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162368",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716237",
+    "name": "台特化凱基64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716237　台特化凱基64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162376",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162376",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716238",
+    "name": "正淩凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716238　正淩凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162384",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162384",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716239",
+    "name": "印能凱基64購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716239　印能凱基64購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162392",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162392",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716240",
+    "name": "印能凱基64購05",
+    "raw_fields": {
+      "有價證券代號及名稱": "716240　印能凱基64購05",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162400",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162400",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716241",
+    "name": "均華凱基67購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716241　均華凱基67購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162418",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162418",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716242",
+    "name": "良維凱基67購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716242　良維凱基67購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162426",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162426",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716243",
+    "name": "佳邦凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716243　佳邦凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162434",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162434",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716244",
+    "name": "宜鼎凱基65購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716244　宜鼎凱基65購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162442",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162442",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716245",
+    "name": "昇達科凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716245　昇達科凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162459",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162459",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716246",
+    "name": "東捷凱基64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716246　東捷凱基64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162467",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162467",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716247",
+    "name": "欣銓凱基66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716247　欣銓凱基66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162475",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162475",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716248",
+    "name": "茂綸凱基67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716248　茂綸凱基67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162483",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162483",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716249",
+    "name": "富喬凱基6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716249　富喬凱基6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162491",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162491",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716250",
+    "name": "華宏凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716250　華宏凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162509",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162509",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716251",
+    "name": "華宏凱基65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716251　華宏凱基65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162517",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162517",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716252",
+    "name": "華容凱基64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716252　華容凱基64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162525",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162525",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716253",
+    "name": "勤凱凱基64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716253　勤凱凱基64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162533",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162533",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716254",
+    "name": "臺慶科凱基64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716254　臺慶科凱基64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162541",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162541",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716255",
+    "name": "營邦凱基6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716255　營邦凱基6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162558",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162558",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716256",
+    "name": "穩懋凱基64購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716256　穩懋凱基64購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162566",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162566",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716257",
+    "name": "穩懋凱基65購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716257　穩懋凱基65購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162574",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162574",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716258",
+    "name": "穩懋凱基66購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716258　穩懋凱基66購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162582",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162582",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716259",
+    "name": "穩懋凱基66購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716259　穩懋凱基66購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162590",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162590",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716260",
+    "name": "穩懋凱基71購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716260　穩懋凱基71購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162608",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162608",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716261",
+    "name": "千如國票6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716261　千如國票6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162616",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162616",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716262",
+    "name": "大綜國票64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716262　大綜國票64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162624",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162624",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716263",
+    "name": "合一國票68購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716263　合一國票68購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162632",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162632",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716264",
+    "name": "風青國票67購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716264　風青國票67購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162640",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162640",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716265",
+    "name": "原相國票66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716265　原相國票66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162657",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162657",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716266",
+    "name": "翔名國票67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716266　翔名國票67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162665",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162665",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716267",
+    "name": "華容國票66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716267　華容國票66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162673",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162673",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716268",
+    "name": "華容國票68購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716268　華容國票68購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162681",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162681",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716269",
+    "name": "新鼎國票6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716269　新鼎國票6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162699",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162699",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716270",
+    "name": "擎邦國票68購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716270　擎邦國票68購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162707",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162707",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716271",
+    "name": "穩懋國票6C購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716271　穩懋國票6C購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162715",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162715",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716272",
+    "name": "中美晶中信68購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716272　中美晶中信68購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162723",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162723",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716273",
+    "name": "穩懋中信68購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716273　穩懋中信68購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162731",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162731",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716274",
+    "name": "千如永豐64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716274　千如永豐64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162749",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162749",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716275",
+    "name": "天品永豐67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716275　天品永豐67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162756",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162756",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716276",
+    "name": "世界永豐64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716276　世界永豐64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162764",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162764",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716277",
+    "name": "世界永豐64購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716277　世界永豐64購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162772",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162772",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716278",
+    "name": "竹陞永豐67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716278　竹陞永豐67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162780",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162780",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716279",
+    "name": "宜鼎永豐65購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716279　宜鼎永豐65購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162798",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162798",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716280",
+    "name": "威剛永豐65購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716280　威剛永豐65購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162806",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162806",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716281",
+    "name": "翔名永豐65購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716281　翔名永豐65購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162814",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162814",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716282",
+    "name": "華容永豐64購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716282　華容永豐64購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162822",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162822",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716283",
+    "name": "華容永豐65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716283　華容永豐65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162830",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162830",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716284",
+    "name": "華容永豐66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716284　華容永豐66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162848",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162848",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716285",
+    "name": "陽程永豐64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716285　陽程永豐64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162855",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162855",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716286",
+    "name": "鉅橡永豐65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716286　鉅橡永豐65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162863",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162863",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716287",
+    "name": "頎邦永豐65購04",
+    "raw_fields": {
+      "有價證券代號及名稱": "716287　頎邦永豐65購04",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162871",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162871",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716288",
+    "name": "穩懋永豐64購05",
+    "raw_fields": {
+      "有價證券代號及名稱": "716288　穩懋永豐64購05",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162889",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162889",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716289",
+    "name": "鑫科永豐65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716289　鑫科永豐65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162897",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162897",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716290",
+    "name": "大綜統一7A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716290　大綜統一7A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162905",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162905",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716291",
+    "name": "天品統一6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716291　天品統一6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162913",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162913",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716292",
+    "name": "台特化統一6A購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716292　台特化統一6A購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162921",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162921",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716293",
+    "name": "合一統一7A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716293　合一統一7A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162939",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162939",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716294",
+    "name": "合一統一7A購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716294　合一統一7A購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162947",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162947",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716295",
+    "name": "均豪統一69購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716295　均豪統一69購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162954",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162954",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716296",
+    "name": "南俊統一7A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716296　南俊統一7A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162962",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162962",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716297",
+    "name": "富強鑫統一6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716297　富強鑫統一6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162970",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162970",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716298",
+    "name": "華宏統一7A購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716298　華宏統一7A購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162988",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162988",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716299",
+    "name": "瑞耘統一6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716299　瑞耘統一6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7162996",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7162996",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716300",
+    "name": "頎邦統一6A購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716300　頎邦統一6A購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163002",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163002",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716301",
+    "name": "德微統一7A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716301　德微統一7A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163010",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163010",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716302",
+    "name": "擎邦統一7A購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716302　擎邦統一7A購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163028",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163028",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716303",
+    "name": "穩懋統一74購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716303　穩懋統一74購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163036",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163036",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716304",
+    "name": "世界國泰65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716304　世界國泰65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163044",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163044",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716305",
+    "name": "台嘉碩國泰65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716305　台嘉碩國泰65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163051",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163051",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716306",
+    "name": "均豪國泰66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716306　均豪國泰66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163069",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163069",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716307",
+    "name": "欣銓國泰65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716307　欣銓國泰65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163077",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163077",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716308",
+    "name": "華容國泰65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716308　華容國泰65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163085",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163085",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716309",
+    "name": "漢測國泰65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716309　漢測國泰65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163093",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163093",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716310",
+    "name": "漢測國泰65購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716310　漢測國泰65購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163101",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCA",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163101",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCA",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716311",
+    "name": "大綜富邦64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716311　大綜富邦64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163119",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163119",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716312",
+    "name": "元太富邦65購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716312　元太富邦65購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163127",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163127",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716313",
+    "name": "台半富邦66購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716313　台半富邦66購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163135",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163135",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716314",
+    "name": "台半富邦67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716314　台半富邦67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163143",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163143",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716315",
+    "name": "系統電富邦65購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716315　系統電富邦65購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163150",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163150",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716316",
+    "name": "昇達科富邦64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716316　昇達科富邦64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163168",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163168",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716317",
+    "name": "威剛富邦64購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716317　威剛富邦64購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163176",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163176",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716318",
+    "name": "威剛富邦66購02",
+    "raw_fields": {
+      "有價證券代號及名稱": "716318　威剛富邦66購02",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163184",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163184",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716319",
+    "name": "竑騰富邦66購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716319　竑騰富邦66購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163192",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163192",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716320",
+    "name": "家登富邦67購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716320　家登富邦67購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163200",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163200",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716321",
+    "name": "富喬富邦6A購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716321　富喬富邦6A購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163218",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163218",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716322",
+    "name": "德微富邦64購01",
+    "raw_fields": {
+      "有價證券代號及名稱": "716322　德微富邦64購01",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163226",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163226",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "716323",
+    "name": "穩懋富邦65購03",
+    "raw_fields": {
+      "有價證券代號及名稱": "716323　穩懋富邦65購03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z7163234",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCCE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z7163234",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCCE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
     "code": "72400U",
     "name": "博智群益5A售02",
     "raw_fields": {
@@ -225542,27 +226718,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "724979",
-    "name": "鈊象統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "724979　鈊象統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW24Z7249798",
-      "上市日": "2024/10/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW24Z7249798",
-    "listing_date": "2024/10/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "72501U",
     "name": "雙鴻中信5B售02",
     "raw_fields": {
@@ -225579,27 +226734,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "725048",
-    "name": "原相統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "725048　原相統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW24Z7250481",
-      "上市日": "2024/10/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW24Z7250481",
-    "listing_date": "2024/10/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
     "remarks": null
   },
   {
@@ -226298,27 +227432,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "72781U",
-    "name": "系統電國票5A售01",
-    "raw_fields": {
-      "有價證券代號及名稱": "72781U　系統電國票5A售01",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z72781U3",
-      "上市日": "2026/03/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z72781U3",
-    "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "72782U",
     "name": "環球晶群益62售01",
     "raw_fields": {
@@ -226332,27 +227445,6 @@
     },
     "isin_code": "TW26Z72782U1",
     "listing_date": "2026/03/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "72785U",
-    "name": "旺矽富邦5A售02",
-    "raw_fields": {
-      "有價證券代號及名稱": "72785U　旺矽富邦5A售02",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z72785U4",
-      "上市日": "2026/03/06",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z72785U4",
-    "listing_date": "2026/03/06",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCPE",
@@ -227507,27 +228599,6 @@
       "備註": ""
     },
     "isin_code": "TW26Z72869U6",
-    "listing_date": "2026/04/30",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCPE",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "72870U",
-    "name": "群聯國票5B售06",
-    "raw_fields": {
-      "有價證券代號及名稱": "72870U　群聯國票5B售06",
-      "國際證券辨識號碼(ISIN Code)": "TW26Z72870U4",
-      "上市日": "2026/04/30",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCPE",
-      "備註": ""
-    },
-    "isin_code": "TW26Z72870U4",
     "listing_date": "2026/04/30",
     "market": "上櫃",
     "industry": null,
@@ -234320,6 +235391,48 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
+    "code": "73176U",
+    "name": "穩懋國票64售03",
+    "raw_fields": {
+      "有價證券代號及名稱": "73176U　穩懋國票64售03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z73176U5",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCPE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z73176U5",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCPE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
+    "code": "73177U",
+    "name": "穩懋國票69售03",
+    "raw_fields": {
+      "有價證券代號及名稱": "73177U　穩懋國票69售03",
+      "國際證券辨識號碼(ISIN Code)": "TW26Z73177U3",
+      "上市日": "2026/10/07",
+      "市場別": "上櫃",
+      "產業別": "",
+      "CFICode": "RWSCPE",
+      "備註": ""
+    },
+    "isin_code": "TW26Z73177U3",
+    "listing_date": "2026/10/07",
+    "market": "上櫃",
+    "industry": null,
+    "cfi_code": "RWSCPE",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "上櫃認購(售)權證",
     "code": "732269",
     "name": "M31統一63購01",
     "raw_fields": {
@@ -235454,27 +236567,6 @@
   {
     "str_mode": 4,
     "category": "上櫃認購(售)權證",
-    "code": "735654",
-    "name": "信紘科統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "735654　信紘科統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7356541",
-      "上市日": "2025/07/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7356541",
-    "listing_date": "2025/07/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
     "code": "735658",
     "name": "彩富統一5B購01",
     "raw_fields": {
@@ -235530,27 +236622,6 @@
     },
     "isin_code": "TW25Z7356608",
     "listing_date": "2025/07/07",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "735661",
-    "name": "富喬統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "735661　富喬統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7356616",
-      "上市日": "2025/07/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7356616",
-    "listing_date": "2025/07/04",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCCA",
@@ -236412,69 +237483,6 @@
     },
     "isin_code": "TW25Z7370864",
     "listing_date": "2025/08/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "737088",
-    "name": "富喬統一5A購02",
-    "raw_fields": {
-      "有價證券代號及名稱": "737088　富喬統一5A購02",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7370880",
-      "上市日": "2025/08/04",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7370880",
-    "listing_date": "2025/08/04",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "737153",
-    "name": "正基統一5A購01",
-    "raw_fields": {
-      "有價證券代號及名稱": "737153　正基統一5A購01",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7371532",
-      "上市日": "2025/08/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7371532",
-    "listing_date": "2025/08/05",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "RWSCCA",
-    "remarks": null
-  },
-  {
-    "str_mode": 4,
-    "category": "上櫃認購(售)權證",
-    "code": "737161",
-    "name": "富喬統一5A購03",
-    "raw_fields": {
-      "有價證券代號及名稱": "737161　富喬統一5A購03",
-      "國際證券辨識號碼(ISIN Code)": "TW25Z7371615",
-      "上市日": "2025/08/05",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "RWSCCA",
-      "備註": ""
-    },
-    "isin_code": "TW25Z7371615",
-    "listing_date": "2025/08/05",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "RWSCCA",
@@ -254703,6 +255711,27 @@
     },
     "isin_code": "TW0006603004",
     "listing_date": "2004/04/05",
+    "market": "上櫃",
+    "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 4,
+    "category": "股票",
+    "code": "6604",
+    "name": "儒億",
+    "raw_fields": {
+      "有價證券代號及名稱": "6604　儒億",
+      "國際證券辨識號碼(ISIN Code)": "TW0006604002",
+      "上市日": "2026/10/06",
+      "市場別": "上櫃",
+      "產業別": "電機機械",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0006604002",
+    "listing_date": "2026/10/06",
     "market": "上櫃",
     "industry": "電機機械",
     "cfi_code": "ESVUFR",
