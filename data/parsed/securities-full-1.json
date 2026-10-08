@@ -3897,6 +3897,25 @@
   {
     "str_mode": 1,
     "category": null,
+    "code": "7874",
+    "name": "禾碩康-KY",
+    "raw_fields": {
+      "有價證券代號及名稱": "7874　禾碩康-KY",
+      "國際證券辨識號碼(ISIN Code)": "KYG6S85T1040",
+      "公開發行日": "2026/10/08",
+      "產業別": "其他業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "KYG6S85T1040",
+    "public_offering_date": "2026/10/08",
+    "industry": "其他業",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
     "code": "7884",
     "name": "勤億蛋品",
     "raw_fields": {
@@ -3967,6 +3986,25 @@
     "isin_code": "TW0007952004",
     "public_offering_date": "2026/08/25",
     "industry": "電機機械",
+    "cfi_code": "ESVUFR",
+    "remarks": null
+  },
+  {
+    "str_mode": 1,
+    "category": null,
+    "code": "7954",
+    "name": "鑫詮科技",
+    "raw_fields": {
+      "有價證券代號及名稱": "7954　鑫詮科技",
+      "國際證券辨識號碼(ISIN Code)": "TW0007954000",
+      "公開發行日": "2026/10/08",
+      "產業別": "電子工業",
+      "CFICode": "ESVUFR",
+      "備註": ""
+    },
+    "isin_code": "TW0007954000",
+    "public_offering_date": "2026/10/08",
+    "industry": "電子工業",
     "cfi_code": "ESVUFR",
     "remarks": null
   },

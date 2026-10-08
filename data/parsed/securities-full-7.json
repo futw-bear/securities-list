@@ -11664,6 +11664,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0803D",
+    "name": "玉山金滿意證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0803D　玉山金滿意證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0803D8",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0803D8",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0803Y",
     "name": "ＰＧＩＭ保德信金滿意證券投資",
     "raw_fields": {
@@ -11726,6 +11743,23 @@
     },
     "isin_code": "TW000T0806Y7",
     "issue_date": "1996/09/16",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0808B",
+    "name": "玉山科技島證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0808B　玉山科技島證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0808B1",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0808B1",
+    "issue_date": "2026/09/21",
     "cfi_code": "CIOGEU",
     "remarks": "於//登錄櫃檯買賣"
   },
@@ -11817,6 +11851,23 @@
   {
     "str_mode": 7,
     "category": null,
+    "code": "T0810C",
+    "name": "玉山中小型股證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0810C　玉山中小型股證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0810C5",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOGEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0810C5",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
     "code": "T0810Y",
     "name": "ＰＧＩＭ保德信中小型股證券投",
     "raw_fields": {
@@ -11880,6 +11931,23 @@
     "isin_code": "TW000T0812C1",
     "issue_date": "2026/09/21",
     "cfi_code": "CIOGEU",
+    "remarks": "於//登錄櫃檯買賣"
+  },
+  {
+    "str_mode": 7,
+    "category": null,
+    "code": "T0812D",
+    "name": "玉山新世紀證券投資信託基金",
+    "raw_fields": {
+      "有價證券代號及名稱": "T0812D　玉山新世紀證券投資信託基金",
+      "國際證券辨識號碼(ISIN Code)": "TW000T0812D9",
+      "發行日": "2026/09/21",
+      "CFICode": "CIOIEU",
+      "備註": "於//登錄櫃檯買賣"
+    },
+    "isin_code": "TW000T0812D9",
+    "issue_date": "2026/09/21",
+    "cfi_code": "CIOIEU",
     "remarks": "於//登錄櫃檯買賣"
   },
   {
