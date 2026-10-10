@@ -33434,27 +33434,6 @@
   {
     "str_mode": 6,
     "category": "日本東證期貨",
-    "code": "TJFJ6",
-    "name": "東證期貨2026/10",
-    "raw_fields": {
-      "有價證券代號及名稱": "TJFJ6　東證期貨2026/10",
-      "國際證券辨識號碼(ISIN Code)": "TW000TJFJ600",
-      "上市日": "2026/08/14",
-      "市場別": "期貨及選擇權",
-      "產業別": "",
-      "CFICode": "FFICSX",
-      "備註": ""
-    },
-    "isin_code": "TW000TJFJ600",
-    "listing_date": "2026/08/14",
-    "market": "期貨及選擇權",
-    "industry": null,
-    "cfi_code": "FFICSX",
-    "remarks": null
-  },
-  {
-    "str_mode": 6,
-    "category": "日本東證期貨",
     "code": "TJFK6",
     "name": "東證期貨2026/11",
     "raw_fields": {

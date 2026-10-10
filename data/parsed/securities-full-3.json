@@ -12477,31 +12477,6 @@
   {
     "str_mode": 3,
     "category": "公司債",
-    "code": "B60438",
-    "name": "P10華新1",
-    "raw_fields": {
-      "有價證券代號及名稱": "B60438　P10華新1",
-      "國際證券辨識號碼(ISIN Code)": "TW000B604388",
-      "發行日": "2021/10/08",
-      "到期日": "2026/10/08",
-      "利率值": "0.700000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B604388",
-    "issue_date": "2021/10/08",
-    "maturity_date": "2026/10/08",
-    "interest_rate": "0.700000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
     "code": "B60439",
     "name": "P12華新1A",
     "raw_fields": {
@@ -15122,31 +15097,6 @@
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFSFR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "公司債",
-    "code": "B64472",
-    "name": "P03鴻海4E",
-    "raw_fields": {
-      "有價證券代號及名稱": "B64472　P03鴻海4E",
-      "國際證券辨識號碼(ISIN Code)": "TW000B644723",
-      "發行日": "2014/10/08",
-      "到期日": "2026/10/08",
-      "利率值": "2.150000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUFR",
-      "備註": ""
-    },
-    "isin_code": "TW000B644723",
-    "issue_date": "2014/10/08",
-    "maturity_date": "2026/10/08",
-    "interest_rate": "2.150000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUFR",
     "remarks": null
   },
   {
@@ -44344,31 +44294,6 @@
     "issue_date": "2026/08/31",
     "maturity_date": "2027/09/07",
     "interest_rate": "14.830000",
-    "market": "上櫃",
-    "industry": null,
-    "cfi_code": "DBFUGR",
-    "remarks": null
-  },
-  {
-    "str_mode": 3,
-    "category": "外幣計價國際債券",
-    "code": "F012HC",
-    "name": "S26CTBC129",
-    "raw_fields": {
-      "有價證券代號及名稱": "F012HC　S26CTBC129",
-      "國際證券辨識號碼(ISIN Code)": "TW000F012HC9",
-      "發行日": "2026/09/02",
-      "到期日": "2026/10/08",
-      "利率值": "16.220000",
-      "市場別": "上櫃",
-      "產業別": "",
-      "CFICode": "DBFUGR",
-      "備註": ""
-    },
-    "isin_code": "TW000F012HC9",
-    "issue_date": "2026/09/02",
-    "maturity_date": "2026/10/08",
-    "interest_rate": "16.220000",
     "market": "上櫃",
     "industry": null,
     "cfi_code": "DBFUGR",
